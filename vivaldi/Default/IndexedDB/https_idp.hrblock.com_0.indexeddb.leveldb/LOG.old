@@ -1,0 +1,14 @@
+2020/02/02-16:19:51.495 110f Reusing MANIFEST /home/jake/.config/vivaldi/Default/IndexedDB/https_idp.hrblock.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/02/02-16:19:51.495 110f Recovering log #37
+2020/02/02-16:19:51.495 110f Reusing old log /home/jake/.config/vivaldi/Default/IndexedDB/https_idp.hrblock.com_0.indexeddb.leveldb/000037.log 
+2020/02/02-16:19:51.496 110f Delete type=2 #36
+2020/02/02-16:19:51.698 9d5 Level-0 table #42: started
+2020/02/02-16:19:51.699 9d5 Level-0 table #42: 562 bytes OK
+2020/02/02-16:19:51.701 9d5 Delete type=0 #37
+2020/02/02-16:19:51.702 9d5 Manual compaction at level-0 from '\x00\x0c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0c\x00\x00\x05' @ 216 : 1
+2020/02/02-16:19:51.702 9d5 Compacting 1@0 + 1@1 files
+2020/02/02-16:19:51.704 9d5 Generated table #43@0: 25 keys, 921 bytes
+2020/02/02-16:19:51.704 9d5 Compacted 1@0 + 1@1 files => 921 bytes
+2020/02/02-16:19:51.705 9d5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/02/02-16:19:51.706 9d5 Delete type=2 #42
+2020/02/02-16:19:51.706 9d5 Manual compaction at level-0 from '\x00\x0c\x00\x00\x05' @ 216 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at (end)

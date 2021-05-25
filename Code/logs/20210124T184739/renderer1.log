@@ -1,0 +1,48 @@
+[2021-01-24 18:47:41.550] [renderer1] [error] net::ERR_INTERNET_DISCONNECTED: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:105:6395)
+    at SimpleURLLoaderWrapper.emit (events.js:223:5)
+[2021-01-24 18:47:43.862] [renderer1] [error] Cannot read property 'write' of null: TypeError: Cannot read property 'write' of null
+    at IPCTransport.send (/home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension.js:2:16686)
+    at IPCTransport.close (/home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension.js:2:16722)
+    at RPCClient.destroy (/home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension.js:2:10534)
+    at RPCClient.dispose (/home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension.js:2:50612)
+    at activate (/home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension.js:2:53891)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+    at async Promise.all (index 9)
+    at async Promise.all (index 0)
+[2021-01-24 18:50:57.916] [renderer1] [error] net::ERR_INTERNET_DISCONNECTED: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:105:6395)
+    at SimpleURLLoaderWrapper.emit (events.js:223:5)
+[2021-01-24 18:51:00.115] [renderer1] [error] Cannot read property 'write' of null: TypeError: Cannot read property 'write' of null
+    at IPCTransport.send (/home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension.js:2:16686)
+    at IPCTransport.close (/home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension.js:2:16722)
+    at RPCClient.destroy (/home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension.js:2:10534)
+    at RPCClient.dispose (/home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension.js:2:50612)
+    at activate (/home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension.js:2:53891)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+    at async Promise.all (index 9)
+    at async Promise.all (index 0)
+[2021-01-24 18:51:00.371] [renderer1] [error] net::ERR_INTERNET_DISCONNECTED: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:105:6395)
+    at SimpleURLLoaderWrapper.emit (events.js:223:5)
+[2021-01-24 19:11:43.013] [renderer1] [error] net::ERR_INTERNET_DISCONNECTED: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:105:6395)
+    at SimpleURLLoaderWrapper.emit (events.js:223:5)
+[2021-01-24 19:11:45.069] [renderer1] [error] Cannot read property 'write' of null: TypeError: Cannot read property 'write' of null
+    at IPCTransport.send (/home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension.js:2:16686)
+    at IPCTransport.close (/home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension.js:2:16722)
+    at RPCClient.destroy (/home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension.js:2:10534)
+    at RPCClient.dispose (/home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension.js:2:50612)
+    at activate (/home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension.js:2:53891)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+    at async Promise.all (index 9)
+    at async Promise.all (index 0)
+[2021-01-24 19:19:05.994] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/jake/Documents/Coding/To Do List (Fork)/.vscode'
+[2021-01-24 19:19:05.995] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/jake/Documents/Coding/To Do List (Fork)/.vscode'
+[2021-01-24 19:19:09.473] [renderer1] [error] Cannot read property 'write' of null: TypeError: Cannot read property 'write' of null
+    at IPCTransport.send (/home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension.js:2:16686)
+    at IPCTransport.close (/home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension.js:2:16722)
+    at RPCClient.destroy (/home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension.js:2:10534)
+    at RPCClient.dispose (/home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension.js:2:50612)
+    at activate (/home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension.js:2:53891)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)

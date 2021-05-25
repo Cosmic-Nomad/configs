@@ -1,0 +1,58 @@
+[2021-02-21 16:10:47.897] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/jake/Documents/Web Development/portfolio/.vscode'
+[2021-02-21 16:10:49.564] [renderer1] [error] net::ERR_INTERNET_DISCONNECTED: Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:109:6508)
+    at SimpleURLLoaderWrapper.emit (events.js:315:20)
+[2021-02-21 16:10:57.604] [renderer1] [error] Cannot read property 'write' of null: TypeError: Cannot read property 'write' of null
+    at IPCTransport.send (/home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension.js:2:16686)
+    at IPCTransport.close (/home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension.js:2:16722)
+    at RPCClient.destroy (/home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension.js:2:10534)
+    at RPCClient.dispose (/home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension.js:2:50612)
+    at activate (/home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension.js:2:53891)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[2021-02-21 16:11:42.388] [renderer1] [warning] UNRESPONSIVE extension host, 'ritwickdey.live-sass' took 96% of 842.495ms, saved PROFILE here: '/tmp/exthost-8d6633.cpuprofile' [{"id":"gc","total":9757,"percentage":1},{"id":"program","total":2242,"percentage":0},{"id":"ritwickdey.live-sass","total":805153,"percentage":96},{"id":"ritwickdey.LiveServer","total":1906,"percentage":0},{"id":"self","total":23139,"percentage":3}]
+[2021-02-21 21:03:09.082] [renderer1] [error] Could not connect: Error: Could not connect
+    at Socket.onerror (/home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension.js:2:14854)
+    at Object.onceWrapper (events.js:422:26)
+    at Socket.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+[2021-02-21 21:03:22.935] [renderer1] [error] Cannot read property 'write' of null: TypeError: Cannot read property 'write' of null
+    at IPCTransport.send (/home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension.js:2:16686)
+    at IPCTransport.close (/home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension.js:2:16722)
+    at RPCClient.destroy (/home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension.js:2:10534)
+    at RPCClient.dispose (/home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension.js:2:50612)
+    at /home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension.js:2:52676
+    at b._executeContributedCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:86:88517)
+    at b.$executeContributedCommand (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:86:88849)
+    at p._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:10276)
+    at p._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:9968)
+    at p._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:8638)
+    at p._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:7440)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:5568
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:55:1836)
+    at d.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:63:15515)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:104:29104
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:55:1836)
+    at d.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:63:15515)
+    at t._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:63:20765)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:63:17659
+    at v.fire (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:55:1836)
+    at u.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:63:12880)
+    at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:63:12228
+    at Socket.m (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:104:12375)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9)
+    at Socket.Readable.push (_stream_readable.js:212:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:186:23)
+[2021-02-21 21:03:23.988] [renderer1] [error] connection closed: Error: connection closed
+    at IPCTransport.<anonymous> (/home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension.js:2:2984)
+    at Object.onceWrapper (events.js:422:26)
+    at IPCTransport.emit (events.js:327:22)
+    at /home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension.js:2:16588
+    at decode (/home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension.js:2:15753)
+    at Socket.<anonymous> (/home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension.js:2:16287)
+    at Socket.emit (events.js:315:20)
+    at emitReadable_ (_stream_readable.js:555:12)
+    at processTicksAndRejections (internal/process/task_queues.js:83:21)

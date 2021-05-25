@@ -1,0 +1,43 @@
+00:00:00.597046 VirtualBox GUI VM Selector Window 6.1.12 r139181 linux.amd64 (Jul 11 2020 09:09:53) release log
+00:00:00.597051 Log opened 2021-01-15T03:49:37.239389000Z
+00:00:00.597052 Build Type: release
+00:00:00.597063 OS Product: Linux
+00:00:00.597065 OS Release: 5.4.0-60-generic
+00:00:00.597067 OS Version: #67-Ubuntu SMP Tue Jan 5 18:31:36 UTC 2021
+00:00:00.597144 DMI Product Name: VivoBook_ASUSLaptop X512DA_F512DA
+00:00:00.597158 DMI Product Version: 1.0       
+00:00:00.597178 Firmware type: UEFI
+00:00:00.597931 Secure Boot: Disabled
+00:00:00.598040 Host RAM: 3444MB (3.3GB) total, 1354MB available
+00:00:00.598059 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.598060 Process ID: 573600
+00:00:00.598061 Package type: LINUX_64BITS_UBUNTU_19_10
+00:00:00.598126 Qt version: 5.12.8
+00:00:00.670577 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.497685 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x20 x 1918x1058
+00:00:01.644054 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:01.673291 refreshCertificates/#1: InMem.Cert.TbsCertificate.T3.Extensions.papItems[#].ExtnValue.NameConstraints.T0.PermittedSubtrees.papItems[#]: Unexpected sequence type/flags: 0x2/0x80 (expected 0x10/0x20)
+00:00:01.676352 refreshCertificates/#3: Found 1/137 SSL certs we/you trust (previously 1/126).
+00:03:42.964885 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:10.609743 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:04:10.610125 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:04:10.655991 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:05:02.163956 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:05:02.229215 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:06:11.413584 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:07:08.724358 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:07:34.530596 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:07:34.542158 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:08:03.221382 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:10:01.793763 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:10:01.805790 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:10:34.649623 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:10:34.717750 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:11:16.102434 GUI: UIMediumEnumerator: Medium with key={{feb66ea6-7df9-4fce-96a5-4909273c5b52}} created
+00:11:16.128435 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:11:26.388559 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:11:26.408574 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:24:28.419925 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:24:39.064207 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:24:55.388680 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:28:40.666014 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0

@@ -1,0 +1,5 @@
+2020/10/10-12:11:48.199 99f Reusing MANIFEST /home/jake/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.spotify.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/10-12:13:43.044 a7a Level-0 table #5: started
+2020/10/10-12:13:43.051 a7a Level-0 table #5: 1305 bytes OK
+2020/10/10-12:13:43.053 a7a Delete type=0 #3
+2020/10/10-12:13:43.053 a7a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,9 @@
+# GIMP gimp-bucket-fill-tool options
+
+(opacity 0.90000000000000002)
+(paint-mode dissolve)
+(pattern "Pine")
+(brush-size 51)
+(brush-hardness 0.5)
+
+# end of gimp-bucket-fill-tool options

@@ -1,0 +1,30 @@
+2020/11/23-00:39:45.793 23460 Reusing MANIFEST /home/jake/.config/vivaldi/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2020/11/23-00:39:45.794 23460 Recovering log #455
+2020/11/23-00:39:45.817 23460 Reusing old log /home/jake/.config/vivaldi/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000455.log 
+2020/11/23-00:44:49.992 23925 Level-0 table #463: started
+2020/11/23-00:44:50.033 23925 Level-0 table #463: 2705384 bytes OK
+2020/11/23-00:44:50.035 23925 Delete type=0 #455
+2020/11/23-01:00:54.252 245bf Level-0 table #465: started
+2020/11/23-01:00:54.314 245bf Level-0 table #465: 2233328 bytes OK
+2020/11/23-01:00:54.317 245bf Delete type=0 #462
+2020/11/23-01:13:56.285 24e6e Level-0 table #467: started
+2020/11/23-01:13:56.311 24e6e Level-0 table #467: 1606240 bytes OK
+2020/11/23-01:13:56.314 24e6e Delete type=0 #464
+2020/11/23-01:13:56.544 24e6e Level-0 table #469: started
+2020/11/23-01:13:56.582 24e6e Level-0 table #469: 2812381 bytes OK
+2020/11/23-01:13:56.583 24e6e Delete type=0 #466
+2020/11/23-01:13:56.584 2513d Compacting 4@0 + 4@1 files
+2020/11/23-01:13:56.643 2513d Generated table #470@0: 21 keys, 2324132 bytes
+2020/11/23-01:13:56.686 2513d Generated table #471@0: 14 keys, 2514562 bytes
+2020/11/23-01:13:56.729 2513d Generated table #472@0: 4 keys, 2807578 bytes
+2020/11/23-01:13:56.749 2513d Generated table #473@0: 32 keys, 655921 bytes
+2020/11/23-01:13:56.749 2513d Compacted 4@0 + 4@1 files => 8302193 bytes
+2020/11/23-01:13:56.751 2513d compacted to: files[ 0 4 1 0 0 0 0 ]
+2020/11/23-01:13:56.751 2513d Delete type=2 #463
+2020/11/23-01:13:56.751 2513d Delete type=2 #469
+2020/11/23-01:13:56.751 2513d Delete type=2 #460
+2020/11/23-01:13:56.751 2513d Delete type=2 #457
+2020/11/23-01:13:56.751 2513d Delete type=2 #458
+2020/11/23-01:13:56.751 2513d Delete type=2 #467
+2020/11/23-01:13:56.751 2513d Delete type=2 #465
+2020/11/23-01:13:56.751 2513d Delete type=2 #459

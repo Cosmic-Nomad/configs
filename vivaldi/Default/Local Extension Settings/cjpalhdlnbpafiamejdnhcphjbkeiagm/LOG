@@ -1,0 +1,31 @@
+2021/01/25-12:15:42.140 1514b Reusing MANIFEST /home/jake/.config/vivaldi/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2021/01/25-12:15:42.140 1514b Recovering log #468
+2021/01/25-12:15:42.229 1514b Reusing old log /home/jake/.config/vivaldi/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000468.log 
+2021/01/25-12:15:53.371 15106 Level-0 table #476: started
+2021/01/25-12:15:53.469 15106 Level-0 table #476: 2048620 bytes OK
+2021/01/25-12:15:53.473 15106 Delete type=0 #468
+2021/01/25-12:20:59.621 1569e Level-0 table #478: started
+2021/01/25-12:20:59.656 1569e Level-0 table #478: 1783943 bytes OK
+2021/01/25-12:20:59.692 1569e Delete type=0 #475
+2021/01/25-12:27:01.900 16bfa Level-0 table #480: started
+2021/01/25-12:27:01.930 16bfa Level-0 table #480: 1606353 bytes OK
+2021/01/25-12:27:01.933 16bfa Delete type=0 #477
+2021/01/25-12:39:06.741 16bfa Level-0 table #482: started
+2021/01/25-12:39:06.764 16bfa Level-0 table #482: 1363742 bytes OK
+2021/01/25-12:39:06.767 16bfa Delete type=0 #479
+2021/01/25-12:39:06.768 18c9a Compacting 4@0 + 4@1 files
+2021/01/25-12:39:06.854 18c9a Generated table #483@0: 25 keys, 2749353 bytes
+2021/01/25-12:39:06.902 18c9a Generated table #484@0: 46 keys, 1065507 bytes
+2021/01/25-12:39:06.902 18c9a Compacted 4@0 + 4@1 files => 3814860 bytes
+2021/01/25-12:39:06.904 18c9a compacted to: files[ 0 2 1 0 0 0 0 ]
+2021/01/25-12:39:06.904 18c9a Delete type=2 #471
+2021/01/25-12:39:06.904 18c9a Delete type=2 #472
+2021/01/25-12:39:06.904 18c9a Delete type=2 #482
+2021/01/25-12:39:06.904 18c9a Delete type=2 #473
+2021/01/25-12:39:06.904 18c9a Delete type=2 #476
+2021/01/25-12:39:06.904 18c9a Delete type=2 #470
+2021/01/25-12:39:06.904 18c9a Delete type=2 #480
+2021/01/25-12:39:06.904 18c9a Delete type=2 #478
+2021/01/25-12:50:10.640 18c9a Level-0 table #486: started
+2021/01/25-12:50:10.682 18c9a Level-0 table #486: 1714234 bytes OK
+2021/01/25-12:50:10.685 18c9a Delete type=0 #481

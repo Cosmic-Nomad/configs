@@ -1,0 +1,7 @@
+2021/01/13-13:29:49.276 18fe Recovering log #3
+2021/01/13-13:29:49.605 18fe Level-0 table #5: started
+2021/01/13-13:29:49.725 18fe Level-0 table #5: 2785958 bytes OK
+2021/01/13-13:29:49.732 18fe Recovering log #6
+2021/01/13-13:29:49.738 18fe Delete type=3 #2
+2021/01/13-13:29:49.738 18fe Delete type=0 #6
+2021/01/13-13:29:49.738 18fe Delete type=0 #3

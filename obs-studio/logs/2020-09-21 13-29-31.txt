@@ -1,0 +1,31 @@
+01:29:31 PM.525: CPU Name: AMD Ryzen 3 3200U with Radeon Vega Mobile Gfx
+01:29:31 PM.525: CPU Speed: 2945.209MHz
+01:29:31 PM.526: Physical Cores: 2, Logical Cores: 4
+01:29:31 PM.526: Physical Memory: 3444MB Total, 112MB Free
+01:29:31 PM.526: Kernel Version: Linux 5.4.0-47-generic
+01:29:31 PM.528: Distribution: "Ubuntu" "20.04"
+01:29:31 PM.529: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.8
+01:29:31 PM.531: Portable mode: false
+01:29:31 PM.897: OBS 25.0.3+dfsg1-2 (linux)
+01:29:31 PM.897: ---------------------------------
+01:29:31 PM.897: ---------------------------------
+01:29:31 PM.897: audio settings reset:
+01:29:31 PM.897: 	samples per sec: 44100
+01:29:31 PM.897: 	speakers:        2
+01:29:31 PM.917: ---------------------------------
+01:29:31 PM.917: Initializing OpenGL...
+01:29:32 PM.264: Loading up OpenGL on adapter X.Org AMD RAVEN2 (DRM 3.35.0, 5.4.0-47-generic, LLVM 10.0.0)
+01:29:32 PM.267: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 20.0.8, shading language 4.60
+01:29:32 PM.674: ---------------------------------
+01:29:32 PM.677: video settings reset:
+01:29:32 PM.677: 	base resolution:   1920x1080
+01:29:32 PM.677: 	output resolution: 1920x1080
+01:29:32 PM.677: 	downscale filter:  Bicubic
+01:29:32 PM.677: 	fps:               30/1
+01:29:32 PM.677: 	format:            NV12
+01:29:32 PM.677: 	YUV mode:          601/Partial
+01:29:32 PM.679: NV12 texture support not available
+01:29:32 PM.754: Audio monitoring device:
+01:29:32 PM.754: 	name: Default
+01:29:32 PM.754: 	id: default
+01:29:32 PM.756: ---------------------------------

@@ -1,0 +1,1024 @@
+[2020-01-08 17:34:51:0252] [info] [Application opened]
+[2020-01-08 17:34:51:0254] [info] App version:  1.0.20
+[2020-01-08 17:34:51:0255] [info] Electron version:  5.0.10
+[2020-01-08 17:34:51:0255] [info] Chrome version:  73.0.3683.121
+[2020-01-08 17:34:51:0255] [info] Platform & Architecture:  linux  -  x64
+[2020-01-08 17:34:52:0497] [info] [base-window] redirect-request <url-masked>
+[2020-01-08 17:35:43:0857] [info] [Application opened]
+[2020-01-08 17:35:43:0860] [info] App version:  1.0.20
+[2020-01-08 17:35:43:0861] [info] Electron version:  5.0.10
+[2020-01-08 17:35:43:0861] [info] Chrome version:  73.0.3683.121
+[2020-01-08 17:35:43:0861] [info] Platform & Architecture:  linux  -  x64
+[2020-01-08 17:35:44:0569] [info] [base-window] redirect-request <url-masked>
+[2020-01-08 17:35:56:0915] [info] [Application opened]
+[2020-01-08 17:35:56:0920] [info] App version:  1.0.20
+[2020-01-08 17:35:56:0921] [info] Electron version:  5.0.10
+[2020-01-08 17:35:56:0921] [info] Chrome version:  73.0.3683.121
+[2020-01-08 17:35:56:0921] [info] Platform & Architecture:  linux  -  x64
+[2020-01-08 17:36:01:0063] [info] [Application opened]
+[2020-01-08 17:36:01:0068] [info] App version:  1.0.20
+[2020-01-08 17:36:01:0069] [info] Electron version:  5.0.10
+[2020-01-08 17:36:01:0069] [info] Chrome version:  73.0.3683.121
+[2020-01-08 17:36:01:0069] [info] Platform & Architecture:  linux  -  x64
+[2020-01-08 17:36:01:0833] [info] [base-window] redirect-request <url-masked>
+[2020-01-08 17:36:02:0326] [info] loginWindow did-navigate <url-masked>
+[2020-01-08 17:36:02:0327] [info] [base-window] redirect-request <url-masked>
+[2020-01-08 17:36:02:0327] [info] loginWindow did-navigate <url-masked>
+[2020-01-08 17:36:02:0327] [info] [base-window] redirect-request <url-masked>
+[2020-01-08 17:36:33:0966] [info] loginWindow will-navigate <url-masked>
+[2020-01-08 17:36:34:0011] [info] Checking for update
+[2020-01-08 17:36:34:0167] [info] Generated new staging user ID: fb1b9909-7b47-53ce-8b8e-b79a0c545073
+[2020-01-08 17:36:34:0495] [info] Update for version 1.0.20 is not available (latest version: 1.0.20, downgrade is disallowed).
+[2020-01-08 17:36:34:0562] [info] appWindow did-navigate <url-masked>
+[2020-01-08 17:36:34:0562] [info] [base-window] redirect-request <url-masked>
+[2020-01-08 17:36:34:0563] [info] appWindow did-navigate <url-masked>
+[2020-01-08 17:36:34:0563] [info] [base-window] redirect-request <url-masked>
+[2020-01-08 17:36:40:0819] [info] [renderer-console-log] Current language is en-US { message: 'Current language is en-US' }
+[2020-01-08 17:36:48:0939] [info] [base-window] redirect-request <url-masked>
+[2020-01-08 17:37:18:0228] [info] new-window <url-masked>  foreground-tab
+[2020-01-08 17:38:55:0126] [info] appWindow permission-request notifications WebContents {
+  webContents: [Circular],
+  history:
+   [ 'https://mail.zoho.com/zm/',
+     'https://mail.zoho.com/zm/#mail/folder/inbox',
+     'https://mail.zoho.com/zm/#calendar',
+     'https://mail.zoho.com/zm/#calendar' ],
+  currentIndex: 3,
+  pendingIndex: -1,
+  inPageIndex: 0,
+  _events:
+   [Object: null prototype] {
+     'navigation-entry-commited': [Function],
+     '-ipc-message': [Function],
+     '-ipc-message-sync': [Function],
+     'ipc-internal-message': [Function],
+     'ipc-internal-message-sync': [Function],
+     'pepper-context-menu': [Function],
+     'desktop-capturer-get-sources': [Function],
+     'remote-require': [Function],
+     'remote-get-global': [Function],
+     'remote-get-builtin': [Function],
+     'remote-get-current-window': [Function],
+     'remote-get-current-web-contents': [Function],
+     'remote-get-guest-web-contents': [Function],
+     '-did-get-response-details': [Function],
+     '-did-get-redirect-request': [Function],
+     'devtools-reload-page': [Function],
+     '-new-window': [Function],
+     '-add-new-contents': [Function],
+     'will-navigate': [ [Function], [Function: bound handleNavigate] ],
+     'did-navigate':
+      [ [Function],
+        [Function: bound handleDidNavigate],
+        [Function: bound bound handleDidNavigate] ],
+     destroyed: [ [Function], [Function] ],
+     'devtools-opened': [Function],
+     move: [Function],
+     activate: [Function],
+     'page-title-updated': [Function],
+     'context-menu': [ [Function], [Function] ],
+     'did-fail-load': [Function: bound handleFailLoad],
+     'will-prevent-unload': [Function: bound handlePreventUnload],
+     'new-window': [Function: bound handleNewWindow],
+     'render-view-deleted': [Function: listener] },
+  _eventsCount: 30,
+  _maxListeners: 0,
+  capturePage: [Function],
+  hasServiceWorker: [Function],
+  unregisterServiceWorker: [Function],
+  browserWindowOptions:
+   { center: true,
+     autoHideMenuBar: false,
+     backgroundColor: '#EEE',
+     icon:
+      '/tmp/.mount_zoho-mwhMJng/resources/app.asar/app/static/images/app-icon.png',
+     webPreferences:
+      { nodeIntegration: false,
+        plugins: true,
+        scrollBounce: false,
+        allowRunningInsecureContent: false,
+        experimentalFeatures: false,
+        experimentalCanvasFeatures: false,
+        defaultEncoding: 'UTF-8',
+        backgroundThrottling: false,
+        sandbox: false,
+        preload:
+         '/tmp/.mount_zoho-mwhMJng/resources/app.asar/app/preloadScripts/appWindowPreload.js',
+        backgroundColor: '#EEE' },
+     show: false,
+     minwidth: 640,
+     minHeight: 480 } } { isMainFrame: true,
+  requestingUrl: 'https://mail.zoho.com/zm/#calendar' }
+[2020-01-08 18:36:01:0497] [info] Checking for update
+[2020-01-08 18:36:01:0916] [info] Update for version 1.0.20 is not available (latest version: 1.0.20, downgrade is disallowed).
+[2020-01-08 19:36:01:0396] [info] Checking for update
+[2020-01-08 19:36:01:0747] [info] Update for version 1.0.20 is not available (latest version: 1.0.20, downgrade is disallowed).
+[2020-01-08 20:36:01:0456] [info] Checking for update
+[2020-01-08 20:36:01:0983] [info] Update for version 1.0.20 is not available (latest version: 1.0.20, downgrade is disallowed).
+[2020-01-08 21:36:01:0518] [info] Checking for update
+[2020-01-08 21:36:03:0171] [info] Update for version 1.0.20 is not available (latest version: 1.0.20, downgrade is disallowed).
+[2020-01-08 22:33:24:0331] [info] appWindow permission-request notifications WebContents {
+  webContents: [Circular],
+  history:
+   [ 'https://mail.zoho.com/zm/',
+     'https://mail.zoho.com/zm/#mail/folder/inbox',
+     'https://mail.zoho.com/zm/#calendar',
+     'https://mail.zoho.com/zm/#calendar',
+     'https://mail.zoho.com/zm/#mail/folder/inbox',
+     'https://mail.zoho.com/zm/#settings',
+     'https://mail.zoho.com/zm/#settings/all',
+     'https://mail.zoho.com/zm/#settings/all/filters',
+     'https://mail.zoho.com/zm/#mail/folder/inbox',
+     'https://mail.zoho.com/zm/#mail/folder/4169157000001112001',
+     'https://mail.zoho.com/zm/#mail/folder/inbox',
+     'https://mail.zoho.com/zm/#settings/all/filters',
+     'https://mail.zoho.com/zm/#mail/folder/inbox',
+     'https://mail.zoho.com/zm/#mail/folder/4169157000001112001',
+     'https://mail.zoho.com/zm/#mail/folder/inbox',
+     'https://mail.zoho.com/zm/#calendar',
+     'https://mail.zoho.com/zm/#calendar',
+     'https://mail.zoho.com/zm/#calendar',
+     'https://mail.zoho.com/zm/#calendar',
+     'https://mail.zoho.com/zm/#calendar',
+     'https://mail.zoho.com/zm/#calendar',
+     'https://mail.zoho.com/zm/#mail/folder/inbox',
+     'https://mail.zoho.com/zm/#mail/tab/1573684800602110001',
+     'https://mail.zoho.com/zm/#compose',
+     'https://mail.zoho.com/zm/#compose/drafts/1578540661531110001',
+     'https://mail.zoho.com/zm/#mail/tab/1573684800602110001' ],
+  currentIndex: 25,
+  pendingIndex: -1,
+  inPageIndex: 0,
+  _events:
+   [Object: null prototype] {
+     'navigation-entry-commited': [Function],
+     '-ipc-message': [Function],
+     '-ipc-message-sync': [Function],
+     'ipc-internal-message': [Function],
+     'ipc-internal-message-sync': [Function],
+     'pepper-context-menu': [Function],
+     'desktop-capturer-get-sources': [Function],
+     'remote-require': [Function],
+     'remote-get-global': [Function],
+     'remote-get-builtin': [Function],
+     'remote-get-current-window': [Function],
+     'remote-get-current-web-contents': [Function],
+     'remote-get-guest-web-contents': [Function],
+     '-did-get-response-details': [Function],
+     '-did-get-redirect-request': [Function],
+     'devtools-reload-page': [Function],
+     '-new-window': [Function],
+     '-add-new-contents': [Function],
+     'will-navigate': [ [Function], [Function: bound handleNavigate] ],
+     'did-navigate':
+      [ [Function],
+        [Function: bound handleDidNavigate],
+        [Function: bound bound handleDidNavigate] ],
+     destroyed: [ [Function], [Function] ],
+     'devtools-opened': [Function],
+     move: [Function],
+     activate: [Function],
+     'page-title-updated': [Function],
+     'context-menu': [ [Function], [Function] ],
+     'did-fail-load': [Function: bound handleFailLoad],
+     'will-prevent-unload': [Function: bound handlePreventUnload],
+     'new-window': [Function: bound handleNewWindow],
+     'render-view-deleted': [Function: listener] },
+  _eventsCount: 30,
+  _maxListeners: 0,
+  capturePage: [Function],
+  hasServiceWorker: [Function],
+  unregisterServiceWorker: [Function],
+  browserWindowOptions:
+   { center: true,
+     autoHideMenuBar: false,
+     backgroundColor: '#EEE',
+     icon:
+      '/tmp/.mount_zoho-mwhMJng/resources/app.asar/app/static/images/app-icon.png',
+     webPreferences:
+      { nodeIntegration: false,
+        plugins: true,
+        scrollBounce: false,
+        allowRunningInsecureContent: false,
+        experimentalFeatures: false,
+        experimentalCanvasFeatures: false,
+        defaultEncoding: 'UTF-8',
+        backgroundThrottling: false,
+        sandbox: false,
+        preload:
+         '/tmp/.mount_zoho-mwhMJng/resources/app.asar/app/preloadScripts/appWindowPreload.js',
+        backgroundColor: '#EEE' },
+     show: false,
+     minwidth: 640,
+     minHeight: 480 } } { isMainFrame: true,
+  requestingUrl: 'https://mail.zoho.com/zm/#mail/tab/1573684800602110001' }
+[2020-01-08 22:36:01:0583] [info] Checking for update
+[2020-01-08 22:36:06:0938] [info] Update for version 1.0.20 is not available (latest version: 1.0.20, downgrade is disallowed).
+[2020-01-08 23:36:01:0818] [info] Checking for update
+[2020-01-08 23:36:02:0495] [info] Update for version 1.0.20 is not available (latest version: 1.0.20, downgrade is disallowed).
+[2020-01-09 00:36:02:0042] [info] Checking for update
+[2020-01-09 00:36:02:0753] [info] Update for version 1.0.20 is not available (latest version: 1.0.20, downgrade is disallowed).
+[2020-01-09 00:49:33:0380] [info] [Application opened]
+[2020-01-09 00:49:33:0382] [info] App version:  1.0.20
+[2020-01-09 00:49:33:0383] [info] Electron version:  5.0.10
+[2020-01-09 00:49:33:0383] [info] Chrome version:  73.0.3683.121
+[2020-01-09 00:49:33:0383] [info] Platform & Architecture:  linux  -  x64
+[2020-01-09 00:49:34:0657] [info] [base-window] redirect-request <url-masked>
+[2020-01-09 00:49:35:0758] [info] loginWindow did-navigate <url-masked>
+[2020-01-09 00:49:35:0759] [info] loginWindow did-navigate <url-masked>
+[2020-01-09 00:49:35:0856] [info] Checking for update
+[2020-01-09 00:49:36:0099] [info] appWindow did-navigate <url-masked>
+[2020-01-09 00:49:36:0099] [info] [base-window] redirect-request <url-masked>
+[2020-01-09 00:49:36:0099] [info] appWindow did-navigate <url-masked>
+[2020-01-09 00:49:36:0100] [info] [base-window] redirect-request <url-masked>
+[2020-01-09 00:49:36:0494] [info] Update for version 1.0.20 is not available (latest version: 1.0.20, downgrade is disallowed).
+[2020-01-09 00:49:39:0904] [info] [renderer-console-log] Current language is en-US { message: 'Current language is en-US' }
+[2020-01-26 13:24:11:0472] [info] [Application opened]
+[2020-01-26 13:24:11:0477] [info] App version:  1.0.20
+[2020-01-26 13:24:11:0477] [info] Electron version:  5.0.10
+[2020-01-26 13:24:11:0477] [info] Chrome version:  73.0.3683.121
+[2020-01-26 13:24:11:0478] [info] Platform & Architecture:  linux  -  x64
+[2020-01-26 13:24:12:0667] [info] [base-window] redirect-request <url-masked>
+[2020-01-26 13:24:13:0110] [info] loginWindow did-navigate <url-masked>
+[2020-01-26 13:24:13:0111] [info] loginWindow did-navigate <url-masked>
+[2020-01-26 13:24:13:0223] [info] Checking for update
+[2020-01-26 13:24:13:0526] [info] appWindow did-navigate <url-masked>
+[2020-01-26 13:24:13:0526] [info] [base-window] redirect-request <url-masked>
+[2020-01-26 13:24:13:0526] [info] appWindow did-navigate <url-masked>
+[2020-01-26 13:24:13:0527] [info] [base-window] redirect-request <url-masked>
+[2020-01-26 13:24:13:0821] [info] Update for version 1.0.20 is not available (latest version: 1.0.20, downgrade is disallowed).
+[2020-01-26 13:24:19:0888] [info] [renderer-console-log] Current language is en-US { message: 'Current language is en-US' }
+[2020-01-26 14:24:11:0782] [info] Checking for update
+[2020-01-26 14:24:12:0086] [info] Update for version 1.0.20 is not available (latest version: 1.0.20, downgrade is disallowed).
+[2020-01-26 15:24:11:0845] [info] Checking for update
+[2020-01-26 15:24:12:0222] [info] Update for version 1.0.20 is not available (latest version: 1.0.20, downgrade is disallowed).
+[2020-01-26 16:24:11:0959] [info] Checking for update
+[2020-01-26 16:24:12:0309] [info] Update for version 1.0.20 is not available (latest version: 1.0.20, downgrade is disallowed).
+[2020-01-26 16:27:16:0282] [info] appWindow permission-request notifications WebContents {
+  webContents: [Circular],
+  history:
+   [ 'https://mail.zoho.com/zm/',
+     'https://mail.zoho.com/zm/#mail/folder/inbox' ],
+  currentIndex: 1,
+  pendingIndex: -1,
+  inPageIndex: 0,
+  _events:
+   [Object: null prototype] {
+     'navigation-entry-commited': [Function],
+     '-ipc-message': [Function],
+     '-ipc-message-sync': [Function],
+     'ipc-internal-message': [Function],
+     'ipc-internal-message-sync': [Function],
+     'pepper-context-menu': [Function],
+     'desktop-capturer-get-sources': [Function],
+     'remote-require': [Function],
+     'remote-get-global': [Function],
+     'remote-get-builtin': [Function],
+     'remote-get-current-window': [Function],
+     'remote-get-current-web-contents': [Function],
+     'remote-get-guest-web-contents': [Function],
+     '-did-get-response-details': [Function],
+     '-did-get-redirect-request': [Function],
+     'devtools-reload-page': [Function],
+     '-new-window': [Function],
+     '-add-new-contents': [Function],
+     'will-navigate': [ [Function], [Function: bound handleNavigate] ],
+     'did-navigate':
+      [ [Function],
+        [Function: bound handleDidNavigate],
+        [Function: bound bound handleDidNavigate] ],
+     destroyed: [ [Function], [Function] ],
+     'devtools-opened': [Function],
+     move: [Function],
+     activate: [Function],
+     'page-title-updated': [Function],
+     'context-menu': [ [Function], [Function] ],
+     'did-fail-load': [Function: bound handleFailLoad],
+     'will-prevent-unload': [Function: bound handlePreventUnload],
+     'new-window': [Function: bound handleNewWindow],
+     'render-view-deleted': [Function: listener] },
+  _eventsCount: 30,
+  _maxListeners: 0,
+  capturePage: [Function],
+  hasServiceWorker: [Function],
+  unregisterServiceWorker: [Function],
+  browserWindowOptions:
+   { center: false,
+     autoHideMenuBar: false,
+     backgroundColor: '#EEE',
+     icon:
+      '/tmp/.mount_zoho-mrj58t7/resources/app.asar/app/static/images/app-icon.png',
+     webPreferences:
+      { nodeIntegration: false,
+        plugins: true,
+        scrollBounce: false,
+        allowRunningInsecureContent: false,
+        experimentalFeatures: false,
+        experimentalCanvasFeatures: false,
+        defaultEncoding: 'UTF-8',
+        backgroundThrottling: false,
+        sandbox: false,
+        preload:
+         '/tmp/.mount_zoho-mrj58t7/resources/app.asar/app/preloadScripts/appWindowPreload.js',
+        backgroundColor: '#EEE' },
+     show: false,
+     x: 1,
+     y: 56,
+     width: 1918,
+     height: 1022,
+     minwidth: 640,
+     minHeight: 480 } } { isMainFrame: true,
+  requestingUrl: 'https://mail.zoho.com/zm/#mail/folder/inbox' }
+[2020-01-26 17:24:12:0144] [info] Checking for update
+[2020-01-26 17:24:12:0636] [info] Update for version 1.0.20 is not available (latest version: 1.0.20, downgrade is disallowed).
+[2020-01-31 07:36:01:0212] [info] [Application opened]
+[2020-01-31 07:36:01:0215] [info] App version:  1.0.20
+[2020-01-31 07:36:01:0215] [info] Electron version:  5.0.10
+[2020-01-31 07:36:01:0215] [info] Chrome version:  73.0.3683.121
+[2020-01-31 07:36:01:0215] [info] Platform & Architecture:  linux  -  x64
+[2020-01-31 07:36:02:0018] [info] [base-window] redirect-request <url-masked>
+[2020-01-31 07:36:02:0739] [info] loginWindow did-navigate <url-masked>
+[2020-01-31 07:36:02:0740] [info] loginWindow did-navigate <url-masked>
+[2020-01-31 07:36:02:0819] [info] Checking for update
+[2020-01-31 07:36:03:0121] [info] appWindow did-navigate <url-masked>
+[2020-01-31 07:36:03:0122] [info] [base-window] redirect-request <url-masked>
+[2020-01-31 07:36:03:0122] [info] appWindow did-navigate <url-masked>
+[2020-01-31 07:36:03:0122] [info] [base-window] redirect-request <url-masked>
+[2020-01-31 07:36:03:0302] [info] Update for version 1.0.20 is not available (latest version: 1.0.20, downgrade is disallowed).
+[2020-01-31 07:36:07:0694] [info] [renderer-console-log] Current language is en-US { message: 'Current language is en-US' }
+[2020-02-04 13:19:29:0944] [info] [Application opened]
+[2020-02-04 13:19:29:0949] [info] App version:  1.0.20
+[2020-02-04 13:19:29:0950] [info] Electron version:  5.0.10
+[2020-02-04 13:19:29:0950] [info] Chrome version:  73.0.3683.121
+[2020-02-04 13:19:29:0950] [info] Platform & Architecture:  linux  -  x64
+[2020-02-04 13:19:30:0810] [info] [base-window] redirect-request <url-masked>
+[2020-02-04 13:19:31:0421] [info] loginWindow did-navigate <url-masked>
+[2020-02-04 13:19:31:0422] [info] loginWindow did-navigate <url-masked>
+[2020-02-04 13:19:31:0506] [info] Checking for update
+[2020-02-04 13:19:31:0855] [info] appWindow did-navigate <url-masked>
+[2020-02-04 13:19:31:0856] [info] [base-window] redirect-request <url-masked>
+[2020-02-04 13:19:31:0856] [info] appWindow did-navigate <url-masked>
+[2020-02-04 13:19:31:0856] [info] [base-window] redirect-request <url-masked>
+[2020-02-04 13:19:32:0003] [info] Update for version 1.0.20 is not available (latest version: 1.0.20, downgrade is disallowed).
+[2020-02-04 13:19:36:0413] [info] [renderer-console-log] Current language is en-US { message: 'Current language is en-US' }
+[2020-02-04 13:19:40:0022] [info] new-window <url-masked>  foreground-tab
+[2020-02-04 13:31:49:0659] [info] appWindow permission-request notifications WebContents {
+  webContents: [Circular],
+  history:
+   [ 'https://mail.zoho.com/zm/',
+     'https://mail.zoho.com/zm/#mail/folder/inbox',
+     'https://mail.zoho.com/zm/#mail/tab/1580820769657110001' ],
+  currentIndex: 2,
+  pendingIndex: -1,
+  inPageIndex: 0,
+  _events:
+   [Object: null prototype] {
+     'navigation-entry-commited': [Function],
+     '-ipc-message': [Function],
+     '-ipc-message-sync': [Function],
+     'ipc-internal-message': [Function],
+     'ipc-internal-message-sync': [Function],
+     'pepper-context-menu': [Function],
+     'desktop-capturer-get-sources': [Function],
+     'remote-require': [Function],
+     'remote-get-global': [Function],
+     'remote-get-builtin': [Function],
+     'remote-get-current-window': [Function],
+     'remote-get-current-web-contents': [Function],
+     'remote-get-guest-web-contents': [Function],
+     '-did-get-response-details': [Function],
+     '-did-get-redirect-request': [Function],
+     'devtools-reload-page': [Function],
+     '-new-window': [Function],
+     '-add-new-contents': [Function],
+     'will-navigate': [ [Function], [Function: bound handleNavigate] ],
+     'did-navigate':
+      [ [Function],
+        [Function: bound handleDidNavigate],
+        [Function: bound bound handleDidNavigate] ],
+     destroyed: [ [Function], [Function] ],
+     'devtools-opened': [Function],
+     move: [Function],
+     activate: [Function],
+     'page-title-updated': [Function],
+     'context-menu': [ [Function], [Function] ],
+     'did-fail-load': [Function: bound handleFailLoad],
+     'will-prevent-unload': [Function: bound handlePreventUnload],
+     'new-window': [Function: bound handleNewWindow],
+     'render-view-deleted': [Function: listener] },
+  _eventsCount: 30,
+  _maxListeners: 0,
+  capturePage: [Function],
+  hasServiceWorker: [Function],
+  unregisterServiceWorker: [Function],
+  browserWindowOptions:
+   { center: false,
+     autoHideMenuBar: false,
+     backgroundColor: '#EEE',
+     icon:
+      '/tmp/.mount_Zoho MYWB2a6/resources/app.asar/app/static/images/app-icon.png',
+     webPreferences:
+      { nodeIntegration: false,
+        plugins: true,
+        scrollBounce: false,
+        allowRunningInsecureContent: false,
+        experimentalFeatures: false,
+        experimentalCanvasFeatures: false,
+        defaultEncoding: 'UTF-8',
+        backgroundThrottling: false,
+        sandbox: false,
+        preload:
+         '/tmp/.mount_Zoho MYWB2a6/resources/app.asar/app/preloadScripts/appWindowPreload.js',
+        backgroundColor: '#EEE' },
+     show: false,
+     x: 1,
+     y: 56,
+     width: 1918,
+     height: 1022,
+     minwidth: 640,
+     minHeight: 480 } } { isMainFrame: true,
+  requestingUrl: 'https://mail.zoho.com/zm/#mail/tab/1580820769657110001' }
+[2020-02-04 13:32:18:0353] [info] new-window <url-masked>  foreground-tab
+[2020-02-04 14:00:40:0942] [info] appWindow permission-request notifications WebContents {
+  webContents: [Circular],
+  history:
+   [ 'https://mail.zoho.com/zm/',
+     'https://mail.zoho.com/zm/#mail/folder/inbox',
+     'https://mail.zoho.com/zm/#mail/tab/1580820769657110001',
+     'https://mail.zoho.com/zm/#mail/folder/inbox',
+     'https://mail.zoho.com/zm/#mail/tab/1580841106726110001',
+     'https://mail.zoho.com/zm/#mail/folder/inbox',
+     'https://mail.zoho.com/zm/#mail/folder/4169157000000773002' ],
+  currentIndex: 6,
+  pendingIndex: -1,
+  inPageIndex: 0,
+  _events:
+   [Object: null prototype] {
+     'navigation-entry-commited': [Function],
+     '-ipc-message': [Function],
+     '-ipc-message-sync': [Function],
+     'ipc-internal-message': [Function],
+     'ipc-internal-message-sync': [Function],
+     'pepper-context-menu': [Function],
+     'desktop-capturer-get-sources': [Function],
+     'remote-require': [Function],
+     'remote-get-global': [Function],
+     'remote-get-builtin': [Function],
+     'remote-get-current-window': [Function],
+     'remote-get-current-web-contents': [Function],
+     'remote-get-guest-web-contents': [Function],
+     '-did-get-response-details': [Function],
+     '-did-get-redirect-request': [Function],
+     'devtools-reload-page': [Function],
+     '-new-window': [Function],
+     '-add-new-contents': [Function],
+     'will-navigate': [ [Function], [Function: bound handleNavigate] ],
+     'did-navigate':
+      [ [Function],
+        [Function: bound handleDidNavigate],
+        [Function: bound bound handleDidNavigate] ],
+     destroyed: [ [Function], [Function] ],
+     'devtools-opened': [Function],
+     move: [Function],
+     activate: [Function],
+     'page-title-updated': [Function],
+     'context-menu': [ [Function], [Function] ],
+     'did-fail-load': [Function: bound handleFailLoad],
+     'will-prevent-unload': [Function: bound handlePreventUnload],
+     'new-window': [Function: bound handleNewWindow],
+     'render-view-deleted': [Function: listener] },
+  _eventsCount: 30,
+  _maxListeners: 0,
+  capturePage: [Function],
+  hasServiceWorker: [Function],
+  unregisterServiceWorker: [Function],
+  browserWindowOptions:
+   { center: false,
+     autoHideMenuBar: false,
+     backgroundColor: '#EEE',
+     icon:
+      '/tmp/.mount_Zoho MYWB2a6/resources/app.asar/app/static/images/app-icon.png',
+     webPreferences:
+      { nodeIntegration: false,
+        plugins: true,
+        scrollBounce: false,
+        allowRunningInsecureContent: false,
+        experimentalFeatures: false,
+        experimentalCanvasFeatures: false,
+        defaultEncoding: 'UTF-8',
+        backgroundThrottling: false,
+        sandbox: false,
+        preload:
+         '/tmp/.mount_Zoho MYWB2a6/resources/app.asar/app/preloadScripts/appWindowPreload.js',
+        backgroundColor: '#EEE' },
+     show: false,
+     x: 1,
+     y: 56,
+     width: 1918,
+     height: 1022,
+     minwidth: 640,
+     minHeight: 480 } } { isMainFrame: true,
+  requestingUrl: 'https://mail.zoho.com/zm/#mail/folder/4169157000000773002' }
+[2020-02-04 14:19:30:0158] [info] Checking for update
+[2020-02-04 14:19:30:0482] [info] Update for version 1.0.20 is not available (latest version: 1.0.20, downgrade is disallowed).
+[2020-02-04 15:19:30:0217] [info] Checking for update
+[2020-02-04 15:19:30:0492] [info] Update for version 1.0.20 is not available (latest version: 1.0.20, downgrade is disallowed).
+[2020-02-04 16:19:30:0276] [info] Checking for update
+[2020-02-04 16:19:30:0687] [info] Update for version 1.0.20 is not available (latest version: 1.0.20, downgrade is disallowed).
+[2020-02-04 16:24:09:0479] [info] appWindow permission-request notifications WebContents {
+  webContents: [Circular],
+  history:
+   [ 'https://mail.zoho.com/zm/',
+     'https://mail.zoho.com/zm/#mail/folder/inbox',
+     'https://mail.zoho.com/zm/#mail/tab/1580820769657110001',
+     'https://mail.zoho.com/zm/#mail/folder/inbox',
+     'https://mail.zoho.com/zm/#mail/tab/1580841106726110001',
+     'https://mail.zoho.com/zm/#mail/folder/inbox',
+     'https://mail.zoho.com/zm/#mail/folder/4169157000000773002' ],
+  currentIndex: 6,
+  pendingIndex: -1,
+  inPageIndex: 0,
+  _events:
+   [Object: null prototype] {
+     'navigation-entry-commited': [Function],
+     '-ipc-message': [Function],
+     '-ipc-message-sync': [Function],
+     'ipc-internal-message': [Function],
+     'ipc-internal-message-sync': [Function],
+     'pepper-context-menu': [Function],
+     'desktop-capturer-get-sources': [Function],
+     'remote-require': [Function],
+     'remote-get-global': [Function],
+     'remote-get-builtin': [Function],
+     'remote-get-current-window': [Function],
+     'remote-get-current-web-contents': [Function],
+     'remote-get-guest-web-contents': [Function],
+     '-did-get-response-details': [Function],
+     '-did-get-redirect-request': [Function],
+     'devtools-reload-page': [Function],
+     '-new-window': [Function],
+     '-add-new-contents': [Function],
+     'will-navigate': [ [Function], [Function: bound handleNavigate] ],
+     'did-navigate':
+      [ [Function],
+        [Function: bound handleDidNavigate],
+        [Function: bound bound handleDidNavigate] ],
+     destroyed: [ [Function], [Function] ],
+     'devtools-opened': [Function],
+     move: [Function],
+     activate: [Function],
+     'page-title-updated': [Function],
+     'context-menu': [ [Function], [Function] ],
+     'did-fail-load': [Function: bound handleFailLoad],
+     'will-prevent-unload': [Function: bound handlePreventUnload],
+     'new-window': [Function: bound handleNewWindow],
+     'render-view-deleted': [Function: listener] },
+  _eventsCount: 30,
+  _maxListeners: 0,
+  capturePage: [Function],
+  hasServiceWorker: [Function],
+  unregisterServiceWorker: [Function],
+  browserWindowOptions:
+   { center: false,
+     autoHideMenuBar: false,
+     backgroundColor: '#EEE',
+     icon:
+      '/tmp/.mount_Zoho MYWB2a6/resources/app.asar/app/static/images/app-icon.png',
+     webPreferences:
+      { nodeIntegration: false,
+        plugins: true,
+        scrollBounce: false,
+        allowRunningInsecureContent: false,
+        experimentalFeatures: false,
+        experimentalCanvasFeatures: false,
+        defaultEncoding: 'UTF-8',
+        backgroundThrottling: false,
+        sandbox: false,
+        preload:
+         '/tmp/.mount_Zoho MYWB2a6/resources/app.asar/app/preloadScripts/appWindowPreload.js',
+        backgroundColor: '#EEE' },
+     show: false,
+     x: 1,
+     y: 56,
+     width: 1918,
+     height: 1022,
+     minwidth: 640,
+     minHeight: 480 } } { isMainFrame: true,
+  requestingUrl: 'https://mail.zoho.com/zm/#mail/folder/4169157000000773002' }
+[2020-02-04 17:19:30:0304] [info] Checking for update
+[2020-02-04 17:19:30:0584] [info] Update for version 1.0.20 is not available (latest version: 1.0.20, downgrade is disallowed).
+[2020-02-04 18:19:30:0363] [info] Checking for update
+[2020-02-04 18:19:31:0496] [info] Update for version 1.0.20 is not available (latest version: 1.0.20, downgrade is disallowed).
+[2020-02-04 19:19:30:0367] [info] Checking for update
+[2020-02-04 19:19:30:0652] [info] Update for version 1.0.20 is not available (latest version: 1.0.20, downgrade is disallowed).
+[2020-02-04 20:19:30:0425] [info] Checking for update
+[2020-02-04 20:19:30:0728] [info] Update for version 1.0.20 is not available (latest version: 1.0.20, downgrade is disallowed).
+[2020-02-04 20:53:44:0560] [info] appWindow permission-request notifications WebContents {
+  webContents: [Circular],
+  history:
+   [ 'https://mail.zoho.com/zm/',
+     'https://mail.zoho.com/zm/#mail/folder/inbox',
+     'https://mail.zoho.com/zm/#mail/tab/1580820769657110001',
+     'https://mail.zoho.com/zm/#mail/folder/inbox',
+     'https://mail.zoho.com/zm/#mail/tab/1580841106726110001',
+     'https://mail.zoho.com/zm/#mail/folder/inbox',
+     'https://mail.zoho.com/zm/#mail/folder/4169157000000773002' ],
+  currentIndex: 6,
+  pendingIndex: -1,
+  inPageIndex: 0,
+  _events:
+   [Object: null prototype] {
+     'navigation-entry-commited': [Function],
+     '-ipc-message': [Function],
+     '-ipc-message-sync': [Function],
+     'ipc-internal-message': [Function],
+     'ipc-internal-message-sync': [Function],
+     'pepper-context-menu': [Function],
+     'desktop-capturer-get-sources': [Function],
+     'remote-require': [Function],
+     'remote-get-global': [Function],
+     'remote-get-builtin': [Function],
+     'remote-get-current-window': [Function],
+     'remote-get-current-web-contents': [Function],
+     'remote-get-guest-web-contents': [Function],
+     '-did-get-response-details': [Function],
+     '-did-get-redirect-request': [Function],
+     'devtools-reload-page': [Function],
+     '-new-window': [Function],
+     '-add-new-contents': [Function],
+     'will-navigate': [ [Function], [Function: bound handleNavigate] ],
+     'did-navigate':
+      [ [Function],
+        [Function: bound handleDidNavigate],
+        [Function: bound bound handleDidNavigate] ],
+     destroyed: [ [Function], [Function] ],
+     'devtools-opened': [Function],
+     move: [Function],
+     activate: [Function],
+     'page-title-updated': [Function],
+     'context-menu': [ [Function], [Function] ],
+     'did-fail-load': [Function: bound handleFailLoad],
+     'will-prevent-unload': [Function: bound handlePreventUnload],
+     'new-window': [Function: bound handleNewWindow],
+     'render-view-deleted': [Function: listener] },
+  _eventsCount: 30,
+  _maxListeners: 0,
+  capturePage: [Function],
+  hasServiceWorker: [Function],
+  unregisterServiceWorker: [Function],
+  browserWindowOptions:
+   { center: false,
+     autoHideMenuBar: false,
+     backgroundColor: '#EEE',
+     icon:
+      '/tmp/.mount_Zoho MYWB2a6/resources/app.asar/app/static/images/app-icon.png',
+     webPreferences:
+      { nodeIntegration: false,
+        plugins: true,
+        scrollBounce: false,
+        allowRunningInsecureContent: false,
+        experimentalFeatures: false,
+        experimentalCanvasFeatures: false,
+        defaultEncoding: 'UTF-8',
+        backgroundThrottling: false,
+        sandbox: false,
+        preload:
+         '/tmp/.mount_Zoho MYWB2a6/resources/app.asar/app/preloadScripts/appWindowPreload.js',
+        backgroundColor: '#EEE' },
+     show: false,
+     x: 1,
+     y: 56,
+     width: 1918,
+     height: 1022,
+     minwidth: 640,
+     minHeight: 480 } } { isMainFrame: true,
+  requestingUrl: 'https://mail.zoho.com/zm/#mail/folder/4169157000000773002' }
+[2020-02-04 21:19:30:0433] [info] Checking for update
+[2020-02-04 21:19:30:0711] [info] Update for version 1.0.20 is not available (latest version: 1.0.20, downgrade is disallowed).
+[2020-02-04 22:19:30:0513] [info] Checking for update
+[2020-02-04 22:19:30:0831] [info] Update for version 1.0.20 is not available (latest version: 1.0.20, downgrade is disallowed).
+[2020-02-10 08:23:48:0548] [info] [Application opened]
+[2020-02-10 08:23:48:0552] [info] App version:  1.0.20
+[2020-02-10 08:23:48:0552] [info] Electron version:  5.0.10
+[2020-02-10 08:23:48:0552] [info] Chrome version:  73.0.3683.121
+[2020-02-10 08:23:48:0552] [info] Platform & Architecture:  linux  -  x64
+[2020-02-10 08:23:49:0343] [info] [base-window] redirect-request <url-masked>
+[2020-02-10 08:23:49:0850] [info] loginWindow did-navigate <url-masked>
+[2020-02-10 08:23:49:0850] [info] [base-window] redirect-request <url-masked>
+[2020-02-10 08:23:49:0851] [info] loginWindow did-navigate <url-masked>
+[2020-02-10 08:23:49:0851] [info] [base-window] redirect-request <url-masked>
+[2020-02-13 14:38:20:0986] [info] [Application opened]
+[2020-02-13 14:38:20:0991] [info] App version:  1.0.20
+[2020-02-13 14:38:20:0991] [info] Electron version:  5.0.10
+[2020-02-13 14:38:20:0991] [info] Chrome version:  73.0.3683.121
+[2020-02-13 14:38:20:0991] [info] Platform & Architecture:  linux  -  x64
+[2020-02-13 14:38:22:0035] [info] [base-window] redirect-request <url-masked>
+[2020-02-13 14:38:22:0335] [info] loginWindow did-navigate <url-masked>
+[2020-02-13 14:38:22:0336] [info] [base-window] redirect-request <url-masked>
+[2020-02-13 14:38:22:0336] [info] loginWindow did-navigate <url-masked>
+[2020-02-13 14:38:22:0336] [info] [base-window] redirect-request <url-masked>
+[2020-02-13 14:38:33:0071] [info] loginWindow will-navigate <url-masked>
+[2020-02-13 14:38:33:0138] [info] Checking for update
+[2020-02-13 14:38:33:0695] [info] Update for version 1.0.20 is not available (latest version: 1.0.20, downgrade is disallowed).
+[2020-02-13 14:38:33:0705] [info] appWindow did-navigate <url-masked>
+[2020-02-13 14:38:33:0705] [info] [base-window] redirect-request <url-masked>
+[2020-02-13 14:38:33:0705] [info] appWindow did-navigate <url-masked>
+[2020-02-13 14:38:33:0705] [info] [base-window] redirect-request <url-masked>
+[2020-02-13 14:38:38:0919] [info] [renderer-console-log] Current language is en-US { message: 'Current language is en-US' }
+[2020-06-12 10:39:24:0498] [info] [Application opened]
+[2020-06-12 10:39:24:0503] [info] App version:  1.0.20
+[2020-06-12 10:39:24:0503] [info] Electron version:  5.0.10
+[2020-06-12 10:39:24:0503] [info] Chrome version:  73.0.3683.121
+[2020-06-12 10:39:24:0503] [info] Platform & Architecture:  linux  -  x64
+[2020-06-12 10:39:25:0325] [info] [base-window] redirect-request <url-masked>
+[2020-06-12 10:39:25:0495] [info] loginWindow did-navigate <url-masked>
+[2020-06-12 10:39:25:0496] [info] [base-window] redirect-request <url-masked>
+[2020-06-12 10:39:25:0496] [info] loginWindow did-navigate <url-masked>
+[2020-06-12 10:39:25:0496] [info] [base-window] redirect-request <url-masked>
+[2020-07-26 13:10:44:0006] [info] [Application opened]
+[2020-07-26 13:10:44:0010] [info] App version:  1.0.20
+[2020-07-26 13:10:44:0011] [info] Electron version:  5.0.10
+[2020-07-26 13:10:44:0011] [info] Chrome version:  73.0.3683.121
+[2020-07-26 13:10:44:0011] [info] Platform & Architecture:  linux  -  x64
+[2020-07-26 13:10:45:0296] [info] [base-window] redirect-request <url-masked>
+[2020-07-26 13:10:45:0324] [info] loginWindow did-navigate <url-masked>
+[2020-07-26 13:10:45:0325] [info] [base-window] redirect-request <url-masked>
+[2020-07-26 13:10:45:0325] [info] loginWindow did-navigate <url-masked>
+[2020-07-26 13:10:45:0325] [info] [base-window] redirect-request <url-masked>
+[2020-07-26 13:13:25:0211] [info] loginWindow will-navigate <url-masked>
+[2020-07-26 13:13:25:0290] [info] Checking for update
+[2020-07-26 13:13:25:0791] [info] appWindow did-navigate <url-masked>
+[2020-07-26 13:13:25:0792] [info] [base-window] redirect-request <url-masked>
+[2020-07-26 13:13:25:0792] [info] appWindow did-navigate <url-masked>
+[2020-07-26 13:13:25:0792] [info] [base-window] redirect-request <url-masked>
+[2020-07-26 13:13:25:0932] [info] Found version 1.1.12 (url: https://downloads.zohocdn.com/zmail-desktop/linux/zoho-mail-desktop-x64-v1.1.12.AppImage)
+[2020-07-26 13:13:25:0933] [info] Downloading update from https://downloads.zohocdn.com/zmail-desktop/linux/zoho-mail-desktop-x64-v1.1.12.AppImage
+[2020-07-26 13:13:25:0955] [debug] updater cache dir: /home/jake/.cache/zoho-mail-desktop-updater
+[2020-07-26 13:13:25:0985] [info] No cached update info available
+[2020-07-26 13:13:27:0142] [info] File has 3032 changed blocks
+[2020-07-26 13:13:27:0142] [debug] [
+  {
+    "kind": 0,
+    "start": 0,
+    "end": 159006
+  },
+  {
+    "kind": 1,
+    "start": 159006,
+    "end": 191774
+  },
+  {
+    "kind": 0,
+    "start": 191774,
+    "end": 11529891
+  },
+  {
+    "kind": 1,
+    "start": 11529891,
+    "end": 12030612
+  },
+  {
+    "kind": 0,
+    "start": 12046753,
+    "end": 12228911
+  },
+  {
+    "kind": 1,
+    "start": 12212770,
+    "end": 28044494
+  },
+  {
+    "kind": 0,
+    "start": 29097609,
+    "end": 32657616
+  },
+  {
+    "kind": 1,
+    "start": 31604501,
+    "end": 31633337
+  },
+  {
+    "kind": 0,
+    "start": 32686452,
+    "end": 34458924
+  },
+  {
+    "kind": 1,
+    "start": 33405809,
+    "end": 36683746
+  },
+  {
+    "kind": 0,
+    "start": 37736530,
+    "end": 37747092
+  },
+  {
+    "kind": 1,
+    "start": 36694308,
+    "end": 39101124
+  },
+  {
+    "kind": 0,
+    "start": 40154269,
+    "end": 40166956
+  },
+  {
+    "kind": 1,
+    "start": 39113811,
+    "end": 54831663
+  },
+  {
+    "kind": 0,
+    "start": 55884598,
+    "end": 56191544
+  },
+  {
+    "kind": 1,
+    "start": 55138609,
+    "end": 81055720
+  }
+]
+[2020-07-26 13:13:27:0182] [info] Full: 79,240.23 KB, To download: 62,220.47 KB (79%)
+[2020-07-26 13:13:29:0525] [error] reportUserLogin - error https://reportsapi.zoho.com/api/paulbennet.j@zohocorp.com/APP_METRICS/USAGE_DATA?authtoken=b0dfa60191abbd2d45ff47ef6bae7a8c&ZOHO_OUTPUT_FORMAT=JSON&ZOHO_ERROR_FORMAT=JSON&ZOHO_API_VERSION=1.0&ZOHO_ACTION=ADDROW&USER_ID=26628488&MACHINE_ID=8766fd6e18894b749980e1d5e329337b&LOGIN_TIMESTAMP=7%2F26%2F2020%2017%3A13%3A29 null 400 
+{
+ "response":{
+   "action":"ADDROW",
+   "error":{
+     "code":8518,
+     "message":"You need to (re)login to perform this operation"
+   }
+ }
+}
+[2020-07-26 13:13:34:0422] [info] [renderer-console-log] Current language is en-US { message: 'Current language is en-US' }
+[2020-07-26 13:13:57:0062] [info] New version 1.1.12 has been downloaded to /home/jake/.cache/zoho-mail-desktop-updater/pending/zoho-mail-desktop-x64-v1.1.12.AppImage
+[2020-07-26 13:14:16:0977] [info] Install on explicit quitAndInstall
+[2020-07-26 13:14:16:0977] [info] Install: isSilent: false, isForceRunAfter: true
+[2020-07-26 13:14:17:0042] [info] Update installer has already been triggered. Quitting application.
+[2020-07-26 13:14:18:0504] [info] [Application opened]
+[2020-07-26 13:14:18:0512] [info] App version:  1.1.12
+[2020-07-26 13:14:18:0513] [info] Electron version:  5.0.13
+[2020-07-26 13:14:18:0513] [info] Chrome version:  73.0.3683.121
+[2020-07-26 13:14:18:0513] [info] Platform & Architecture:  linux  -  x64
+[2020-07-26 13:46:26:0763] [info] [Application opened]
+[2020-07-26 13:51:41:0557] [info] [Application opened]
+[2020-07-26 13:51:41:0564] [info] App version:  1.1.12
+[2020-07-26 13:51:41:0565] [info] Electron version:  5.0.13
+[2020-07-26 13:51:41:0565] [info] Chrome version:  73.0.3683.121
+[2020-07-26 13:51:41:0565] [info] Platform & Architecture:  linux  -  x64
+[2020-07-26 13:51:42:0790] [info] loginWindow did-navigate <url-masked>
+[2020-07-26 13:51:42:0795] [info] [base-window] redirect-request <url-masked>
+[2020-07-26 13:51:42:0805] [info] [base-window] redirect-request <url-masked>
+[2020-07-26 13:51:44:0125] [info] login screen loaded
+[2020-07-26 13:51:44:0125] [info] Close Window loading 
+[2020-07-26 13:52:11:0976] [info] loginWindow will-navigate <url-masked>
+[2020-07-26 13:52:11:0993] [info] login screen loaded
+[2020-07-26 13:52:11:0993] [info] login Success Masked Data
+[2020-07-26 13:52:12:0108] [info] Close Window login 
+[2020-07-26 13:52:12:0115] [info] Checking for update
+[2020-07-26 13:52:12:0606] [info] appWindow did-navigate <url-masked>
+[2020-07-26 13:52:12:0607] [info] [base-window] redirect-request <url-masked>
+[2020-07-26 13:52:12:0787] [info] Update for version 1.1.12 is not available (latest version: 1.1.12, downgrade is disallowed).
+[2020-07-26 13:52:20:0855] [info] [renderer-console-log] Current language is en-US { message: 'Current language is en-US' }
+[2020-07-26 14:30:10:0510] [info] new-window <url-masked>  foreground-tab
+[2020-07-26 14:46:10:0682] [info] All windows are closed
+[2020-07-26 14:46:10:0682] [info] APP Switching on progress false
+[2020-07-26 14:46:10:0696] [info] Close Window app 
+[2020-07-26 22:18:07:0876] [info] [Application opened]
+[2020-07-26 22:18:07:0883] [info] App version:  1.1.12
+[2020-07-26 22:18:07:0883] [info] Electron version:  5.0.13
+[2020-07-26 22:18:07:0883] [info] Chrome version:  73.0.3683.121
+[2020-07-26 22:18:07:0883] [info] Platform & Architecture:  linux  -  x64
+[2020-07-26 22:18:09:0022] [info] [base-window] redirect-request <url-masked>
+[2020-07-26 22:18:09:0465] [info] loginWindow did-navigate <url-masked>
+[2020-07-26 22:18:09:0473] [info] login screen loaded
+[2020-07-26 22:18:09:0474] [info] Close Window loading 
+[2020-07-26 22:18:09:0486] [info] login Success Masked Data
+[2020-07-26 22:18:09:0686] [info] Close Window login 
+[2020-07-26 22:18:09:0699] [info] Checking for update
+[2020-07-26 22:18:09:0933] [info] appWindow did-navigate <url-masked>
+[2020-07-26 22:18:09:0933] [info] [base-window] redirect-request <url-masked>
+[2020-07-26 22:18:10:0233] [info] Update for version 1.1.12 is not available (latest version: 1.1.12, downgrade is disallowed).
+[2020-07-26 22:18:16:0017] [info] [renderer-console-log] Current language is en-US { message: 'Current language is en-US' }
+[2020-07-26 22:18:23:0144] [info] appWindow will-navigate <url-masked>
+[2020-07-26 22:18:26:0937] [info] appWindow permission-request 
+[2020-07-26 23:00:48:0690] [info] appWindow permission-request 
+[2020-07-26 23:00:57:0058] [info] appWindow will-navigate <url-masked>
+[2020-07-26 23:01:00:0454] [info] appWindow permission-request 
+[2020-07-26 23:18:08:0237] [info] Checking for update
+[2020-07-26 23:18:08:0642] [info] Update for version 1.1.12 is not available (latest version: 1.1.12, downgrade is disallowed).
+[2020-07-27 00:18:08:0303] [info] Checking for update
+[2020-07-27 00:18:08:0636] [info] Update for version 1.1.12 is not available (latest version: 1.1.12, downgrade is disallowed).
+[2020-07-27 01:18:08:0364] [info] Checking for update
+[2020-07-27 01:18:08:0746] [info] Update for version 1.1.12 is not available (latest version: 1.1.12, downgrade is disallowed).
+[2020-07-27 01:28:10:0079] [info] All windows are closed
+[2020-07-27 01:28:10:0080] [info] APP Switching on progress false
+[2020-07-27 01:28:10:0157] [info] Close Window app 
+[2020-07-27 12:46:05:0524] [info] [Application opened]
+[2020-07-27 12:46:05:0536] [info] App version:  1.1.12
+[2020-07-27 12:46:05:0536] [info] Electron version:  5.0.13
+[2020-07-27 12:46:05:0537] [info] Chrome version:  73.0.3683.121
+[2020-07-27 12:46:05:0537] [info] Platform & Architecture:  linux  -  x64
+[2020-07-27 12:46:07:0193] [info] [base-window] redirect-request <url-masked>
+[2020-07-27 12:46:07:0408] [info] loginWindow did-navigate <url-masked>
+[2020-07-27 12:46:07:0417] [info] login screen loaded
+[2020-07-27 12:46:07:0419] [info] Close Window loading 
+[2020-07-27 12:46:07:0433] [info] login Success Masked Data
+[2020-07-27 12:46:07:0729] [info] Close Window login 
+[2020-07-27 12:46:07:0755] [info] Checking for update
+[2020-07-27 12:46:08:0110] [info] appWindow did-navigate <url-masked>
+[2020-07-27 12:46:08:0111] [info] [base-window] redirect-request <url-masked>
+[2020-07-27 12:46:08:0450] [info] Update for version 1.1.12 is not available (latest version: 1.1.12, downgrade is disallowed).
+[2020-07-27 12:46:19:0211] [info] [renderer-console-log] Current language is en-US { message: 'Current language is en-US' }
+[2020-07-27 13:02:05:0078] [info] All windows are closed
+[2020-07-27 13:02:05:0079] [info] APP Switching on progress false
+[2020-07-27 13:02:05:0097] [info] Close Window app 
+[2021-02-11 21:26:31:0417] [info] [Application opened]
+[2021-02-11 21:26:31:0424] [info] App version:  1.1.12
+[2021-02-11 21:26:31:0424] [info] Electron version:  5.0.13
+[2021-02-11 21:26:31:0424] [info] Chrome version:  73.0.3683.121
+[2021-02-11 21:26:31:0424] [info] Platform & Architecture:  linux  -  x64
+[2021-02-11 21:26:32:0554] [info] [base-window] redirect-request <url-masked>
+[2021-02-11 21:26:32:0618] [info] loginWindow did-navigate <url-masked>
+[2021-02-11 21:26:32:0625] [info] [base-window] redirect-request <url-masked>
+[2021-02-11 21:26:34:0286] [info] login screen loaded
+[2021-02-11 21:26:34:0288] [info] Close Window loading 
+[2021-02-11 21:27:01:0234] [info] loginWindow will-navigate <url-masked>
+[2021-02-11 21:27:01:0237] [info] login screen loaded
+[2021-02-11 21:27:01:0237] [info] login Success Masked Data
+[2021-02-11 21:27:01:0357] [info] Close Window login 
+[2021-02-11 21:27:01:0365] [info] Checking for update
+[2021-02-11 21:27:01:0979] [info] appWindow did-navigate <url-masked>
+[2021-02-11 21:27:01:0980] [info] [base-window] redirect-request <url-masked>
+[2021-02-11 21:27:02:0021] [info] Update for version 1.1.12 is not available (latest version: 1.1.12, downgrade is disallowed).
+[2021-02-11 21:27:08:0910] [info] [renderer-console-log] Current language is en-US { message: 'Current language is en-US' }
+[2021-02-11 21:27:35:0616] [info] All windows are closed
+[2021-02-11 21:27:35:0616] [info] APP Switching on progress false
+[2021-02-11 21:27:35:0622] [info] Close Window app 
+[2021-03-05 11:00:18:0007] [info] [Application opened]
+[2021-03-05 11:00:18:0011] [info] App version:  1.1.12
+[2021-03-05 11:00:18:0011] [info] Electron version:  5.0.13
+[2021-03-05 11:00:18:0011] [info] Chrome version:  73.0.3683.121
+[2021-03-05 11:00:18:0011] [info] Platform & Architecture:  linux  -  x64
+[2021-03-05 11:00:18:0852] [info] [base-window] redirect-request <url-masked>
+[2021-03-05 11:00:20:0120] [info] loginWindow did-navigate <url-masked>
+[2021-03-05 11:00:20:0128] [info] login screen loaded
+[2021-03-05 11:00:20:0129] [info] Close Window loading 
+[2021-03-05 11:00:20:0135] [info] login Success Masked Data
+[2021-03-05 11:00:20:0213] [info] Close Window login 
+[2021-03-05 11:00:20:0231] [info] Checking for update
+[2021-03-05 11:00:20:0568] [info] appWindow did-navigate <url-masked>
+[2021-03-05 11:00:20:0569] [info] [base-window] redirect-request <url-masked>
+[2021-03-05 11:00:20:0628] [info] Found version 1.2.0 (url: https://downloads.zohocdn.com/zmail-desktop/linux/zoho-mail-desktop-x64-v1.2.0.AppImage)
+[2021-03-05 11:00:20:0629] [info] Downloading update from https://downloads.zohocdn.com/zmail-desktop/linux/zoho-mail-desktop-x64-v1.2.0.AppImage
+[2021-03-05 11:00:20:0639] [debug] updater cache dir: /home/jake/.cache/zoho-mail-desktop-updater
+[2021-03-05 11:00:20:0660] [info] No cached update info available
+[2021-03-05 11:00:21:0480] [info] File has 3885 changed blocks
+[2021-03-05 11:00:21:0481] [debug] [
+  {
+    "kind": 0,
+    "start": 0,
+    "end": 159006
+  },
+  {
+    "kind": 1,
+    "start": 159006,
+    "end": 15714227
+  },
+  {
+    "kind": 0,
+    "start": 11446635,
+    "end": 11529891
+  },
+  {
+    "kind": 1,
+    "start": 15797483,
+    "end": 20871690
+  },
+  {
+    "kind": 0,
+    "start": 28919464,
+    "end": 28940608
+  },
+  {
+    "kind": 1,
+    "start": 20892834,
+    "end": 25604527
+  },
+  {
+    "kind": 0,
+    "start": 32817537,
+    "end": 32899602
+  },
+  {
+    "kind": 1,
+    "start": 25686592,
+    "end": 81350632
+  }
+]
+[2021-03-05 11:00:21:0516] [info] Full: 79,528.56 KB, To download: 79,106.6 KB (99%)
+[2021-03-05 11:00:28:0032] [info] [renderer-console-log] Current language is en-US { message: 'Current language is en-US' }
+[2021-03-05 11:00:37:0528] [info] New version 1.2.0 has been downloaded to /home/jake/.cache/zoho-mail-desktop-updater/pending/zoho-mail-desktop-x64-v1.2.0.AppImage
+[2021-03-05 11:00:47:0158] [info] Install on explicit quitAndInstall
+[2021-03-05 11:00:47:0158] [info] Install: isSilent: false, isForceRunAfter: true
+[2021-03-05 11:00:47:0182] [info] Before-quit event
+[2021-03-05 11:00:47:0217] [info] Update installer has already been triggered. Quitting application.

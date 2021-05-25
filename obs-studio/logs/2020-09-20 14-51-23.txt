@@ -1,0 +1,149 @@
+02:51:23 PM.919: CPU Name: AMD Ryzen 3 3200U with Radeon Vega Mobile Gfx
+02:51:23 PM.919: CPU Speed: 1452.716MHz
+02:51:23 PM.920: Physical Cores: 2, Logical Cores: 4
+02:51:23 PM.920: Physical Memory: 3444MB Total, 121MB Free
+02:51:23 PM.920: Kernel Version: Linux 5.4.0-47-generic
+02:51:23 PM.920: Distribution: "Ubuntu" "20.04"
+02:51:23 PM.921: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.8
+02:51:23 PM.926: Portable mode: false
+02:51:24 PM.249: OBS 25.0.3+dfsg1-2 (linux)
+02:51:24 PM.249: ---------------------------------
+02:51:24 PM.249: ---------------------------------
+02:51:24 PM.249: audio settings reset:
+02:51:24 PM.249: 	samples per sec: 44100
+02:51:24 PM.249: 	speakers:        2
+02:51:24 PM.261: ---------------------------------
+02:51:24 PM.261: Initializing OpenGL...
+02:51:24 PM.500: Loading up OpenGL on adapter X.Org AMD RAVEN2 (DRM 3.35.0, 5.4.0-47-generic, LLVM 10.0.0)
+02:51:24 PM.500: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 20.0.8, shading language 4.60
+02:51:24 PM.550: ---------------------------------
+02:51:24 PM.550: video settings reset:
+02:51:24 PM.550: 	base resolution:   1920x1080
+02:51:24 PM.550: 	output resolution: 1920x1080
+02:51:24 PM.550: 	downscale filter:  Bicubic
+02:51:24 PM.550: 	fps:               30/1
+02:51:24 PM.550: 	format:            NV12
+02:51:24 PM.550: 	YUV mode:          601/Partial
+02:51:24 PM.550: NV12 texture support not available
+02:51:24 PM.557: Audio monitoring device:
+02:51:24 PM.557: 	name: Default
+02:51:24 PM.557: 	id: default
+02:51:24 PM.558: ---------------------------------
+02:51:24 PM.564: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+02:51:24 PM.744: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+02:51:24 PM.744: No blackmagic support
+02:51:24 PM.873: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+02:51:24 PM.873: 
+02:51:24 PM.873: FFMPEG VAAPI supported
+02:51:24 PM.915: VLC found, VLC video source enabled
+02:51:24 PM.915: ---------------------------------
+02:51:24 PM.915:   Loaded Modules:
+02:51:24 PM.915:     vlc-video.so
+02:51:24 PM.916:     text-freetype2.so
+02:51:24 PM.916:     rtmp-services.so
+02:51:24 PM.916:     obs-x264.so
+02:51:24 PM.916:     obs-transitions.so
+02:51:24 PM.916:     obs-outputs.so
+02:51:24 PM.916:     obs-filters.so
+02:51:24 PM.916:     obs-ffmpeg.so
+02:51:24 PM.916:     linux-v4l2.so
+02:51:24 PM.916:     linux-pulseaudio.so
+02:51:24 PM.916:     linux-jack.so
+02:51:24 PM.916:     linux-decklink.so
+02:51:24 PM.916:     linux-capture.so
+02:51:24 PM.916:     linux-alsa.so
+02:51:24 PM.916:     image-source.so
+02:51:24 PM.916:     frontend-tools.so
+02:51:24 PM.916:     decklink-ouput-ui.so
+02:51:24 PM.916: ---------------------------------
+02:51:24 PM.916: ==== Startup complete ===============================================
+02:51:24 PM.918: Service '' not found
+02:51:24 PM.925: All scene data cleared
+02:51:24 PM.925: ------------------------------------------------
+02:51:24 PM.931: pulse-input: Server name: 'pulseaudio 13.99.1'
+02:51:24 PM.931: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+02:51:24 PM.931: pulse-input: Started recording from 'alsa_output.pci-0000_02_00.6.analog-stereo.monitor'
+02:51:24 PM.935: pulse-input: Server name: 'pulseaudio 13.99.1'
+02:51:24 PM.936: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+02:51:24 PM.936: pulse-input: Started recording from 'alsa_input.pci-0000_02_00.6.analog-stereo'
+02:51:24 PM.974: alsa-input: PCM 'default' rate set to 44100
+02:51:24 PM.974: alsa-input: PCM 'default' channels set to 2
+02:51:24 PM.977: xshm-input: Geometry 1920x1080 @ 0,0
+02:51:25 PM.050: Switched to scene 'Scene'
+02:51:25 PM.051: ------------------------------------------------
+02:51:25 PM.051: Loaded scenes:
+02:51:25 PM.051: - scene 'Scene':
+02:51:25 PM.051:     - source: 'Screen Capture (XSHM)' (xshm_input)
+02:51:25 PM.051:     - source: 'Audio Capture Device (ALSA)' (alsa_input_capture)
+02:51:25 PM.051: ------------------------------------------------
+02:51:25 PM.357: [rtmp-services plugin] Successfully updated file 'services.json' (version 146)
+02:51:25 PM.357: [rtmp-services plugin] Successfully updated package (version 146)
+02:51:25 PM.525: adding 46 milliseconds of audio buffering, total audio buffering is now 46 milliseconds (source: Audio Capture Device (ALSA))
+02:51:25 PM.525: 
+02:51:43 PM.144: ---------------------------------
+02:51:43 PM.144: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+02:51:43 PM.144: [x264 encoder: 'simple_h264_recording'] profile: high
+02:51:43 PM.146: [x264 encoder: 'simple_h264_recording'] settings:
+02:51:43 PM.146: 	rate_control: CRF
+02:51:43 PM.146: 	bitrate:      0
+02:51:43 PM.146: 	buffer size:  0
+02:51:43 PM.146: 	crf:          23
+02:51:43 PM.146: 	fps_num:      30
+02:51:43 PM.146: 	fps_den:      1
+02:51:43 PM.146: 	width:        1920
+02:51:43 PM.146: 	height:       1080
+02:51:43 PM.146: 	keyint:       250
+02:51:43 PM.146: 
+02:51:43 PM.157: ---------------------------------
+02:51:43 PM.158: [FFmpeg aac encoder: 'simple_aac_recording'] bitrate: 192, channels: 2, channel_layout: 3
+02:51:43 PM.158: 
+02:51:43 PM.174: ==== Recording Start ===============================================
+02:51:43 PM.174: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/jake/Videos/2020-09-20 14-51-43.mp4'...
+02:52:04 PM.003: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/jake/Videos/2020-09-20 14-51-43.mp4' stopped
+02:52:04 PM.005: Output 'simple_file_output': stopping
+02:52:04 PM.005: Output 'simple_file_output': Total frames output: 600
+02:52:04 PM.005: Output 'simple_file_output': Total drawn frames: 624 (625 attempted)
+02:52:04 PM.005: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 1 (0.2%)
+02:52:04 PM.007: ==== Recording Stop ================================================
+02:52:20 PM.022: ---------------------------------
+02:52:20 PM.022: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+02:52:20 PM.022: [x264 encoder: 'simple_h264_recording'] profile: high
+02:52:20 PM.022: [x264 encoder: 'simple_h264_recording'] settings:
+02:52:20 PM.022: 	rate_control: CRF
+02:52:20 PM.022: 	bitrate:      0
+02:52:20 PM.022: 	buffer size:  0
+02:52:20 PM.022: 	crf:          23
+02:52:20 PM.022: 	fps_num:      30
+02:52:20 PM.022: 	fps_den:      1
+02:52:20 PM.022: 	width:        1920
+02:52:20 PM.022: 	height:       1080
+02:52:20 PM.022: 	keyint:       250
+02:52:20 PM.022: 
+02:52:20 PM.026: ---------------------------------
+02:52:20 PM.027: [FFmpeg aac encoder: 'simple_aac_recording'] bitrate: 192, channels: 2, channel_layout: 3
+02:52:20 PM.027: 
+02:52:20 PM.048: ==== Recording Start ===============================================
+02:52:20 PM.048: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/jake/Videos/2020-09-20 14-52-20.mp4'...
+02:53:00 PM.671: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/jake/Videos/2020-09-20 14-52-20.mp4' stopped
+02:53:00 PM.672: Output 'simple_file_output': stopping
+02:53:00 PM.672: Output 'simple_file_output': Total frames output: 1128
+02:53:00 PM.672: Output 'simple_file_output': Total drawn frames: 1127 (1219 attempted)
+02:53:00 PM.672: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 92 (7.5%)
+02:53:00 PM.673: ==== Recording Stop ================================================
+02:53:00 PM.689: Video stopped, number of skipped frames due to encoding lag: 320/1217 (26.3%)
+02:54:30 PM.417: adding 23 milliseconds of audio buffering, total audio buffering is now 69 milliseconds (source: Desktop Audio)
+02:54:30 PM.417: 
+02:55:37 PM.431: ==== Shutting down ==================================================
+02:55:37 PM.448: Switched to scene '(null)'
+02:55:37 PM.508: pulse-input: Stopped recording from 'alsa_output.pci-0000_02_00.6.analog-stereo.monitor'
+02:55:37 PM.508: pulse-input: Got 77862 packets with 11134382 frames
+02:55:37 PM.508: pulse-input: Stopped recording from 'alsa_input.pci-0000_02_00.6.analog-stereo'
+02:55:37 PM.508: pulse-input: Got 46526 packets with 11136727 frames
+02:55:37 PM.510: All scene data cleared
+02:55:37 PM.510: ------------------------------------------------
+02:55:37 PM.557: Failed to fetch parent window geometry!
+02:55:37 PM.557: Failed to fetch parent window geometry!
+02:55:37 PM.558: Failed to fetch parent window geometry!
+02:55:37 PM.558: Failed to fetch parent window geometry!
+02:55:37 PM.558: Failed to fetch parent window geometry!
+02:55:37 PM.561: Failed to fetch parent window geometry!

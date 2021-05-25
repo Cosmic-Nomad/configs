@@ -1,0 +1,334 @@
+12:38:32 AM.117: CPU Name: AMD Ryzen 3 3200U with Radeon Vega Mobile Gfx
+12:38:32 AM.117: CPU Speed: 2130.094MHz
+12:38:32 AM.118: Physical Cores: 2, Logical Cores: 4
+12:38:32 AM.118: Physical Memory: 3451MB Total, 399MB Free
+12:38:32 AM.118: Kernel Version: Linux 5.0.0-36-generic
+12:38:32 AM.118: Distribution: "Ubuntu" "19.04"
+12:38:32 AM.118: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.4
+12:38:32 AM.119: Portable mode: false
+12:38:32 AM.167: OBS 24.0.3 (linux)
+12:38:32 AM.168: ---------------------------------
+12:38:32 AM.168: ---------------------------------
+12:38:32 AM.168: audio settings reset:
+12:38:32 AM.168: 	samples per sec: 44100
+12:38:32 AM.168: 	speakers:        2
+12:38:32 AM.174: ---------------------------------
+12:38:32 AM.174: Initializing OpenGL...
+12:38:32 AM.259: Loading up OpenGL on adapter X.Org AMD RAVEN2 (DRM 3.27.0, 5.0.0-36-generic, LLVM 8.0.0)
+12:38:32 AM.259: OpenGL loaded successfully, version 4.5 (Core Profile) Mesa 19.0.8, shading language 4.50
+12:38:32 AM.301: ---------------------------------
+12:38:32 AM.301: video settings reset:
+12:38:32 AM.301: 	base resolution:   1920x1080
+12:38:32 AM.301: 	output resolution: 1280x720
+12:38:32 AM.301: 	downscale filter:  Bicubic
+12:38:32 AM.301: 	fps:               30/1
+12:38:32 AM.301: 	format:            NV12
+12:38:32 AM.301: 	YUV mode:          601/Partial
+12:38:32 AM.302: NV12 texture support not available
+12:38:32 AM.303: Audio monitoring device:
+12:38:32 AM.303: 	name: Default
+12:38:32 AM.303: 	id: default
+12:38:32 AM.303: ---------------------------------
+12:38:32 AM.307: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+12:38:32 AM.412: No blackmagic support
+12:38:32 AM.467: FFMPEG VAAPI supported
+12:38:32 AM.484: os_dlopen(libvlc.so.5->libvlc.so.5): libvlc.so.5: cannot open shared object file: No such file or directory
+12:38:32 AM.484: 
+12:38:32 AM.484: Couldn't find VLC installation, VLC video source disabled
+12:38:32 AM.484: ---------------------------------
+12:38:32 AM.484:   Loaded Modules:
+12:38:32 AM.484:     vlc-video.so
+12:38:32 AM.484:     text-freetype2.so
+12:38:32 AM.484:     rtmp-services.so
+12:38:32 AM.484:     obs-x264.so
+12:38:32 AM.484:     obs-transitions.so
+12:38:32 AM.484:     obs-outputs.so
+12:38:32 AM.484:     obs-libfdk.so
+12:38:32 AM.484:     obs-filters.so
+12:38:32 AM.484:     obs-ffmpeg.so
+12:38:32 AM.484:     linux-v4l2.so
+12:38:32 AM.484:     linux-pulseaudio.so
+12:38:32 AM.484:     linux-jack.so
+12:38:32 AM.484:     linux-decklink.so
+12:38:32 AM.484:     linux-capture.so
+12:38:32 AM.484:     linux-alsa.so
+12:38:32 AM.484:     image-source.so
+12:38:32 AM.484:     frontend-tools.so
+12:38:32 AM.484:     decklink-ouput-ui.so
+12:38:32 AM.484: ---------------------------------
+12:38:32 AM.484: ==== Startup complete ===============================================
+12:38:32 AM.484: Service '' not found
+12:38:32 AM.485: No scene file found, creating default scene
+12:38:32 AM.485: All scene data cleared
+12:38:32 AM.485: ------------------------------------------------
+12:38:32 AM.491: pulse-input: Server name: 'pulseaudio 12.2'
+12:38:32 AM.491: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+12:38:32 AM.491: pulse-input: Started recording from 'alsa_output.pci-0000_02_00.6.analog-stereo.monitor'
+12:38:32 AM.562: pulse-input: Server name: 'pulseaudio 12.2'
+12:38:32 AM.562: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+12:38:32 AM.562: pulse-input: Started recording from 'alsa_input.pci-0000_02_00.6.analog-stereo'
+12:38:32 AM.562: Switched to scene 'Scene'
+12:38:32 AM.562: Failed to glob scene collections
+12:38:33 AM.208: adding 46 milliseconds of audio buffering, total audio buffering is now 46 milliseconds (source: Desktop Audio)
+12:38:33 AM.208: 
+12:38:47 AM.411: 
+12:38:47 AM.411: ==== Auto-config wizard testing commencing ======
+
+12:38:47 AM.437: ---------------------------------
+12:38:47 AM.437: video settings reset:
+12:38:47 AM.437: 	base resolution:   1920x1080
+12:38:47 AM.437: 	output resolution: 960x540
+12:38:47 AM.437: 	downscale filter:  Bicubic
+12:38:47 AM.437: 	fps:               30/1
+12:38:47 AM.437: 	format:            NV12
+12:38:47 AM.437: 	YUV mode:          601/Partial
+12:38:47 AM.437: NV12 texture support not available
+12:38:47 AM.438: ---------------------------------
+12:38:47 AM.438: [x264 encoder: 'test_x264'] preset: veryfast
+12:38:47 AM.438: [x264 encoder: 'test_x264'] profile: high
+12:38:47 AM.444: [x264 encoder: 'test_x264'] settings:
+12:38:47 AM.444: 	rate_control: CRF
+12:38:47 AM.444: 	bitrate:      0
+12:38:47 AM.444: 	buffer size:  0
+12:38:47 AM.444: 	crf:          20
+12:38:47 AM.444: 	fps_num:      30
+12:38:47 AM.444: 	fps_den:      1
+12:38:47 AM.444: 	width:        960
+12:38:47 AM.444: 	height:       540
+12:38:47 AM.444: 	keyint:       250
+12:38:47 AM.444: 
+12:38:47 AM.450: ---------------------------------
+12:38:47 AM.451: [FFmpeg aac encoder: 'test_aac'] bitrate: 32, channels: 2, channel_layout: 3
+12:38:47 AM.451: 
+12:38:52 AM.461: Output 'null': stopping
+12:38:52 AM.462: Output 'null': Total frames output: 129
+12:38:52 AM.462: Output 'null': Total drawn frames: 150
+12:38:52 AM.505: ---------------------------------
+12:38:52 AM.505: video settings reset:
+12:38:52 AM.505: 	base resolution:   1920x1080
+12:38:52 AM.505: 	output resolution: 852x480
+12:38:52 AM.505: 	downscale filter:  Bicubic
+12:38:52 AM.505: 	fps:               30/1
+12:38:52 AM.505: 	format:            NV12
+12:38:52 AM.505: 	YUV mode:          601/Partial
+12:38:52 AM.505: NV12 texture support not available
+12:38:52 AM.505: ---------------------------------
+12:38:52 AM.506: [x264 encoder: 'test_x264'] preset: veryfast
+12:38:52 AM.506: [x264 encoder: 'test_x264'] profile: high
+12:38:52 AM.506: [x264 encoder: 'test_x264'] settings:
+12:38:52 AM.506: 	rate_control: CRF
+12:38:52 AM.506: 	bitrate:      0
+12:38:52 AM.506: 	buffer size:  0
+12:38:52 AM.506: 	crf:          20
+12:38:52 AM.506: 	fps_num:      30
+12:38:52 AM.506: 	fps_den:      1
+12:38:52 AM.506: 	width:        852
+12:38:52 AM.506: 	height:       480
+12:38:52 AM.506: 	keyint:       250
+12:38:52 AM.506: 
+12:38:52 AM.510: ---------------------------------
+12:38:52 AM.510: [FFmpeg aac encoder: 'test_aac'] bitrate: 32, channels: 2, channel_layout: 3
+12:38:52 AM.510: 
+12:38:57 AM.512: Output 'null': stopping
+12:38:57 AM.512: Output 'null': Total frames output: 129
+12:38:57 AM.512: Output 'null': Total drawn frames: 150
+12:38:57 AM.572: ---------------------------------
+12:38:57 AM.572: video settings reset:
+12:38:57 AM.572: 	base resolution:   1920x1080
+12:38:57 AM.572: 	output resolution: 1280x720
+12:38:57 AM.572: 	downscale filter:  Bicubic
+12:38:57 AM.572: 	fps:               30/1
+12:38:57 AM.572: 	format:            NV12
+12:38:57 AM.572: 	YUV mode:          601/Partial
+12:38:57 AM.573: NV12 texture support not available
+12:39:02 AM.774: ---------------------------------
+12:39:02 AM.774: video settings reset:
+12:39:02 AM.774: 	base resolution:   1920x1080
+12:39:02 AM.774: 	output resolution: 960x540
+12:39:02 AM.774: 	downscale filter:  Bicubic
+12:39:02 AM.774: 	fps:               30/1
+12:39:02 AM.774: 	format:            NV12
+12:39:02 AM.774: 	YUV mode:          601/Partial
+12:39:02 AM.774: NV12 texture support not available
+12:39:02 AM.776: 
+12:39:02 AM.776: ==== Auto-config wizard testing stopping ========
+
+12:39:26 AM.287: alsa-input: PCM 'default' rate set to 44100
+12:39:26 AM.287: alsa-input: PCM 'default' channels set to 2
+12:39:26 AM.291: User added source 'Audio Capture Device (ALSA)' (alsa_input_capture) to scene 'Scene'
+12:39:38 AM.786: xshm-input: Geometry 1920x1080 @ 0,0
+12:39:38 AM.790: User added source 'Screen Capture (XSHM)' (xshm_input) to scene 'Scene'
+12:39:45 AM.514: xshm-input: Geometry 1920x1080 @ 0,0
+12:39:46 AM.946: xshm-input: Geometry 1920x1080 @ 0,0
+12:41:53 AM.350: adding 69 milliseconds of audio buffering, total audio buffering is now 116 milliseconds (source: Desktop Audio)
+12:41:53 AM.350: 
+12:43:09 AM.505: Out of space trying to render glyphs
+12:43:09 AM.543: Out of space trying to render glyphs
+12:44:59 AM.635: ---------------------------------
+12:44:59 AM.635: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+12:44:59 AM.635: [x264 encoder: 'simple_h264_recording'] profile: high
+12:44:59 AM.635: [x264 encoder: 'simple_h264_recording'] settings:
+12:44:59 AM.635: 	rate_control: CRF
+12:44:59 AM.635: 	bitrate:      0
+12:44:59 AM.635: 	buffer size:  0
+12:44:59 AM.635: 	crf:          19
+12:44:59 AM.635: 	fps_num:      30
+12:44:59 AM.635: 	fps_den:      1
+12:44:59 AM.635: 	width:        960
+12:44:59 AM.635: 	height:       540
+12:44:59 AM.635: 	keyint:       250
+12:44:59 AM.635: 
+12:44:59 AM.643: libfdk_aac encoder created
+12:44:59 AM.643: libfdk_aac bitrate: 128, channels: 2
+12:44:59 AM.663: ==== Recording Start ===============================================
+12:44:59 AM.663: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/jake/2019-12-10 00-44-59.mkv'...
+12:45:17 AM.511: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/jake/2019-12-10 00-44-59.mkv' stopped
+12:45:17 AM.511: Output 'simple_file_output': stopping
+12:45:17 AM.511: Output 'simple_file_output': Total frames output: 513
+12:45:17 AM.511: Output 'simple_file_output': Total drawn frames: 535 (536 attempted)
+12:45:17 AM.511: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 1 (0.2%)
+12:45:17 AM.511: ==== Recording Stop ================================================
+12:45:17 AM.525: libfdk_aac encoder destroyed
+12:45:17 AM.722: Switched to Preview/Program mode
+12:45:17 AM.723: ------------------------------------------------
+12:45:40 AM.734: User added scene 'Scene 2'
+12:45:40 AM.743: User switched to scene 'Scene 2'
+12:45:58 AM.495: User added source 'Image' (image_source) to scene 'Scene 2'
+12:47:05 AM.327: User switched to scene 'Scene'
+12:47:07 AM.025: User switched to scene 'Scene 2'
+12:47:08 AM.327: User switched to scene 'Scene'
+12:47:09 AM.759: User switched to scene 'Scene 2'
+12:47:11 AM.360: User switched to scene 'Scene'
+12:47:12 AM.792: User switched to scene 'Scene 2'
+12:47:20 AM.394: User switched to scene 'Scene'
+12:47:25 AM.793: User switched to scene 'Scene 2'
+12:47:41 AM.520: User switched to scene 'Scene'
+12:47:41 AM.532: User Removed scene 'Scene 2'
+12:48:04 AM.767: [Media Source 'Media Source']: settings:
+12:48:04 AM.767: 	input:                   
+12:48:04 AM.767: 	input_format:            (null)
+12:48:04 AM.767: 	speed:                   100
+12:48:04 AM.767: 	is_looping:              no
+12:48:04 AM.767: 	is_hw_decoding:          no
+12:48:04 AM.767: 	is_clear_on_media_end:   yes
+12:48:04 AM.767: 	restart_on_activate:     yes
+12:48:04 AM.767: 	close_when_inactive:     no
+12:48:04 AM.769: User added source 'Media Source' (ffmpeg_source) to scene 'Scene'
+12:48:15 AM.400: User Removed source 'Media Source' (ffmpeg_source) from scene 'Scene'
+12:48:20 AM.316: User Removed source 'Audio Capture Device (ALSA)' (alsa_input_capture) from scene 'Scene'
+12:48:40 AM.077: alsa-input: PCM 'default' rate set to 44100
+12:48:40 AM.077: alsa-input: PCM 'default' channels set to 2
+12:48:40 AM.094: User added source 'Audio Capture Device (ALSA)' (alsa_input_capture) to scene 'Scene'
+12:50:56 AM.933: ---------------------------------
+12:50:56 AM.933: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+12:50:56 AM.933: [x264 encoder: 'simple_h264_recording'] profile: high
+12:50:56 AM.933: [x264 encoder: 'simple_h264_recording'] settings:
+12:50:56 AM.933: 	rate_control: CRF
+12:50:56 AM.933: 	bitrate:      0
+12:50:56 AM.933: 	buffer size:  0
+12:50:56 AM.933: 	crf:          19
+12:50:56 AM.933: 	fps_num:      30
+12:50:56 AM.933: 	fps_den:      1
+12:50:56 AM.933: 	width:        960
+12:50:56 AM.933: 	height:       540
+12:50:56 AM.933: 	keyint:       250
+12:50:56 AM.933: 
+12:50:56 AM.936: libfdk_aac encoder created
+12:50:56 AM.936: libfdk_aac bitrate: 128, channels: 2
+12:50:56 AM.943: ==== Recording Start ===============================================
+12:50:56 AM.943: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/jake/2019-12-10 00-50-56.mkv'...
+12:51:28 AM.636: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/jake/2019-12-10 00-50-56.mkv' stopped
+12:51:28 AM.636: Output 'simple_file_output': stopping
+12:51:28 AM.636: Output 'simple_file_output': Total frames output: 930
+12:51:28 AM.636: Output 'simple_file_output': Total drawn frames: 951
+12:51:28 AM.637: ==== Recording Stop ================================================
+12:51:28 AM.642: libfdk_aac encoder destroyed
+01:23:53 AM.104: ---------------------------------
+01:23:53 AM.104: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+01:23:53 AM.104: [x264 encoder: 'simple_h264_recording'] profile: high
+01:23:53 AM.104: [x264 encoder: 'simple_h264_recording'] settings:
+01:23:53 AM.104: 	rate_control: CRF
+01:23:53 AM.104: 	bitrate:      0
+01:23:53 AM.104: 	buffer size:  0
+01:23:53 AM.104: 	crf:          19
+01:23:53 AM.104: 	fps_num:      30
+01:23:53 AM.104: 	fps_den:      1
+01:23:53 AM.104: 	width:        960
+01:23:53 AM.104: 	height:       540
+01:23:53 AM.104: 	keyint:       250
+01:23:53 AM.104: 
+01:23:53 AM.119: libfdk_aac encoder created
+01:23:53 AM.119: libfdk_aac bitrate: 128, channels: 2
+01:23:53 AM.136: ==== Recording Start ===============================================
+01:23:53 AM.136: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/jake/2019-12-10 01-23-53.mkv'...
+01:24:18 AM.885: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/jake/2019-12-10 01-23-53.mkv' stopped
+01:24:18 AM.886: Output 'simple_file_output': stopping
+01:24:18 AM.886: Output 'simple_file_output': Total frames output: 750
+01:24:18 AM.886: Output 'simple_file_output': Total drawn frames: 773
+01:24:18 AM.887: ==== Recording Stop ================================================
+01:24:18 AM.903: libfdk_aac encoder destroyed
+01:24:51 AM.040: Switched to scene 'Scene'
+01:24:51 AM.062: Switched to regular Preview mode
+01:24:51 AM.062: ------------------------------------------------
+01:25:57 AM.257: Settings changed (outputs)
+01:25:57 AM.257: ------------------------------------------------
+01:26:12 AM.244: ---------------------------------
+01:26:12 AM.244: video settings reset:
+01:26:12 AM.244: 	base resolution:   1920x1080
+01:26:12 AM.244: 	output resolution: 1920x1080
+01:26:12 AM.244: 	downscale filter:  Bicubic
+01:26:12 AM.244: 	fps:               60/1
+01:26:12 AM.244: 	format:            NV12
+01:26:12 AM.244: 	YUV mode:          601/Partial
+01:26:12 AM.249: NV12 texture support not available
+01:26:12 AM.254: Settings changed (video)
+01:26:12 AM.254: ------------------------------------------------
+01:27:03 AM.660: ---------------------------------
+01:27:03 AM.660: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+01:27:03 AM.660: [x264 encoder: 'simple_h264_recording'] profile: high
+01:27:03 AM.660: [x264 encoder: 'simple_h264_recording'] settings:
+01:27:03 AM.660: 	rate_control: CRF
+01:27:03 AM.660: 	bitrate:      0
+01:27:03 AM.660: 	buffer size:  0
+01:27:03 AM.660: 	crf:          23
+01:27:03 AM.660: 	fps_num:      60
+01:27:03 AM.660: 	fps_den:      1
+01:27:03 AM.660: 	width:        1920
+01:27:03 AM.660: 	height:       1080
+01:27:03 AM.660: 	keyint:       250
+01:27:03 AM.660: 
+01:27:03 AM.665: libfdk_aac encoder created
+01:27:03 AM.665: libfdk_aac bitrate: 128, channels: 2
+01:27:03 AM.682: ==== Recording Start ===============================================
+01:27:03 AM.682: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/jake/Videos/2019-12-10 01-27-03.mp4'...
+01:32:47 AM.701: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/jake/Videos/2019-12-10 01-27-03.mp4' stopped
+01:32:47 AM.701: Output 'simple_file_output': stopping
+01:32:47 AM.702: Output 'simple_file_output': Total frames output: 17791
+01:32:47 AM.702: Output 'simple_file_output': Total drawn frames: 8987 (20640 attempted)
+01:32:47 AM.702: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 11653 (56.5%)
+01:32:47 AM.706: ==== Recording Stop ================================================
+01:32:47 AM.958: Video stopped, number of skipped frames due to encoding lag: 17410/17820 (97.7%)
+01:32:48 AM.005: libfdk_aac encoder destroyed
+01:34:00 AM.662: ---------------------------------
+01:34:00 AM.668: video settings reset:
+01:34:00 AM.668: 	base resolution:   1920x1080
+01:34:00 AM.668: 	output resolution: 1280x720
+01:34:00 AM.668: 	downscale filter:  Bicubic
+01:34:00 AM.668: 	fps:               30/1
+01:34:00 AM.668: 	format:            NV12
+01:34:00 AM.668: 	YUV mode:          601/Partial
+01:34:00 AM.668: NV12 texture support not available
+01:34:00 AM.672: Settings changed (video)
+01:34:00 AM.672: ------------------------------------------------
+01:35:00 AM.184: ==== Shutting down ==================================================
+01:35:00 AM.197: Switched to scene '(null)'
+01:35:00 AM.216: pulse-input: Stopped recording from 'alsa_output.pci-0000_02_00.6.analog-stereo.monitor'
+01:35:00 AM.216: pulse-input: Got 607596 packets with 149674538 frames
+01:35:00 AM.216: pulse-input: Stopped recording from 'alsa_input.pci-0000_02_00.6.analog-stereo'
+01:35:00 AM.216: pulse-input: Got 674093 packets with 149395040 frames
+01:35:00 AM.218: All scene data cleared
+01:35:00 AM.218: ------------------------------------------------
+01:35:00 AM.249: Failed to fetch parent window geometry!
+01:35:00 AM.250: Failed to fetch parent window geometry!
+01:35:00 AM.251: Failed to fetch parent window geometry!
+01:35:00 AM.271: Failed to fetch parent window geometry!

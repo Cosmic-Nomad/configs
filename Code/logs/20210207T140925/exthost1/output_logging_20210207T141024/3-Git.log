@@ -1,0 +1,29 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/jake/Documents/Web Development/portfolio
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git check-ignore -v -z --stdin
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git show --textconv :index.html
+> git show --textconv :style.scss
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/index.html
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/style.scss
+> git symbolic-ref --short HEAD
+> git cat-file -s 08fc1f0d3160b4321e48a0e2f2aa4c1561e26717
+> git rev-parse gh-pages
+> git cat-file -s 333b0a43b1de7e2845dc61ab56582707637ac18c
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git config --local branch.gh-pages.github-pr-owner-number

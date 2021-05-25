@@ -1,0 +1,56 @@
+2021/01/25-12:15:40.380 150fc Reusing MANIFEST /home/jake/.config/vivaldi/Default/Local Storage/leveldb/MANIFEST-000001
+2021/01/25-12:15:40.381 150fc Recovering log #1999
+2021/01/25-12:15:40.384 150fc Level-0 table #2002: started
+2021/01/25-12:15:40.390 150fc Level-0 table #2002: 25224 bytes OK
+2021/01/25-12:15:40.395 150fc Delete type=0 #1999
+2021/01/25-12:15:40.395 150fd Compacting 4@0 + 5@1 files
+2021/01/25-12:15:40.466 150fd Generated table #2004@0: 577 keys, 2106185 bytes
+2021/01/25-12:15:40.508 150fd Generated table #2005@0: 415 keys, 2112635 bytes
+2021/01/25-12:15:40.582 150fd Generated table #2006@0: 541 keys, 2138190 bytes
+2021/01/25-12:15:40.613 150fd Generated table #2007@0: 44 keys, 2116452 bytes
+2021/01/25-12:15:40.636 150fd Generated table #2008@0: 576 keys, 1052745 bytes
+2021/01/25-12:15:40.636 150fd Compacted 4@0 + 5@1 files => 9526207 bytes
+2021/01/25-12:15:40.642 150fd compacted to: files[ 0 5 1 0 0 0 0 ]
+2021/01/25-12:15:40.643 150fd Delete type=2 #1990
+2021/01/25-12:15:40.643 150fd Delete type=2 #1993
+2021/01/25-12:15:40.643 150fd Delete type=2 #2002
+2021/01/25-12:15:40.643 150fd Delete type=2 #1994
+2021/01/25-12:15:40.643 150fd Delete type=2 #1996
+2021/01/25-12:15:40.643 150fd Delete type=2 #2000
+2021/01/25-12:15:40.643 150fd Delete type=2 #1992
+2021/01/25-12:15:40.643 150fd Delete type=2 #1998
+2021/01/25-12:15:40.643 150fd Delete type=2 #1991
+2021/01/25-12:15:57.788 1514c Level-0 table #2010: started
+2021/01/25-12:15:57.816 1514c Level-0 table #2010: 569829 bytes OK
+2021/01/25-12:15:57.820 1514c Delete type=0 #2003
+2021/01/25-12:19:57.505 15106 Level-0 table #2012: started
+2021/01/25-12:19:57.522 15106 Level-0 table #2012: 1467827 bytes OK
+2021/01/25-12:19:57.526 15106 Delete type=0 #2009
+2021/01/25-12:36:52.742 16bfa Level-0 table #2014: started
+2021/01/25-12:36:52.748 16bfa Level-0 table #2014: 14658 bytes OK
+2021/01/25-12:36:52.755 16bfa Delete type=0 #2011
+2021/01/25-12:47:11.193 1b8e0 Level-0 table #2016: started
+2021/01/25-12:47:11.197 1b8e0 Level-0 table #2016: 11159 bytes OK
+2021/01/25-12:47:11.203 1b8e0 Delete type=0 #2013
+2021/01/25-12:47:11.205 16bfa Compacting 4@0 + 3@1 files
+2021/01/25-12:47:11.234 16bfa Generated table #2017@0: 577 keys, 2105354 bytes
+2021/01/25-12:47:11.253 16bfa Generated table #2018@0: 423 keys, 2111557 bytes
+2021/01/25-12:47:11.297 16bfa Generated table #2019@0: 542 keys, 2137996 bytes
+2021/01/25-12:47:11.297 16bfa Compacted 4@0 + 3@1 files => 6354907 bytes
+2021/01/25-12:47:11.299 16bfa compacted to: files[ 0 5 1 0 0 0 0 ]
+2021/01/25-12:47:11.299 16bfa Delete type=2 #2005
+2021/01/25-12:47:11.299 16bfa Delete type=2 #2004
+2021/01/25-12:47:11.299 16bfa Delete type=2 #2016
+2021/01/25-12:47:11.299 16bfa Delete type=2 #2012
+2021/01/25-12:47:11.299 16bfa Delete type=2 #2014
+2021/01/25-12:47:11.299 16bfa Delete type=2 #2006
+2021/01/25-12:47:11.299 16bfa Delete type=2 #2010
+2021/01/25-12:55:26.367 1b8e0 Level-0 table #2021: started
+2021/01/25-12:55:26.371 1b8e0 Level-0 table #2021: 12271 bytes OK
+2021/01/25-12:55:26.374 1b8e0 Delete type=0 #2015
+2021/01/25-13:01:39.369 1e154 Level-0 table #2023: started
+2021/01/25-13:01:39.374 1e154 Level-0 table #2023: 9379 bytes OK
+2021/01/25-13:01:39.378 1e154 Delete type=0 #2020
+2021/01/25-13:07:51.197 16bf9 Level-0 table #2025: started
+2021/01/25-13:07:51.204 16bf9 Level-0 table #2025: 10305 bytes OK
+2021/01/25-13:07:51.206 16bf9 Delete type=0 #2022

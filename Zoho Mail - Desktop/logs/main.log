@@ -1,0 +1,20 @@
+[2021-03-05 11:00:48.140] [info] [Application opened]
+[2021-03-05 11:00:48.148] [info] App version:  1.2.0
+[2021-03-05 11:00:48.149] [info] Electron version:  11.2.3
+[2021-03-05 11:00:48.149] [info] Chrome version:  87.0.4280.141
+[2021-03-05 11:00:48.150] [info] Platform & Architecture:  linux  -  x64
+[2021-03-05 11:00:49.445] [info] [base-window] redirect-request <url-masked>
+[2021-03-05 11:00:50.193] [info] loginWindow did-navigate <url-masked>
+[2021-03-05 11:00:50.206] [info] login screen loaded
+[2021-03-05 11:00:50.206] [info] Close Window loading 
+[2021-03-05 11:00:50.210] [info] login Success Masked Data
+[2021-03-05 11:00:50.251] [info] Close Window login 
+[2021-03-05 11:00:50.267] [info] Checking for update
+[2021-03-05 11:00:50.539] [info] Update for version 1.2.0 is not available (latest version: 1.2.0, downgrade is disallowed).
+[2021-03-05 11:00:50.930] [info] appWindow did-navigate <url-masked>
+[2021-03-05 11:00:50.930] [info] [base-window] redirect-request <url-masked>
+[2021-03-05 11:51:19.464] [info] appWindow permission-request 
+[2021-03-05 12:13:03.134] [info] appWindow permission-request 
+[2021-03-05 12:29:12.865] [info] All windows are closed
+[2021-03-05 12:29:12.865] [info] APP Switching on progress false
+[2021-03-05 12:29:12.870] [info] Close Window app 

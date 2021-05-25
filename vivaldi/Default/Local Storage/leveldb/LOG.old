@@ -1,0 +1,35 @@
+2020/11/23-00:39:44.922 2345f Reusing MANIFEST /home/jake/.config/vivaldi/Default/Local Storage/leveldb/MANIFEST-000001
+2020/11/23-00:39:44.926 2345f Recovering log #1983
+2020/11/23-00:39:44.927 2345f Reusing old log /home/jake/.config/vivaldi/Default/Local Storage/leveldb/001983.log 
+2020/11/23-00:46:09.051 23926 Level-0 table #1987: started
+2020/11/23-00:46:09.059 23926 Level-0 table #1987: 23904 bytes OK
+2020/11/23-00:46:09.061 23926 Delete type=0 #1983
+2020/11/23-01:00:21.750 24505 Level-0 table #1989: started
+2020/11/23-01:00:21.758 24505 Level-0 table #1989: 13905 bytes OK
+2020/11/23-01:00:21.760 24505 Delete type=0 #1986
+2020/11/23-01:00:21.761 24142 Compacting 4@0 + 5@1 files
+2020/11/23-01:00:21.791 24142 Generated table #1990@0: 577 keys, 2104457 bytes
+2020/11/23-01:00:21.812 24142 Generated table #1991@0: 414 keys, 2110403 bytes
+2020/11/23-01:00:21.853 24142 Generated table #1992@0: 536 keys, 2137822 bytes
+2020/11/23-01:00:21.877 24142 Generated table #1993@0: 44 keys, 2116452 bytes
+2020/11/23-01:00:21.894 24142 Generated table #1994@0: 576 keys, 1051681 bytes
+2020/11/23-01:00:21.895 24142 Compacted 4@0 + 5@1 files => 9520815 bytes
+2020/11/23-01:00:21.896 24142 compacted to: files[ 0 5 1 0 0 0 0 ]
+2020/11/23-01:00:21.896 24142 Delete type=2 #1981
+2020/11/23-01:00:21.896 24142 Delete type=2 #1987
+2020/11/23-01:00:21.896 24142 Delete type=2 #1968
+2020/11/23-01:00:21.896 24142 Delete type=2 #1984
+2020/11/23-01:00:21.896 24142 Delete type=2 #1969
+2020/11/23-01:00:21.896 24142 Delete type=2 #1967
+2020/11/23-01:00:21.896 24142 Delete type=2 #1979
+2020/11/23-01:00:21.897 24142 Delete type=2 #1989
+2020/11/23-01:00:21.897 24142 Delete type=2 #1978
+2020/11/23-01:07:09.051 24bcd Level-0 table #1996: started
+2020/11/23-01:07:09.058 24bcd Level-0 table #1996: 13329 bytes OK
+2020/11/23-01:07:09.060 24bcd Delete type=0 #1988
+2020/11/23-01:09:28.946 24dab Level-0 table #1998: started
+2020/11/23-01:09:28.953 24dab Level-0 table #1998: 11146 bytes OK
+2020/11/23-01:09:28.955 24dab Delete type=0 #1995
+2020/11/23-01:21:28.310 255e4 Level-0 table #2000: started
+2020/11/23-01:21:28.317 255e4 Level-0 table #2000: 14696 bytes OK
+2020/11/23-01:21:28.319 255e4 Delete type=0 #1997

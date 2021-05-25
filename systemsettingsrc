@@ -1,0 +1,17 @@
+[DownloadDialog Settings]
+Height 1080=494
+Width 1920=700
+
+[KFileDialog Settings]
+Height 1080=540
+Recent Files[$e]=twemoji-13.0.1.tar.gz,file:$HOME/Downloads/twemoji-13.0.1.tar.gz
+Recent URLs[$e]=file:$HOME/Downloads/
+Width 1920=960
+detailViewIconSize=0
+
+[MainWindow]
+Height 1080=700
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABAAAAAK8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=1024

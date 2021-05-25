@@ -1,0 +1,15 @@
+2020/11/23-01:22:09.245 255e5 Reusing MANIFEST /home/jake/.config/vivaldi/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/23-01:22:09.245 255e5 Recovering log #4
+2020/11/23-01:22:09.245 255e5 Reusing old log /home/jake/.config/vivaldi/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000004.log 
+2020/11/23-01:22:25.733 255e4 Level-0 table #8: started
+2020/11/23-01:22:25.743 255e4 Level-0 table #8: 417232 bytes OK
+2020/11/23-01:22:25.746 255e4 Delete type=0 #4
+2020/11/23-01:22:25.747 2513d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/23-01:22:25.747 2513d Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x03\x02\x01%\x00e\x00a\x001\x007\x004\x005\x006\x001\x004\x007\x00f\x001\x005\x007\x005\x006\x001\x00e\x006\x00d\x00d\x004\x007\x00d\x00e\x008\x00c\x00b\x00e\x008\x00a\x004\x00_\x006\x00:\x000\x000' @ 744 : 1
+2020/11/23-01:22:25.747 2513d Compacting 1@1 + 1@2 files
+2020/11/23-01:22:25.755 2513d Generated table #9@1: 296 keys, 151885 bytes
+2020/11/23-01:22:25.756 2513d Compacted 1@1 + 1@2 files => 151885 bytes
+2020/11/23-01:22:25.757 2513d compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/23-01:22:25.758 2513d Delete type=2 #5
+2020/11/23-01:22:25.758 2513d Delete type=2 #8
+2020/11/23-01:22:25.759 255e4 Manual compaction at level-1 from '\x00\x01\x03\x02\x01%\x00e\x00a\x001\x007\x004\x005\x006\x001\x004\x007\x00f\x001\x005\x007\x005\x006\x001\x00e\x006\x00d\x00d\x004\x007\x00d\x00e\x008\x00c\x00b\x00e\x008\x00a\x004\x00_\x006\x00:\x000\x000' @ 744 : 1 .. (end); will stop at (end)

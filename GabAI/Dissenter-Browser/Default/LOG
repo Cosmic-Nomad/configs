@@ -1,0 +1,14 @@
+2021/03/04-14:15:48.012 1faac Recovering log #228
+2021/03/04-14:15:48.012 1faac Level-0 table #230: started
+2021/03/04-14:15:48.015 1faac Level-0 table #230: 667 bytes OK
+2021/03/04-14:15:48.022 1faac Delete type=3 #226
+2021/03/04-14:15:48.022 1faac Delete type=0 #228
+2021/03/04-14:15:48.023 5c42 Compacting 4@0 + 1@1 files
+2021/03/04-14:15:48.034 5c42 Generated table #232@0: 2 keys, 518 bytes
+2021/03/04-14:15:48.034 5c42 Compacted 4@0 + 1@1 files => 518 bytes
+2021/03/04-14:15:48.036 5c42 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/03/04-14:15:48.039 5c42 Delete type=2 #221
+2021/03/04-14:15:48.039 5c42 Delete type=2 #230
+2021/03/04-14:15:48.039 5c42 Delete type=2 #219
+2021/03/04-14:15:48.039 5c42 Delete type=2 #224
+2021/03/04-14:15:48.039 5c42 Delete type=2 #227

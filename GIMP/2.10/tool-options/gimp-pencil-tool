@@ -1,0 +1,12 @@
+# GIMP gimp-pencil-tool options
+
+(opacity 0.41499999999999998)
+(brush "2. Hardness 025")
+(dynamics "Dynamics Off")
+(gradient "FG to BG (RGB)")
+(palette "Color History")
+(brush-size 188)
+(brush-spacing 0.050000000000000003)
+(brush-hardness 0.12)
+
+# end of gimp-pencil-tool options

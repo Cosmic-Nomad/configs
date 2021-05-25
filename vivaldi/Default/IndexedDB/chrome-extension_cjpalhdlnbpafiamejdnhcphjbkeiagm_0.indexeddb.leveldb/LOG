@@ -1,0 +1,8 @@
+2021/01/25-12:15:42.978 1514b Reusing MANIFEST /home/jake/.config/vivaldi/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/25-12:15:42.980 1514b Recovering log #23
+2021/01/25-12:15:42.980 1514b Reusing old log /home/jake/.config/vivaldi/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/000023.log 
+2021/01/25-12:15:44.999 150fd Level-0 table #27: started
+2021/01/25-12:15:45.002 150fd Level-0 table #27: 0 bytes OK
+2021/01/25-12:15:45.028 150fd Delete type=0 #23
+2021/01/25-12:15:45.029 150fd Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/25-12:15:45.029 150fd Manual compaction at level-1 from (begin) .. (end); will stop at (end)

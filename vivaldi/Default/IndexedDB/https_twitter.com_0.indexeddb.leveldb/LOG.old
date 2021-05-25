@@ -1,0 +1,10 @@
+2020/02/16-12:30:43.918 cce Reusing MANIFEST /home/jake/.config/vivaldi/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/02/16-12:30:43.918 cce Recovering log #7
+2020/02/16-12:30:43.970 cce Reusing old log /home/jake/.config/vivaldi/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/000007.log 
+2020/02/16-12:42:13.398 1775 Level-0 table #12: started
+2020/02/16-12:42:13.444 1775 Level-0 table #12: 1195099 bytes OK
+2020/02/16-12:42:13.448 1775 Delete type=0 #7
+2020/02/16-12:43:30.054 1775 Compacting 1@1 + 1@2 files
+2020/02/16-12:43:30.078 1775 Generated table #13@1: 62 keys, 239225 bytes
+2020/02/16-12:43:30.078 1775 Compacted 1@1 + 1@2 files => 239225 bytes
+2020/02/16-12:43:30.080 1775 compacted to: files[ 0 0 1 0 0 0 0 ]

@@ -1,0 +1,33 @@
+{
+   "app": {
+      "display_mode": "standalone",
+      "icon_color": "#1CCD78",
+      "launch": {
+         "web_url": "https://gab.com/home"
+      },
+      "linked_icons": [ {
+         "size": 192,
+         "url": "https://gab.com/android-chrome-192x192.png"
+      } ],
+      "theme_color": "rgba(33,208,123,1)"
+   },
+   "description": "",
+   "icons": {
+      "128": "icons/128.png",
+      "192": "icons/192.png",
+      "256": "icons/256.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png",
+      "64": "icons/64.png",
+      "96": "icons/96.png"
+   },
+   "key": "NGBtbjwEXYW2izmQe4518NrANoTluCAA1rMvhSdoRPM=",
+   "name": "Gab Social",
+   "url_handlers": {
+      "scope": {
+         "matches": [ "https://gab.com/*" ],
+         "title": "Gab Social"
+      }
+   },
+   "version": "2020.9.20.53205"
+}

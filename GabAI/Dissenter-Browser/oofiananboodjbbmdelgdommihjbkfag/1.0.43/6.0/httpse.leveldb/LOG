@@ -1,0 +1,7 @@
+2021/05/25-13:19:35.032 1bf3 Recovering log #3
+2021/05/25-13:19:35.410 1bf3 Level-0 table #5: started
+2021/05/25-13:19:35.636 1bf3 Level-0 table #5: 2784727 bytes OK
+2021/05/25-13:19:35.642 1bf3 Recovering log #6
+2021/05/25-13:19:35.659 1bf3 Delete type=3 #2
+2021/05/25-13:19:35.659 1bf3 Delete type=0 #6
+2021/05/25-13:19:35.659 1bf3 Delete type=0 #3

@@ -1,0 +1,936 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/jake/Documents/Coding/Discord
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git config --local branch.master.github-pr-owner-number
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :config.json
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/config.json
+> git cat-file -s 9ff81d80a408f6809abb166399b40d45199322a8
+> git show --textconv :package.json
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/package.json
+> git cat-file -s 945c35ec670a01d9a32de3d3e0e51c5cbc930bda
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/package.json
+> git cat-file -s 945c35ec670a01d9a32de3d3e0e51c5cbc930bda
+> git show --textconv :package.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/package.json
+> git cat-file -s 945c35ec670a01d9a32de3d3e0e51c5cbc930bda
+> git show --textconv :package.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/package.json
+> git cat-file -s 945c35ec670a01d9a32de3d3e0e51c5cbc930bda
+> git show --textconv :package.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/package.json
+> git cat-file -s 945c35ec670a01d9a32de3d3e0e51c5cbc930bda
+> git show --textconv :package.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/package.json
+> git cat-file -s 945c35ec670a01d9a32de3d3e0e51c5cbc930bda
+> git show --textconv :package.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/jake/Documents/Coding/Discord/package.json
+> git show --textconv :package.json
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/package.json
+> git cat-file -s 945c35ec670a01d9a32de3d3e0e51c5cbc930bda
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/jake/Documents/Coding/Discord/package.json
+> git show --textconv :index.js
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/index.js
+> git cat-file -s 2d01199a63b5067357954dc7d8b42a693ad497a0
+> git show --textconv :sql_init.js
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/sql_init.js
+> git cat-file -s 23529fc843923b1bb15f84a5ad746a6cb33e01fc
+> git show --textconv :index.js
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/index.js
+> git cat-file -s 2d01199a63b5067357954dc7d8b42a693ad497a0
+> git show --textconv :commands/color.js
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/color.js
+> git cat-file -s 9d1fb3ff790a04279439285b07cddafc984217e7
+> git show --textconv :index.js
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/index.js
+> git cat-file -s 2d01199a63b5067357954dc7d8b42a693ad497a0
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/index.js
+> git cat-file -s 2d01199a63b5067357954dc7d8b42a693ad497a0
+> git show --textconv :index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git checkout -q master
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/index.js
+> git cat-file -s 2d01199a63b5067357954dc7d8b42a693ad497a0
+> git show --textconv :index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :commands/spotify.js
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :commands/addsug.js
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/addsug.js
+> git cat-file -s 68b7783c66e1dcac1ffbb076cc1a51fcffc37244
+> git show --textconv :commands/uptime.js
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/uptime.js
+> git cat-file -s bb54d9540ac5f091c048d600f0dd228b997c91cd
+> git show --textconv :commands/reload.js
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/reload.js
+> git cat-file -s 0b98a9c00c8ae17825f946bb670fed3ef7dda96a
+> git show --textconv :commands/addsug.js
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/addsug.js
+> git cat-file -s 68b7783c66e1dcac1ffbb076cc1a51fcffc37244
+> git show --textconv :commands/spotify.js
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+> git show --textconv :commands/spotify.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+> git show --textconv :commands/spotify.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+> git show --textconv :commands/spotify.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :commands/reload.js
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/reload.js
+> git cat-file -s 0b98a9c00c8ae17825f946bb670fed3ef7dda96a
+> git show --textconv :commands/spotify.js
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+> git show --textconv :commands/color.js
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/color.js
+> git cat-file -s 9d1fb3ff790a04279439285b07cddafc984217e7
+> git show --textconv :commands/spotify.js
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+> git show --textconv :commands/uptime.js
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/uptime.js
+> git cat-file -s bb54d9540ac5f091c048d600f0dd228b997c91cd
+> git show --textconv :commands/spotify.js
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+> git show --textconv :commands/reload.js
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/reload.js
+> git cat-file -s 0b98a9c00c8ae17825f946bb670fed3ef7dda96a
+> git show --textconv :commands/spotify.js
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+> git show --textconv :commands/args-info.js
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/args-info.js
+> git cat-file -s 12106222d20f6419c8f2b7ba6fc4c0bec10e1783
+> git show --textconv :commands/addsug.js
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/addsug.js
+> git cat-file -s 68b7783c66e1dcac1ffbb076cc1a51fcffc37244
+> git show --textconv :commands/spotify.js
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+> git show --textconv :commands/spotify.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+> git show --textconv :commands/spotify.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+> git show --textconv :commands/spotify.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+> git show --textconv :commands/spotify.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+> git show --textconv :commands/spotify.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count working.. -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+fatal: bad revision 'working..'
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+> git show --textconv :commands/spotify.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :package.json
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/package.json
+> git cat-file -s 945c35ec670a01d9a32de3d3e0e51c5cbc930bda
+> git show --textconv :commands/spotify.js
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+> git show --textconv :commands/spotify.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+> git show --textconv :commands/spotify.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+> git show --textconv :commands/spotify.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+> git show --textconv :commands/spotify.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+> git show --textconv :commands/spotify.js
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+> git show --textconv :commands/spotify.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+> git show --textconv :commands/spotify.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+> git show --textconv :commands/spotify.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+> git show --textconv :commands/spotify.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+> git show --textconv :commands/spotify.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+> git show --textconv :commands/spotify.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+> git show --textconv :commands/spotify.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+> git show --textconv :commands/spotify.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+> git show --textconv :commands/spotify.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :package.json
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/package.json
+> git cat-file -s 945c35ec670a01d9a32de3d3e0e51c5cbc930bda
+> git show --textconv :commands/spotify.js
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+> git rev-list --count working.. -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+fatal: bad revision 'working..'
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+> git show --textconv :commands/spotify.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+> git show --textconv :commands/spotify.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :package.json
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/package.json
+> git cat-file -s 945c35ec670a01d9a32de3d3e0e51c5cbc930bda
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/package.json
+> git cat-file -s 945c35ec670a01d9a32de3d3e0e51c5cbc930bda
+> git show --textconv :package.json
+> git status -z -u
+> git show --textconv :commands/spotify.js
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git for-each-ref --format %(refname:short)%00%(upstream:short) refs/heads
+> git checkout -q master
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+> git show --textconv :commands/spotify.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git add -A -- /home/jake/Documents/Coding/Discord/commands/color.js /home/jake/Documents/Coding/Discord/node_modules/ini/ini.js /home/jake/Documents/Coding/Discord/node_modules/ini/package.json /home/jake/Documents/Coding/Discord/package-lock.json /home/jake/Documents/Coding/Discord/package.json /home/jake/Documents/Coding/Discord/commands/spotify.js /home/jake/Documents/Coding/Discord/node_modules/.bin/mime /home/jake/Documents/Coding/Discord/node_modules/asynckit/LICENSE /home/jake/Documents/Coding/Discord/node_modules/asynckit/README.md /home/jake/Documents/Coding/Discord/node_modules/asynckit/bench.js /home/jake/Documents/Coding/Discord/node_modules/asynckit/index.js /home/jake/Documents/Coding/Discord/node_modules/asynckit/lib/abort.js /home/jake/Documents/Coding/Discord/node_modules/asynckit/lib/async.js /home/jake/Documents/Coding/Discord/node_modules/asynckit/lib/defer.js /home/jake/Documents/Coding/Discord/node_modules/asynckit/lib/iterate.js /home/jake/Documents/Coding/Discord/node_modules/asynckit/lib/readable_asynckit.js /home/jake/Documents/Coding/Discord/node_modules/asynckit/lib/readable_parallel.js /home/jake/Documents/Coding/Discord/node_modules/asynckit/lib/readable_serial.js /home/jake/Documents/Coding/Discord/node_modules/asynckit/lib/readable_serial_ordered.js /home/jake/Documents/Coding/Discord/node_modules/asynckit/lib/state.js /home/jake/Documents/Coding/Discord/node_modules/asynckit/lib/streamify.js /home/jake/Documents/Coding/Discord/node_modules/asynckit/lib/terminator.js /home/jake/Documents/Coding/Discord/node_modules/asynckit/package.json /home/jake/Documents/Coding/Discord/node_modules/asynckit/parallel.js /home/jake/Documents/Coding/Discord/node_modules/asynckit/serial.js /home/jake/Documents/Coding/Discord/node_modules/asynckit/serialOrdered.js /home/jake/Documents/Coding/Discord/node_modules/asynckit/stream.js /home/jake/Documents/Coding/Discord/node_modules/combined-stream/License /home/jake/Documents/Coding/Discord/node_modules/combined-stream/Readme.md /home/jake/Documents/Coding/Discord/node_modules/combined-stream/lib/combined_stream.js /home/jake/Documents/Coding/Discord/node_modules/combined-stream/package.json /home/jake/Documents/Coding/Discord/node_modules/combined-stream/yarn.lock /home/jake/Documents/Coding/Discord/node_modules/component-emitter/History.md /home/jake/Documents/Coding/Discord/node_modules/component-emitter/LICENSE /home/jake/Documents/Coding/Discord/node_modules/component-emitter/Readme.md /home/jake/Documents/Coding/Discord/node_modules/component-emitter/index.js /home/jake/Documents/Coding/Discord/node_modules/component-emitter/package.json /home/jake/Documents/Coding/Discord/node_modules/cookiejar/LICENSE /home/jake/Documents/Coding/Discord/node_modules/cookiejar/cookiejar.js /home/jake/Documents/Coding/Discord/node_modules/cookiejar/package.json /home/jake/Documents/Coding/Discord/node_modules/cookiejar/readme.md /home/jake/Documents/Coding/Discord/node_modules/delayed-stream/.npmignore /home/jake/Documents/Coding/Discord/node_modules/delayed-stream/License /home/jake/Documents/Coding/Discord/node_modules/delayed-stream/Makefile /home/jake/Documents/Coding/Discord/node_modules/delayed-stream/Readme.md /home/jake/Documents/Coding/Discord/node_modules/delayed-stream/lib/delayed_stream.js /home/jake/Documents/Coding/Discord/node_modules/delayed-stream/package.json /home/jake/Documents/Coding/Discord/node_modules/fast-safe-stringify/.travis.yml /home/jake/Documents/Coding/Discord/node_modules/fast-safe-stringify/CHANGELOG.md /home/jake/Documents/Coding/Discord/node_modules/fast-safe-stringify/LICENSE /home/jake/Documents/Coding/Discord/node_modules/fast-safe-stringify/benchmark.js /home/jake/Documents/Coding/Discord/node_modules/fast-safe-stringify/index.d.ts /home/jake/Documents/Coding/Discord/node_modules/fast-safe-stringify/index.js /home/jake/Documents/Coding/Discord/node_modules/fast-safe-stringify/package.json /home/jake/Documents/Coding/Discord/node_modules/fast-safe-stringify/readme.md /home/jake/Documents/Coding/Discord/node_modules/fast-safe-stringify/test-stable.js /home/jake/Documents/Coding/Discord/node_modules/fast-safe-stringify/test.js /home/jake/Documents/Coding/Discord/node_modules/form-data/License /home/jake/Documents/Coding/Discord/node_modules/form-data/README.md /home/jake/Documents/Coding/Discord/node_modules/form-data/README.md.bak /home/jake/Documents/Coding/Discord/node_modules/form-data/index.d.ts /home/jake/Documents/Coding/Discord/node_modules/form-data/lib/browser.js /home/jake/Documents/Coding/Discord/node_modules/form-data/lib/form_data.js /home/jake/Documents/Coding/Discord/node_modules/form-data/lib/populate.js /home/jake/Documents/Coding/Discord/node_modules/form-data/package.json /home/jake/Documents/Coding/Discord/node_modules/formidable/LICENSE /home/jake/Documents/Coding/Discord/node_modules/formidable/README.md /home/jake/Documents/Coding/Discord/node_modules/formidable/benchmark-2020-01-29_xeon-x3440.png /home/jake/Documents/Coding/Discord/node_modules/formidable/lib/file.js /home/jake/Documents/Coding/Discord/node_modules/formidable/lib/incoming_form.js /home/jake/Documents/Coding/Discord/node_modules/formidable/lib/index.js /home/jake/Documents/Coding/Discord/node_modules/formidable/lib/json_parser.js /home/jake/Documents/Coding/Discord/node_modules/formidable/lib/multipart_parser.js /home/jake/Documents/Coding/Discord/node_modules/formidable/lib/octet_parser.js /home/jake/Documents/Coding/Discord/node_modules/formidable/lib/querystring_parser.js /home/jake/Documents/Coding/Discord/node_modules/formidable/package.json /home/jake/Documents/Coding/Discord/node_modules/lru-cache/LICENSE /home/jake/Documents/Coding/Discord/node_modules/lru-cache/README.md /home/jake/Documents/Coding/Discord/node_modules/lru-cache/index.js /home/jake/Documents/Coding/Discord/node_modules/lru-cache/package.json /home/jake/Documents/Coding/Discord/node_modules/methods/HISTORY.md /home/jake/Documents/Coding/Discord/node_modules/methods/LICENSE /home/jake/Documents/Coding/Discord/node_modules/methods/README.md /home/jake/Documents/Coding/Discord/node_modules/methods/index.js /home/jake/Documents/Coding/Discord/node_modules/methods/package.json /home/jake/Documents/Coding/Discord/node_modules/mime-db/HISTORY.md /home/jake/Documents/Coding/Discord/node_modules/mime-db/LICENSE /home/jake/Documents/Coding/Discord/node_modules/mime-db/README.md /home/jake/Documents/Coding/Discord/node_modules/mime-db/db.json /home/jake/Documents/Coding/Discord/node_modules/mime-db/index.js /home/jake/Documents/Coding/Discord/node_modules/mime-db/package.json /home/jake/Documents/Coding/Discord/node_modules/mime-types/HISTORY.md /home/jake/Documents/Coding/Discord/node_modules/mime-types/LICENSE /home/jake/Documents/Coding/Discord/node_modules/mime-types/README.md /home/jake/Documents/Coding/Discord/node_modules/mime-types/index.js /home/jake/Documents/Coding/Discord/node_modules/mime-types/package.json /home/jake/Documents/Coding/Discord/node_modules/mime/CHANGELOG.md /home/jake/Documents/Coding/Discord/node_modules/mime/LICENSE /home/jake/Documents/Coding/Discord/node_modules/mime/Mime.js /home/jake/Documents/Coding/Discord/node_modules/mime/README.md /home/jake/Documents/Coding/Discord/node_modules/mime/cli.js /home/jake/Documents/Coding/Discord/node_modules/mime/index.js /home/jake/Documents/Coding/Discord/node_modules/mime/lite.js /home/jake/Documents/Coding/Discord/node_modules/mime/package.json /home/jake/Documents/Coding/Discord/node_modules/mime/types/other.js /home/jake/Documents/Coding/Discord/node_modules/mime/types/standard.js /home/jake/Documents/Coding/Discord/node_modules/qs/.editorconfig /home/jake/Documents/Coding/Discord/node_modules/qs/.eslintignore /home/jake/Documents/Coding/Discord/node_modules/qs/.eslintrc /home/jake/Documents/Coding/Discord/node_modules/qs/.github/FUNDING.yml /home/jake/Documents/Coding/Discord/node_modules/qs/.github/workflows/rebase.yml /home/jake/Documents/Coding/Discord/node_modules/qs/CHANGELOG.md /home/jake/Documents/Coding/Discord/node_modules/qs/LICENSE.md /home/jake/Documents/Coding/Discord/node_modules/qs/README.md /home/jake/Documents/Coding/Discord/node_modules/qs/dist/qs.js /home/jake/Documents/Coding/Discord/node_modules/qs/lib/formats.js /home/jake/Documents/Coding/Discord/node_modules/qs/lib/index.js /home/jake/Documents/Coding/Discord/node_modules/qs/lib/parse.js /home/jake/Documents/Coding/Discord/node_modules/qs/lib/stringify.js /home/jake/Documents/Coding/Discord/node_modules/qs/lib/utils.js /home/jake/Documents/Coding/Discord/node_modules/qs/package.json /home/jake/Documents/Coding/Discord/node_modules/qs/test/.eslintrc /home/jake/Documents/Coding/Discord/node_modules/qs/test/index.js /home/jake/Documents/Coding/Discord/node_modules/qs/test/parse.js /home/jake/Documents/Coding/Discord/node_modules/qs/test/stringify.js /home/jake/Documents/Coding/Discord/node_modules/qs/test/utils.js /home/jake/Documents/Coding/Discord/node_modules/spotify-web-api-node/.travis.yml /home/jake/Documents/Coding/Discord/node_modules/spotify-web-api-node/CHANGELOG.md /home/jake/Documents/Coding/Discord/node_modules/spotify-web-api-node/LICENSE /home/jake/Documents/Coding/Discord/node_modules/spotify-web-api-node/README.md /home/jake/Documents/Coding/Discord/node_modules/spotify-web-api-node/examples/access-token-refresh.js /home/jake/Documents/Coding/Discord/node_modules/spotify-web-api-node/examples/access-token-using-client-credentials.js /home/jake/Documents/Coding/Discord/node_modules/spotify-web-api-node/examples/add-remove-replace-tracks-in-a-playlist.js /home/jake/Documents/Coding/Discord/node_modules/spotify-web-api-node/examples/add-tracks-to-a-playlist.js /home/jake/Documents/Coding/Discord/node_modules/spotify-web-api-node/examples/client-credentials.js /home/jake/Documents/Coding/Discord/node_modules/spotify-web-api-node/examples/get-info-about-current-user.js /home/jake/Documents/Coding/Discord/node_modules/spotify-web-api-node/examples/get-related-artists.js /home/jake/Documents/Coding/Discord/node_modules/spotify-web-api-node/examples/get-top-tracks-for-artist.js /home/jake/Documents/Coding/Discord/node_modules/spotify-web-api-node/examples/search-for-tracks.js /home/jake/Documents/Coding/Discord/node_modules/spotify-web-api-node/examples/tutorial/00-get-access-token.js /home/jake/Documents/Coding/Discord/node_modules/spotify-web-api-node/examples/tutorial/01-basics/01-get-info-about-current-user.js /home/jake/Documents/Coding/Discord/node_modules/spotify-web-api-node/examples/tutorial/README.md /home/jake/Documents/Coding/Discord/node_modules/spotify-web-api-node/package.json /home/jake/Documents/Coding/Discord/node_modules/spotify-web-api-node/src/authentication-request.js /home/jake/Documents/Coding/Discord/node_modules/spotify-web-api-node/src/base-request.js /home/jake/Documents/Coding/Discord/node_modules/spotify-web-api-node/src/client.js /home/jake/Documents/Coding/Discord/node_modules/spotify-web-api-node/src/http-manager.js /home/jake/Documents/Coding/Discord/node_modules/spotify-web-api-node/src/response-error.js /home/jake/Documents/Coding/Discord/node_modules/spotify-web-api-node/src/server-methods.js /home/jake/Documents/Coding/Discord/node_modules/spotify-web-api-node/src/server.js /home/jake/Documents/Coding/Discord/node_modules/spotify-web-api-node/src/spotify-web-api.js /home/jake/Documents/Coding/Discord/node_modules/spotify-web-api-node/src/webapi-request.js /home/jake/Documents/Coding/Discord/node_modules/superagent/.browserslistrc /home/jake/Documents/Coding/Discord/node_modules/superagent/.dist.babelrc /home/jake/Documents/Coding/Discord/node_modules/superagent/.dist.eslintrc /home/jake/Documents/Coding/Discord/node_modules/superagent/.editorconfig /home/jake/Documents/Coding/Discord/node_modules/superagent/.gitattributes /home/jake/Documents/Coding/Discord/node_modules/superagent/.github/FUNDING.yml /home/jake/Documents/Coding/Discord/node_modules/superagent/.lib.babelrc /home/jake/Documents/Coding/Discord/node_modules/superagent/.lib.eslintrc /home/jake/Documents/Coding/Discord/node_modules/superagent/.remarkignore /home/jake/Documents/Coding/Discord/node_modules/superagent/.zuul.yml /home/jake/Documents/Coding/Discord/node_modules/superagent/CONTRIBUTING.md /home/jake/Documents/Coding/Discord/node_modules/superagent/HISTORY.md /home/jake/Documents/Coding/Discord/node_modules/superagent/LICENSE /home/jake/Documents/Coding/Discord/node_modules/superagent/Makefile /home/jake/Documents/Coding/Discord/node_modules/superagent/README.md /home/jake/Documents/Coding/Discord/node_modules/superagent/dist/superagent.js /home/jake/Documents/Coding/Discord/node_modules/superagent/dist/superagent.min.js /home/jake/Documents/Coding/Discord/node_modules/superagent/docs/head.html /home/jake/Documents/Coding/Discord/node_modules/superagent/docs/images/bg.png /home/jake/Documents/Coding/Discord/node_modules/superagent/docs/index.md /home/jake/Documents/Coding/Discord/node_modules/superagent/docs/style.css /home/jake/Documents/Coding/Discord/node_modules/superagent/docs/tail.html /home/jake/Documents/Coding/Discord/node_modules/superagent/docs/test.html /home/jake/Documents/Coding/Discord/node_modules/superagent/index.html /home/jake/Documents/Coding/Discord/node_modules/superagent/lib/agent-base.js /home/jake/Documents/Coding/Discord/node_modules/superagent/lib/client.js /home/jake/Documents/Coding/Discord/node_modules/superagent/lib/is-object.js /home/jake/Documents/Coding/Discord/node_modules/superagent/lib/node/agent.js /home/jake/Documents/Coding/Discord/node_modules/superagent/lib/node/http2wrapper.js /home/jake/Documents/Coding/Discord/node_modules/superagent/lib/node/index.js /home/jake/Documents/Coding/Discord/node_modules/superagent/lib/node/parsers/image.js /home/jake/Documents/Coding/Discord/node_modules/superagent/lib/node/parsers/index.js /home/jake/Documents/Coding/Discord/node_modules/superagent/lib/node/parsers/json.js /home/jake/Documents/Coding/Discord/node_modules/superagent/lib/node/parsers/text.js /home/jake/Documents/Coding/Discord/node_modules/superagent/lib/node/parsers/urlencoded.js /home/jake/Documents/Coding/Discord/node_modules/superagent/lib/node/response.js /home/jake/Documents/Coding/Discord/node_modules/superagent/lib/node/unzip.js /home/jake/Documents/Coding/Discord/node_modules/superagent/lib/request-base.js /home/jake/Documents/Coding/Discord/node_modules/superagent/lib/response-base.js /home/jake/Documents/Coding/Discord/node_modules/superagent/lib/utils.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/.bin/semver /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/debug/LICENSE /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/debug/README.md /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/debug/package.json /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/debug/src/browser.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/debug/src/common.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/debug/src/index.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/debug/src/node.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/ms/index.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/ms/license.md /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/ms/package.json /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/ms/readme.md /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/readable-stream/CONTRIBUTING.md /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/readable-stream/GOVERNANCE.md /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/readable-stream/LICENSE /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/readable-stream/README.md /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/readable-stream/errors-browser.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/readable-stream/errors.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/readable-stream/experimentalWarning.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/readable-stream/lib/_stream_duplex.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/readable-stream/lib/_stream_passthrough.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/readable-stream/lib/_stream_readable.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/readable-stream/lib/_stream_transform.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/readable-stream/lib/_stream_writable.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/readable-stream/lib/internal/streams/async_iterator.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/readable-stream/lib/internal/streams/buffer_list.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/readable-stream/lib/internal/streams/destroy.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/readable-stream/lib/internal/streams/end-of-stream.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/readable-stream/lib/internal/streams/from-browser.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/readable-stream/lib/internal/streams/from.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/readable-stream/lib/internal/streams/pipeline.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/readable-stream/lib/internal/streams/state.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/readable-stream/lib/internal/streams/stream-browser.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/readable-stream/lib/internal/streams/stream.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/readable-stream/package.json /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/readable-stream/readable-browser.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/readable-stream/readable.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/CHANGELOG.md /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/LICENSE /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/README.md /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/bin/semver.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/classes/comparator.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/classes/index.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/classes/range.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/classes/semver.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/functions/clean.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/functions/cmp.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/functions/coerce.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/functions/compare-build.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/functions/compare-loose.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/functions/compare.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/functions/diff.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/functions/eq.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/functions/gt.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/functions/gte.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/functions/inc.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/functions/lt.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/functions/lte.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/functions/major.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/functions/minor.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/functions/neq.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/functions/parse.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/functions/patch.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/functions/prerelease.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/functions/rcompare.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/functions/rsort.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/functions/satisfies.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/functions/sort.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/functions/valid.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/index.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/internal/constants.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/internal/debug.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/internal/identifiers.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/internal/parse-options.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/internal/re.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/package.json /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/preload.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/range.bnf /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/ranges/gtr.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/ranges/intersects.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/ranges/ltr.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/ranges/max-satisfying.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/ranges/min-satisfying.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/ranges/min-version.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/ranges/outside.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/ranges/simplify.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/ranges/subset.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/ranges/to-comparators.js /home/jake/Documents/Coding/Discord/node_modules/superagent/node_modules/semver/ranges/valid.js /home/jake/Documents/Coding/Discord/node_modules/superagent/package.json /home/jake/Documents/Coding/Discord/node_modules/yallist/LICENSE /home/jake/Documents/Coding/Discord/node_modules/yallist/README.md /home/jake/Documents/Coding/Discord/node_modules/yallist/iterator.js /home/jake/Documents/Coding/Discord/node_modules/yallist/package.json /home/jake/Documents/Coding/Discord/node_modules/yallist/yallist.js
+warning: CRLF will be replaced by LF in node_modules/superagent/dist/superagent.js.
+The file will have its original line endings in your working directory
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+> git cat-file -s b6355a0232621d912e3404940339a9fdea640602
+> git show --textconv :commands/spotify.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git config --get commit.template
+> git config --local branch.master.github-pr-owner-number
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+> git cat-file -s b6355a0232621d912e3404940339a9fdea640602
+> git show --textconv :commands/spotify.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git pull --tags sourcehut master
+From git.sr.ht:~cosmicnomad/cosmic-assistant-bot
+ * branch            master     -> FETCH_HEAD
+> git push sourcehut master:master
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+> git cat-file -s b6355a0232621d912e3404940339a9fdea640602
+> git show --textconv :commands/spotify.js
+To git.sr.ht:~cosmicnomad/cosmic-assistant-bot
+   5953bc0..50d2409  master -> master
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git config --local branch.master.github-pr-owner-number
+> git ls-files --stage -- /home/jake/Documents/Coding/Discord/commands/spotify.js
+> git cat-file -s b6355a0232621d912e3404940339a9fdea640602
+> git show --textconv :commands/spotify.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/sourcehut/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

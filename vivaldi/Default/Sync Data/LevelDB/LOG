@@ -1,0 +1,24 @@
+2021/01/25-12:15:40.349 1511f Reusing MANIFEST /home/jake/.config/vivaldi/Default/Sync Data/LevelDB/MANIFEST-000001
+2021/01/25-12:15:40.350 1511f Recovering log #4165
+2021/01/25-12:15:40.359 1511f Reusing old log /home/jake/.config/vivaldi/Default/Sync Data/LevelDB/004165.log 
+2021/01/25-12:16:04.683 1514a Level-0 table #4170: started
+2021/01/25-12:16:04.708 1514a Level-0 table #4170: 379291 bytes OK
+2021/01/25-12:16:04.711 1514a Delete type=0 #4165
+2021/01/25-12:16:04.875 1514b Level-0 table #4172: started
+2021/01/25-12:16:04.884 1514b Level-0 table #4172: 529743 bytes OK
+2021/01/25-12:16:04.888 1514b Delete type=0 #4169
+2021/01/25-12:16:06.759 1514a Level-0 table #4174: started
+2021/01/25-12:16:06.775 1514a Level-0 table #4174: 530359 bytes OK
+2021/01/25-12:16:06.779 1514a Delete type=0 #4171
+2021/01/25-12:16:46.177 1514b Level-0 table #4176: started
+2021/01/25-12:16:46.218 1514b Level-0 table #4176: 401998 bytes OK
+2021/01/25-12:16:46.223 1514b Delete type=0 #4173
+2021/01/25-12:16:46.228 150fd Compacting 4@0 + 1@1 files
+2021/01/25-12:16:46.262 150fd Generated table #4177@0: 2653 keys, 166545 bytes
+2021/01/25-12:16:46.262 150fd Compacted 4@0 + 1@1 files => 166545 bytes
+2021/01/25-12:16:46.265 150fd compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/01/25-12:16:46.265 150fd Delete type=2 #4176
+2021/01/25-12:16:46.265 150fd Delete type=2 #4170
+2021/01/25-12:16:46.265 150fd Delete type=2 #4174
+2021/01/25-12:16:46.265 150fd Delete type=2 #4172
+2021/01/25-12:16:46.265 150fd Delete type=2 #4167

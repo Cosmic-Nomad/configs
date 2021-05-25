@@ -1,0 +1,32 @@
+[global_config]
+  geometry_hinting = True
+  extra_styling = False
+  title_transmit_fg_color = "#2e3436"
+  title_transmit_bg_color = "#349d70"
+  title_receive_bg_color = "#5c3566"
+  title_inactive_fg_color = "#ffffff"
+  title_inactive_bg_color = "#181818"
+  inactive_color_offset = 0.8055555555555556
+  title_font = TeX Gyre Adventor Bold 9
+[keybindings]
+[profiles]
+  [[default]]
+    audible_bell = True
+    visible_bell = True
+    urgent_bell = True
+    background_darkness = 0.85
+    background_type = transparent
+    cursor_color = "#aaaaaa"
+    font = Roboto Mono for Powerline Bold 12
+    scrollback_lines = 1000
+    use_system_font = False
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+      profile = default
+[plugins]

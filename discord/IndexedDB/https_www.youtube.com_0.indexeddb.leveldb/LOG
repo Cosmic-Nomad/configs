@@ -1,0 +1,5 @@
+2021/02/16-11:51:15.539 158e Reusing MANIFEST /home/jake/.config/discord/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/16-12:00:30.744 1831 Level-0 table #5: started
+2021/02/16-12:00:30.751 1831 Level-0 table #5: 1325 bytes OK
+2021/02/16-12:00:30.753 1831 Delete type=0 #3
+2021/02/16-12:00:30.753 1831 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

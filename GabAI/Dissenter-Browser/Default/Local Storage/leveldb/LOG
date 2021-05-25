@@ -1,0 +1,17 @@
+2021/05/25-13:19:35.371 1cc9 Reusing MANIFEST /home/jake/.config/GabAI/Dissenter-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2021/05/25-13:19:35.372 1cc9 Recovering log #3935
+2021/05/25-13:19:35.374 1cc9 Reusing old log /home/jake/.config/GabAI/Dissenter-Browser/Default/Local Storage/leveldb/003935.log 
+2021/05/25-13:47:03.711 8a78 Level-0 table #3939: started
+2021/05/25-13:47:03.719 8a78 Level-0 table #3939: 27198 bytes OK
+2021/05/25-13:47:03.721 8a78 Delete type=0 #3935
+2021/05/25-13:47:03.721 8a78 Compacting 4@0 + 2@1 files
+2021/05/25-13:47:03.839 8a78 Generated table #3940@0: 1267 keys, 2101232 bytes
+2021/05/25-13:47:03.881 8a78 Generated table #3941@0: 889 keys, 1096760 bytes
+2021/05/25-13:47:03.881 8a78 Compacted 4@0 + 2@1 files => 3197992 bytes
+2021/05/25-13:47:03.883 8a78 compacted to: files[ 0 2 1 0 0 0 0 ]
+2021/05/25-13:47:03.883 8a78 Delete type=2 #3926
+2021/05/25-13:47:03.883 8a78 Delete type=2 #3930
+2021/05/25-13:47:03.883 8a78 Delete type=2 #3933
+2021/05/25-13:47:03.883 8a78 Delete type=2 #3936
+2021/05/25-13:47:03.883 8a78 Delete type=2 #3927
+2021/05/25-13:47:03.883 8a78 Delete type=2 #3939

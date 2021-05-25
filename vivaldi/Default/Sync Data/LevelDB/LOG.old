@@ -1,0 +1,24 @@
+2020/11/23-00:39:44.897 2345f Reusing MANIFEST /home/jake/.config/vivaldi/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/11/23-00:39:44.899 2345f Recovering log #4155
+2020/11/23-00:39:44.903 2345f Reusing old log /home/jake/.config/vivaldi/Default/Sync Data/LevelDB/004155.log 
+2020/11/23-00:42:30.685 23457 Level-0 table #4160: started
+2020/11/23-00:42:30.698 23457 Level-0 table #4160: 302570 bytes OK
+2020/11/23-00:42:30.701 23457 Delete type=0 #4155
+2020/11/23-01:00:09.178 245bf Level-0 table #4162: started
+2020/11/23-01:00:09.190 245bf Level-0 table #4162: 502740 bytes OK
+2020/11/23-01:00:09.193 245bf Delete type=0 #4159
+2020/11/23-01:21:58.264 255e4 Level-0 table #4164: started
+2020/11/23-01:21:58.277 255e4 Level-0 table #4164: 389977 bytes OK
+2020/11/23-01:21:58.280 255e4 Delete type=0 #4161
+2020/11/23-01:22:29.614 25904 Level-0 table #4166: started
+2020/11/23-01:22:29.651 25904 Level-0 table #4166: 310686 bytes OK
+2020/11/23-01:22:29.658 25904 Delete type=0 #4163
+2020/11/23-01:22:29.659 2513d Compacting 4@0 + 1@1 files
+2020/11/23-01:22:29.676 2513d Generated table #4167@0: 2653 keys, 121268 bytes
+2020/11/23-01:22:29.676 2513d Compacted 4@0 + 1@1 files => 121268 bytes
+2020/11/23-01:22:29.680 2513d compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/11/23-01:22:29.680 2513d Delete type=2 #4162
+2020/11/23-01:22:29.680 2513d Delete type=2 #4157
+2020/11/23-01:22:29.680 2513d Delete type=2 #4166
+2020/11/23-01:22:29.681 2513d Delete type=2 #4160
+2020/11/23-01:22:29.681 2513d Delete type=2 #4164

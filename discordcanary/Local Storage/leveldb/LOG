@@ -1,0 +1,9 @@
+2021/05/12-23:23:43.619 10394 Reusing MANIFEST /home/jake/.config/discordcanary/Local Storage/leveldb/MANIFEST-000001
+2021/05/12-23:23:43.633 10394 Recovering log #1174
+2021/05/12-23:23:43.637 10394 Reusing old log /home/jake/.config/discordcanary/Local Storage/leveldb/001174.log 
+2021/05/12-23:25:01.261 10a37 Level-0 table #1178: started
+2021/05/12-23:25:01.269 10a37 Level-0 table #1178: 41442 bytes OK
+2021/05/12-23:25:01.271 10a37 Delete type=0 #1174
+2021/05/13-02:16:25.562 10a37 Level-0 table #1180: started
+2021/05/13-02:16:25.565 10a37 Level-0 table #1180: 17494 bytes OK
+2021/05/13-02:16:25.567 10a37 Delete type=0 #1177

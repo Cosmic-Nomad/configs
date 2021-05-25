@@ -1,0 +1,69 @@
+[KFileDialog Settings]
+Recent Files[$e]=Twenty One Pilots' Tyler Joseph strips down their hits in this exclusive Storyteller Performance-laLjSp3XC7A.mp4,file:$HOME/Videos/Twenty One Pilots' Tyler Joseph strips down their hits in this exclusive Storyteller Performance-laLjSp3XC7A.mp4
+Recent URLs[$e]=file:$HOME/Videos/
+detailViewIconSize=0
+
+[MainWindow]
+Height 1080=1022
+State=AAAA/wAAAAD9AAAAAQAAAAIAAAd8AAACVPwBAAAADvsAAAAYAG4AbwB0AGUAcwBfAHcAaQBkAGcAZQB0AAAAAAD/////AAAARgD////7AAAADgBsAGkAYgByAGEAcgB5AAAAAAD/////AAAAWAD////7AAAAFABzAGMAcgBlAGUAbgBnAHIAYQBiAAAAAAD/////AAAARwD////7AAAAGgBhAHUAZABpAG8AcwBwAGUAYwB0AHIAdQBtAAAAAAD/////AAAAZwD////7AAAAFgBwAHIAbwBqAGUAYwB0AF8AYgBpAG4BAAAAAAAAAJ8AAABGAP////wAAAEIAAAA2gAAAAAA////+v////8BAAAAAvsAAAAYAGUAZgBmAGUAYwB0AF8AcwB0AGEAYwBrAAAAAAD/////AAAARAD////7AAAAHgBjAGwAaQBwAF8AcAByAG8AcABlAHIAdABpAGUAcwAAAAAA/////wAAAEQA/////AAAAKUAAAEkAAAAewD////6AAAAAQEAAAAC+wAAAB4AdAByAGEAbgBzAGkAdABpAG8AbgBfAGwAaQBzAHQBAAAAAP////8AAAAAAP////sAAAAWAGUAZgBmAGUAYwB0AF8AbABpAHMAdAEAAAAA/////wAAAAAA/////AAAAc8AAAWtAAABQAD////6AAAAAQEAAAAC+wAAABgAYwBsAGkAcABfAG0AbwBuAGkAdABvAHIBAAAAAP////8AAAFAAP////sAAAAeAHAAcgBvAGoAZQBjAHQAXwBtAG8AbgBpAHQAbwByAQAAAAD/////AAABQAD////7AAAAGAB1AG4AZABvAF8AaABpAHMAdABvAHIAeQAAAAAA/////wAAAEYA////+wAAAAoAbQBpAHgAZQByAAAAAAD/////AAAA7QD////7AAAAFgB2AGUAYwB0AG8AcgBzAGMAbwBwAGUAAAAAAP////8AAAEcAP////sAAAAQAHcAYQB2AGUAZgBvAHIAbQAAAAAA/////wAAAJsA////+wAAABQAcgBnAGIAXwBwAGEAcgBhAGQAZQAAAAAA/////wAAAJYA////+wAAABIAaABpAHMAdABvAGcAcgBhAG0AAAAAAP////8AAAExAP///wAAB3wAAAFJAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABlAHgAdAByAGEAVABvAG8AbABCAGEAcgEAAAIF/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=1916
+Window-Maximized 1080x1920=true
+
+[Recent Dirs]
+KdenliveClipFolder[$e]=$HOME/Videos/,$HOME/Videos,$HOME/Documents
+
+[UiSettings]
+ColorScheme=Default
+
+[bin]
+treeviewheaders=AAAA/wAAAAAAAAABAAAAAQAAAAABAAAAAAAAAAAAAAADBgAAAAIAAAACAAAAZAAAAAEAAAA4AAAAmwAAAAMBAQABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAMAAACbAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAPoAAAAAD8=
+
+[capture]
+decklink_capturedevice=4294967295
+decklink_extension=mov
+decklink_parameters=vcodec=dnxhd vb=145000k acodec=pcm_s16le threads=%threads
+defaultaudiocapture=-1
+grab_extension=mov
+grab_parameters=-crf 25 -vcodec libx264 -preset veryfast -threads 0
+v4l_extension=mpg
+v4l_parameters=qscale=4 ab=192k vcodec=mpeg2video acodec=mp2 threads=%threads
+
+[env]
+defaultaudioapp=/usr/bin/audacity
+defaultimageapp=/usr/bin/gimp
+defaultprojectfolder[$e]=$HOME/Videos
+ffmpegpath[$e]=/usr/bin/ffmpeg
+ffplaypath[$e]=/usr/bin/ffplay
+ffprobepath[$e]=/usr/bin/ffprobe
+mltpath[$e]=/usr/share/mlt/profiles
+mltthreads=4
+proxythreads=4
+rendererpath[$e]=/usr/bin/melt
+
+[project]
+enableproxy=true
+externalProxyProfile=../Sub;;S03.MP4;../Clip;;.MXF
+vaapiEnabled=true
+
+[sdl]
+blackmagic_output_device=-1
+
+[settings]
+dialogSize=1024,700
+
+[shuttle]
+shuttlebuttons=button0=monitor_pause
+
+[timeline]
+trackheight=65
+
+[unmanaged]
+default_profile=atsc_1080p_60
+monitor_audio=false
+producerslist=blipflash,count,qimage,qtext,kdenlivetitle,slowmotion,framebuffer,avformat,avformat-novalidate,pango,pixbuf,ladspa.1416,ladspa.1770,ladspa.1769,ladspa.1774,ladspa.1781,ladspa.1785,ladspa.1885,ladspa.1881,xml,xml-string,xml-nogl,abnormal,color,colour,consumer,hold,loader,melt,melt_file,noise,timewarp,tone,pgm,frei0r.ising0r,frei0r.lissajous0r,frei0r.nois0r,frei0r.onecol0r,frei0r.partik0l,frei0r.plasma,frei0r.test_pat_B,frei0r.test_pat_C,frei0r.test_pat_G,frei0r.test_pat_I,frei0r.test_pat_L,frei0r.test_pat_R,vorbis,decklink
+project_fps=60
+widgetstyle=Fusion
+
+[version]
+version=19.12.3

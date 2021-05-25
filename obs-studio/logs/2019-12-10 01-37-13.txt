@@ -1,0 +1,119 @@
+01:37:13 AM.166: CPU Name: AMD Ryzen 3 3200U with Radeon Vega Mobile Gfx
+01:37:13 AM.166: CPU Speed: 1291.972MHz
+01:37:13 AM.166: Physical Cores: 2, Logical Cores: 4
+01:37:13 AM.166: Physical Memory: 3451MB Total, 1566MB Free
+01:37:13 AM.166: Kernel Version: Linux 5.0.0-36-generic
+01:37:13 AM.166: Distribution: "Ubuntu" "19.04"
+01:37:13 AM.167: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.4
+01:37:13 AM.168: Portable mode: false
+01:37:13 AM.245: OBS 24.0.3 (linux)
+01:37:13 AM.245: ---------------------------------
+01:37:13 AM.245: ---------------------------------
+01:37:13 AM.245: audio settings reset:
+01:37:13 AM.245: 	samples per sec: 44100
+01:37:13 AM.245: 	speakers:        2
+01:37:13 AM.257: ---------------------------------
+01:37:13 AM.257: Initializing OpenGL...
+01:37:13 AM.374: Loading up OpenGL on adapter X.Org AMD RAVEN2 (DRM 3.27.0, 5.0.0-36-generic, LLVM 8.0.0)
+01:37:13 AM.374: OpenGL loaded successfully, version 4.5 (Core Profile) Mesa 19.0.8, shading language 4.50
+01:37:13 AM.401: ---------------------------------
+01:37:13 AM.401: video settings reset:
+01:37:13 AM.401: 	base resolution:   1920x1080
+01:37:13 AM.401: 	output resolution: 1280x720
+01:37:13 AM.401: 	downscale filter:  Bicubic
+01:37:13 AM.401: 	fps:               30/1
+01:37:13 AM.401: 	format:            NV12
+01:37:13 AM.401: 	YUV mode:          601/Partial
+01:37:13 AM.401: NV12 texture support not available
+01:37:13 AM.403: Audio monitoring device:
+01:37:13 AM.403: 	name: Default
+01:37:13 AM.403: 	id: default
+01:37:13 AM.404: ---------------------------------
+01:37:13 AM.407: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+01:37:13 AM.587: No blackmagic support
+01:37:13 AM.694: FFMPEG VAAPI supported
+01:37:13 AM.727: VLC found, VLC video source enabled
+01:37:13 AM.727: ---------------------------------
+01:37:13 AM.727:   Loaded Modules:
+01:37:13 AM.727:     vlc-video.so
+01:37:13 AM.727:     text-freetype2.so
+01:37:13 AM.727:     rtmp-services.so
+01:37:13 AM.727:     obs-x264.so
+01:37:13 AM.727:     obs-transitions.so
+01:37:13 AM.727:     obs-outputs.so
+01:37:13 AM.727:     obs-libfdk.so
+01:37:13 AM.727:     obs-filters.so
+01:37:13 AM.727:     obs-ffmpeg.so
+01:37:13 AM.727:     linux-v4l2.so
+01:37:13 AM.727:     linux-pulseaudio.so
+01:37:13 AM.727:     linux-jack.so
+01:37:13 AM.727:     linux-decklink.so
+01:37:13 AM.727:     linux-capture.so
+01:37:13 AM.727:     linux-alsa.so
+01:37:13 AM.727:     image-source.so
+01:37:13 AM.727:     frontend-tools.so
+01:37:13 AM.727:     decklink-ouput-ui.so
+01:37:13 AM.727: ---------------------------------
+01:37:13 AM.727: ==== Startup complete ===============================================
+01:37:13 AM.728: Service '' not found
+01:37:13 AM.731: All scene data cleared
+01:37:13 AM.731: ------------------------------------------------
+01:37:13 AM.736: pulse-input: Server name: 'pulseaudio 12.2'
+01:37:13 AM.736: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+01:37:13 AM.736: pulse-input: Started recording from 'alsa_output.pci-0000_02_00.6.analog-stereo.monitor'
+01:37:13 AM.806: pulse-input: Server name: 'pulseaudio 12.2'
+01:37:13 AM.806: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+01:37:13 AM.806: pulse-input: Started recording from 'alsa_input.pci-0000_02_00.6.analog-stereo'
+01:37:13 AM.830: alsa-input: PCM 'default' rate set to 44100
+01:37:13 AM.830: alsa-input: PCM 'default' channels set to 2
+01:37:13 AM.837: xshm-input: Geometry 1920x1080 @ 0,0
+01:37:13 AM.866: Switched to scene 'Scene'
+01:37:13 AM.866: ------------------------------------------------
+01:37:13 AM.866: Loaded scenes:
+01:37:13 AM.866: - scene 'Scene':
+01:37:13 AM.866:     - source: 'Screen Capture (XSHM)' (xshm_input)
+01:37:13 AM.866:     - source: 'Audio Capture Device (ALSA)' (alsa_input_capture)
+01:37:13 AM.866: ------------------------------------------------
+01:37:14 AM.382: adding 23 milliseconds of audio buffering, total audio buffering is now 23 milliseconds (source: Audio Capture Device (ALSA))
+01:37:14 AM.382: 
+01:37:45 AM.566: ---------------------------------
+01:37:45 AM.566: [x264 encoder: 'simple_h264_recording'] preset: veryfast
+01:37:45 AM.566: [x264 encoder: 'simple_h264_recording'] profile: high
+01:37:45 AM.566: [x264 encoder: 'simple_h264_recording'] settings:
+01:37:45 AM.566: 	rate_control: CRF
+01:37:45 AM.566: 	bitrate:      0
+01:37:45 AM.566: 	buffer size:  0
+01:37:45 AM.566: 	crf:          21
+01:37:45 AM.566: 	fps_num:      30
+01:37:45 AM.566: 	fps_den:      1
+01:37:45 AM.566: 	width:        1280
+01:37:45 AM.566: 	height:       720
+01:37:45 AM.566: 	keyint:       250
+01:37:45 AM.566: 
+01:37:45 AM.574: libfdk_aac encoder created
+01:37:45 AM.575: libfdk_aac bitrate: 128, channels: 2
+01:37:45 AM.586: ==== Recording Start ===============================================
+01:37:45 AM.586: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/jake/Videos/2019-12-10 01-37-45.mp4'...
+01:44:07 AM.151: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/jake/Videos/2019-12-10 01-37-45.mp4' stopped
+01:44:07 AM.152: Output 'simple_file_output': stopping
+01:44:07 AM.152: Output 'simple_file_output': Total frames output: 11424
+01:44:07 AM.152: Output 'simple_file_output': Total drawn frames: 11439 (11447 attempted)
+01:44:07 AM.152: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 8 (0.1%)
+01:44:07 AM.164: ==== Recording Stop ================================================
+01:44:07 AM.189: libfdk_aac encoder destroyed
+01:44:11 AM.786: adding 69 milliseconds of audio buffering, total audio buffering is now 92 milliseconds (source: Desktop Audio)
+01:44:11 AM.786: 
+01:44:15 AM.757: adding 23 milliseconds of audio buffering, total audio buffering is now 116 milliseconds (source: Desktop Audio)
+01:44:15 AM.757: 
+02:01:15 AM.939: ==== Shutting down ==================================================
+02:01:15 AM.958: Switched to scene '(null)'
+02:01:15 AM.989: pulse-input: Stopped recording from 'alsa_output.pci-0000_02_00.6.analog-stereo.monitor'
+02:01:15 AM.990: pulse-input: Got 318087 packets with 64853190 frames
+02:01:15 AM.990: pulse-input: Stopped recording from 'alsa_input.pci-0000_02_00.6.analog-stereo'
+02:01:15 AM.990: pulse-input: Got 302604 packets with 63598928 frames
+02:01:15 AM.991: All scene data cleared
+02:01:15 AM.991: ------------------------------------------------
+02:01:16 AM.019: Failed to fetch parent window geometry!
+02:01:16 AM.031: Failed to fetch parent window geometry!
+02:01:16 AM.032: Failed to fetch parent window geometry!
+02:01:16 AM.040: Failed to fetch parent window geometry!

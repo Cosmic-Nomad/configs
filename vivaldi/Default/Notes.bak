@@ -1,0 +1,93 @@
+{
+   "checksum": "595eb0f06370d0daa3138301ada77403",
+   "children": [ {
+      "content": "Discord Delete Script\n\n\n//Paste this function in DevTools console inside Discord\n\n/**\n * Delete all messages in a Discord channel or DM\n * @param {string} authToken Your authorization token\n * @param {string} authorId Author of the messages you want to delete\n * @param {string} channelId Channel were the messages are located\n * @param {string} afterMessageId Only delete messages after this, leave blank do delete all\n * @author Victornpb \u003Chttps://www.github.com/victornpb>\n * @see https://gist.github.com/victornpb/135f5b346dea4decfc8f63ad7d9cc182\n */\nfunction deleteMessages(authToken, authorId, channelId, afterMessageId) {\n    const start = new Date();\n    let delayDelete = 500;\n    let delaySearch = 1000;\n    let delCount = 0;\n    let failCount = 0;\n    let estimatedPing = 220;\n    let grandTotal;\n    let throttledCount = 0;\n    let throttledTotalTime = 0;\n    const history = [];\n\n    const wait = async (ms) => new Promise(done => setTimeout(done, ms));\n    const msToHMS = (s) => `${s / 3.6e6 | 0}h ${(s % 3.6e6) / 6e4 | 0}m ${(s % 6e4) / 1000 | 0}s`;\n    function logger(type, args, style = '') {\n        console[type].apply(console, args);\n        history.push(args);\n        pp.insertAdjacentHTML('beforeend', `\u003Cdiv style=\"${style}\">${Array.from(args).map(o => typeof o === 'object' ? JSON.stringify(o) : o).join('\\t')}\u003C/div>`);\n        popup.scrollBy(0, 1e10);\n    }\n    function log() { logger('log', arguments, 'black'); }\n    function log_info() { logger('info', arguments, 'color:darkturquoise;'); }\n    function log_verb() { logger('debug', arguments, 'color:gray;'); }\n    function log_warn() { logger('warn', arguments, 'color:orange;'); }\n    function log_error() { logger('error', arguments, 'color:red;'); }\n    function log_success() { logger('log', arguments, 'color:green;'); }\n\n    var popup = window.open('', '', 'width=800,height=1000,top=0,left=0');\n    popup.document.body.innerHTML = '\u003Cpre>\u003C/pre>';\n    const pp = popup.document.getElementsByTagName('pre')[0];\n    if (!popup) console.error('Popup blocked!');\n\n    log_info(`Started at ${start.toLocaleString()}`);\n    log(`channelId=${channelId} authorId=${authorId} firstMessageId=${afterMessageId}`);\n    log_info(`---- You can abort by setting STOP=1 on the console ----`);\n    recurse();\n\n    async function recurse() {\n        const headers = {\n            \"Authorization\": authToken\n        };\n        const deleteAfter = `search?author_id=${authorId}` + (afterMessageId ? `&min_id=${afterMessageId}` : '');\n        const baseURL = `https://discordapp.com/api/v6/channels/${channelId}/messages/`;\n\n        let resp;\n        try {\n            resp = await fetch(baseURL + deleteAfter, {\n                headers\n            });\n        } catch (err) {\n            log_error('Something went wrong!', err);\n            return;\n        }\n\n        // not indexed yet\n        if (resp.status === 202) {\n            const w = (await resp.json()).retry_after;\n            throttledCount++;\n            throttledTotalTime += w;\n            log_warn(`This channel wasn't indexed, waiting ${w} ms for discord to index it...`);\n            await wait(w);\n            return recurse();\n        }\n\n        if (!resp.ok) {\n            if (resp.status === 429) {\n                const r = await resp.json();\n                const x = r.retry_after;\n                throttledCount++;\n                throttledTotalTime += x;\n                log_warn(`! Rate limited by the API! Waiting ${x} ms ...`);\n                await wait(x);\n                return recurse();\n            } else {\n                log_error('API respondend with non OK status!', await resp.json());\n                return;\n            }\n        }\n\n        const result = await resp.json();\n\n        const total = result.total_results;\n        if (!grandTotal) grandTotal = total;\n        log_info(`Messages to delete: ${result.total_results}`, `Time remaining: ${msToHMS((delaySearch * Math.round(total / 25)) + ((delayDelete + estimatedPing) * total))} (ping: ${estimatedPing \u003C\u003C 0}ms)`);\n\n        if (result.total_results > 0) {\n            for (let i = 0; i \u003C result.messages.length; i++) {\n                const element = result.messages[i];\n                for (let j = 0; j \u003C element.length; j++) {\n                    const message = element[j];\n\n                    if (window.STOP) return log_error('STOPPED! (If you want to continue set STOP=0 and run again!');\n\n                    if (message.type === 3) {\n                        log_verb('Found a System message!? skipping it...', message);\n                    } else if (message.author.id == authorId && message.hit == true) {\n\n                        log(`${((delCount + 1) / grandTotal * 100).toFixed(2)}% (${delCount + 1}/${grandTotal}) Deleting ID:${message.id}`,\n                            `[${new Date(message.timestamp).toLocaleString()}] ${message.author.username}#${message.author.discriminator}: ${message.content}`,\n                            message.attachments.length ? message.attachments : '');\n                        const s = Date.now();\n\n                        let resp;\n                        try {\n                            resp = await fetch(baseURL + message.id, {\n                                headers,\n                                method: \"DELETE\"\n                            });\n                            delCount++;\n                        } catch (err) {\n                            log_error('Failed to delete message:', message, 'Error:', err);\n                            failCount++;\n                        }\n\n                        if (!resp.ok) {\n                            if (resp.status === 429) {\n                                const r = await resp.json();\n                                const x = r.retry_after;\n                                throttledCount++;\n                                throttledTotalTime += x;\n                                log_warn(`! Rate limited by the API! Waiting ${x} ms ...`);\n                                await wait(x);\n                                i--;\n                            } else {\n                                log_error('API respondend with non OK status!', resp);\n                            }\n                        }\n                        estimatedPing = (estimatedPing + (Date.now() - s)) / 2;\n                        await wait(delayDelete);\n                    }\n                }\n            }\n            log_verb('Getting next messages...');\n            await wait(delaySearch);\n            return recurse();\n        } else {\n            log_success('---- DONE! ----');\n            log_info(`Ended at ${new Date().toLocaleString()}! Total time: ${msToHMS(Date.now() - start.getTime())}`);\n            log(`Rate Limited: ${throttledCount} times. Total time throttled: ${msToHMS(throttledTotalTime)}`);\n            log(`Deleted ${delCount} messages , ${failCount} failed.`);\n            return result;\n        }\n    }\n}\n\n//END.\n\n\n-------------------------------------------\nFill this out, paste it and enter it and it'll start deleting messages.\n\nvar authToken = \"MjUzODkxMzQ3MzE5MDk1Mjk2.XZ7Clw.NYhhOPX5F1EQGH94TVAh_2sr-oM\";\nvar authorId = \"253891347319095296\";\nvar channelId = \"\";\nvar firstMessageId = \"\";\n\ndeleteMessages(authToken, authorId, channelId, firstMessageId);\n",
+      "date_added": "13224365711086259",
+      "guid": "3d281242-ee3a-45e8-b978-876fdbc4b6aa",
+      "id": "14",
+      "subject": "Discord Delete Script\n\n\n//Paste this function in DevTools console inside Discord\n\n/**\n * Delete all messages in a Discord channel or DM\n * @param {string} authToken Your authorization token\n * @param {string} authorId Author of the messages you want to de",
+      "type": "note",
+      "url": "http://discordapp.com/"
+   }, {
+      "content": "[Verse 1]\nYou told the sun when to rise\nand the stars when to fall\nall creation in your eyes\nyet men con(?) from your call\n\nlong ago the worldswas lost at sea\ndrowing in our sins and wicked schemes\nstill we worship God \n\n[Chorus}\nSometimes we think we're invincible\noh God, why do we still thinik we're invinciable?\nwhen we waste away, we waste away without you.\nour bones decay but you stay you remain true\nwhen we waste away, we waste away without you, without you.\n\n[Verse 2]\n\n[chorus]\nSometimes we think we're invincible\noh God, why do we still thinik we're invinciable?\nwhen we waste away, we waste away without you.\nour bones decay but you stay you remain true\nwhen we waste away, we waste away without you, without you.\n\ninterlude\n\noh woah oh woah oh whoa\noh woah oh woah oh whoa\n\n[Chorus]\nSometimes we think we're invincible\noh God, why do we still thinik we're invinciable?\nwhen we waste away, we waste away without you.\nour bones decay but you stay you remain true\nwhen we waste away, we waste away without you, without you.\n\n\n",
+      "date_added": "13215978487593142",
+      "guid": "00680f1d-31ff-47ce-85b3-10ba3612c067",
+      "id": "8",
+      "subject": "We Waste Away Lyrics",
+      "type": "note",
+      "url": "https://www.youtube.com/watch?v=i4BQs3dSW7c"
+   }, {
+      "content": "Cloudflare:\n\nemail: client.thraxx@outlook.com\npassword: 2cVK#P^5NI5OXPE4APSEvUzVw\n\n\n\n\nWP Admin:\n\nusername: office\npassword: up^WUyY#TEI7%Ur7N6wg&#Ejg\n\nThraxxshit.com WP account:\n\nusername: Thraxx\npassword: 1&*S6*eS3*cCKoNd*@3ND8UP\nRole: shop manager\n\n\n\nWordPress Thraxx:\n\nusername: thraxxofficial\nemail: client.thraxx@outlook.com\npassword: S&5w^e6Y@m@r\n\n\n\nNew IP: 107.190.130.238\n\nOld IP: 216.172.184.41\n",
+      "date_added": "13215894292606647",
+      "guid": "fc266486-e0fe-4aaa-8a4c-fbde3b951979",
+      "id": "9",
+      "subject": "Thraxx Login Info",
+      "type": "note",
+      "url": ""
+   }, {
+      "attachments": [ {
+         "checksum": "RMltJ1kFk0EziizYAo0O4ps6lXJlIgR2Su/051Yfqmg=|114159",
+         "content": ""
+      } ],
+      "content": "mv betterdiscordctl /usr/local/bin\n",
+      "date_added": "13201808709465013",
+      "guid": "b935a81b-fed7-4fbf-841f-f025b3d2ea98",
+      "id": "5",
+      "subject": "",
+      "type": "note",
+      "url": "https://github.com/bb010g/betterdiscordctl#betterdiscordctl"
+   }, {
+      "attachments": [ {
+         "checksum": "9d15VeRR+HYgxTOaaPT2p0ww2joMNZwyPkZNh9i+m3k=|69219",
+         "content": ""
+      } ],
+      "content": "F36118",
+      "date_added": "13205891609653718",
+      "guid": "0dba8062-8c3b-4310-9a35-6ba69300d8e9",
+      "id": "6",
+      "subject": "",
+      "type": "note",
+      "url": "http://colormind.io/"
+   }, {
+      "content": "",
+      "date_added": "13189834274028164",
+      "guid": "8b49a45a-1be6-4f33-86a9-ad626530d846",
+      "id": "4",
+      "subject": "",
+      "type": "note",
+      "url": "https://www.youtube.com/watch?v=1kGje4KxzKY"
+   }, {
+      "attachments": [ {
+         "checksum": "MrOjRbBXvZ7PpWk82/t8fWebPdsvWxm8m7xAmTR0M5o=|251623",
+         "content": ""
+      } ],
+      "content": "-Xmx4G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn128M",
+      "date_added": "13224309756096181",
+      "guid": "114dc5b8-8ea3-4a04-8e6a-e5b74b4d61cd",
+      "id": "11",
+      "subject": "",
+      "type": "note",
+      "url": "https://www.curseforge.com/minecraft/modpacks/rlcraft"
+   }, {
+      "children": [  ],
+      "date_added": "13215322627444818",
+      "guid": "00000000-0000-4000-a000-000000000003",
+      "id": "2",
+      "subject": "Other Notes",
+      "type": "other"
+   }, {
+      "children": [  ],
+      "date_added": "13215322627444819",
+      "guid": "00000000-0000-4000-a000-000000000004",
+      "id": "3",
+      "subject": "Trash",
+      "type": "trash"
+   } ],
+   "date_added": "13224533269194531",
+   "guid": "00000000-0000-4000-a000-000000000002",
+   "id": "1",
+   "subject": "Notes",
+   "sync_metadata": "CoIBCggIs/4NEgIyMhIAGlgzQ1pxRmhmNnoyT3RxVDJDTWJsTWNjcnBkdlpqM2RJMnByVkYvcVpuMGp6K3dkaFcvVmV5UHdYck1kczJjWnVNcmdkUzcxdGllMWViUVNtaHNXbUxVQT09IAEqGGJFcyt4TVU4MVlPbkRKU0t4aFpXWVE9PRKcAQgFEpcBEkA8Qz5iam54YXJoQjFXejJLMlVWV0QvU2VnPT0vMGRmN2MzNGEtMjE2Zi00N2RiLTllNzAtNzI2MDgyZGE2OTZkGAAgACgAMAc467Py/90tQOuz8v/dLUocMTVseWMrekwrUFdXQnJRSStjd0czL2tuMFZFPVofIh2lRGJtakhnOUtnditVaHVmejNwbkMzMlJySytzPRKbAQgJEpYBEkA8Qz5iam54YXJoQjFXejJLMlVWV0QvU2VnPT0vOWUyZmY0MjItNTE4ZS00MTA5LWE1MGYtYWYxNmEwY2YxYjU5GAAgACgAMAY46rPy/90tQOqz8v/dLUocMzlQbEdXak1LTEl1VFFBN1pFbFVPVW5QSmRvPVoeIhxLWldJQWFTcklINC84QVM5T0I0N09zK00xSjQ9EpwBCAYSlwESQDxDPmJqbnhhcmhCMVd6MksyVVZXRC9TZWc9PS9lODUwZmM2NS1jMGI5LTQ0NGMtOTQ5MS1lNjIwN2JkYTgwZWUYACAAKAAwCDjrs/L/3S1A67Py/90tShxUcjkwMUY2MEFpQm5xUFk1WFpjWDZtWUloMVE9Wh8iHdJsWDhNM3RqeVU5cWNjakVESlgrWmxYdWhPeWM9Ej8IARI7Eg08Uz5tYWluX25vdGVzGAAgACgAMAM4AEAAShxCYmN3M1FZblJ4aHh1YlV6T0NlZm1lVlZmUWs9WgASugEIDhK1AQocbzA0SC8xT1JkY0JucGhkTUZUblFxUTZzaTdvPRJAPEM+bVN0UTRPbDBzaTZHMmhyWEZoOHh0UT09LzNkMjgxMjQyLWVlM2EtNDVlOC1iOTc4LTg3NmZkYmM0YjZhYRgAIAEoATAWOO/tocf9LUCgt9O3nC5KHFpYNUwySDh6NTlsbjgzTUZialFVTXJTc1krQT1aHyIdEFZjQWpCQjVIM0RTWUdYbURXQldwcFVqVEd1OD0SQAgDEjwSDjxTPnRyYXNoX25vdGVzGAAgACgAMAQ4AEAAShxCYmN3M1FZblJ4aHh1YlV6T0NlZm1lVlZmUWs9WgASQAgCEjwSDjxTPm90aGVyX25vdGVzGAAgACgAMAI4AEAAShxCYmN3M1FZblJ4aHh1YlV6T0NlZm1lVlZmUWs9WgASnAEICxKXARJAPEM+bVN0UTRPbDBzaTZHMmhyWEZoOHh0UT09LzE2M2EyMzdjLTE1YmMtNDgwMy1hN2EyLTUzY2MzOWIyZGM1NxgAIAAoADAROMrRyqz9LUDK0cqs/S1KHFFHb0ZydXU0cjJyQnd2OEY3cTVEdmZiYWRlcz1aHyId9Ct5U3J5eitKNVhWV3JtR0cxQ2ZGRFgxd251cz0SnAEIBBKXARJAPEM+YkVzK3hNVTgxWU9uREpTS3hoWldZUT09LzJhMmMwMjViLTY2MmEtNGIyMS1hNjQxLWE4MzQ5ZjE1YzM0ZBgAIAAoADAQOJvh+NDeLUCb4fjQ3i1KHERFN0pkK2NGMmhuT0ZXYnBtblpDaXV4ZDVwQT1aHyId6WVDRzg1Qk92LzdQNUhjUmdITUIxV2REQldsND0SnAEICBKXARJAPEM+bVN0UTRPbDBzaTZHMmhyWEZoOHh0UT09LzdiMDQzZGVlLWYyMzItNGU2Zi05Mzg1LTI3YzcwMjI2YjBhORgAIAAoADANOKmu9qfeLUCprvan3i1KHHZCZ0pVNW1hREUxcFljbzhzWGZtc1ZKSDNvYz1aHyIdIU9QdS9sTTN0S0xtaytxYzYreWZpdHRkeFhPRT0YACDnhv6c3y4=",
+   "type": "folder",
+   "version": 1
+}

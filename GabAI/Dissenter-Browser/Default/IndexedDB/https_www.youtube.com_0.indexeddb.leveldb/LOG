@@ -1,0 +1,12 @@
+2021/05/25-13:19:47.148 1bf4 Reusing MANIFEST /home/jake/.config/GabAI/Dissenter-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/25-13:19:47.148 1bf4 Recovering log #135
+2021/05/25-13:19:47.244 1bf4 Reusing old log /home/jake/.config/GabAI/Dissenter-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000135.log 
+2021/05/25-13:20:45.163 2272 Level-0 table #140: started
+2021/05/25-13:20:45.191 2272 Level-0 table #140: 1073315 bytes OK
+2021/05/25-13:20:45.194 2272 Delete type=0 #135
+2021/05/25-13:23:06.346 2272 Compacting 1@1 + 1@2 files
+2021/05/25-13:23:06.358 2272 Generated table #141@1: 164 keys, 28290 bytes
+2021/05/25-13:23:06.358 2272 Compacted 1@1 + 1@2 files => 28290 bytes
+2021/05/25-13:23:06.360 2272 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/25-13:23:06.360 2272 Delete type=2 #137
+2021/05/25-13:23:06.360 2272 Delete type=2 #140

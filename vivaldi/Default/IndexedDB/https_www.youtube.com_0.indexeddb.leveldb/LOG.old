@@ -1,0 +1,15 @@
+2020/11/23-00:45:10.701 23926 Reusing MANIFEST /home/jake/.config/vivaldi/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/23-00:45:10.701 23926 Recovering log #4
+2020/11/23-00:45:10.701 23926 Reusing old log /home/jake/.config/vivaldi/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000004.log 
+2020/11/23-00:51:36.935 23926 Level-0 table #8: started
+2020/11/23-00:51:36.943 23926 Level-0 table #8: 3034 bytes OK
+2020/11/23-00:51:36.945 23926 Delete type=0 #4
+2020/11/23-00:51:36.945 23926 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/23-00:51:36.945 23926 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x00\x00\xc8\x09\x00d\x00a\x00t\x00a\x00b\x00a\x00s\x00e\x00s' @ 3018 : 1
+2020/11/23-00:51:36.945 23926 Compacting 1@1 + 1@2 files
+2020/11/23-00:51:36.948 23926 Generated table #9@1: 62 keys, 2052 bytes
+2020/11/23-00:51:36.948 23926 Compacted 1@1 + 1@2 files => 2052 bytes
+2020/11/23-00:51:36.952 23926 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/23-00:51:36.952 23926 Delete type=2 #5
+2020/11/23-00:51:36.952 23926 Delete type=2 #8
+2020/11/23-00:51:36.953 23926 Manual compaction at level-1 from '\x00\x03\x00\x00\xc8\x09\x00d\x00a\x00t\x00a\x00b\x00a\x00s\x00e\x00s' @ 3018 : 1 .. (end); will stop at (end)

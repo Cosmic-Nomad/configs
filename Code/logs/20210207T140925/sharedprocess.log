@@ -1,0 +1,41 @@
+[2021-02-07 14:09:29.396] [sharedprocess] [info] main {"machineId":"cf81308a38151bad12db1147dc3bbc0aa54fa88d8182b7521a0cf04e2fcbf059","windowId":2}
+[2021-02-07 14:09:30.237] [sharedprocess] [info] Deleted from disk znck.grammarly /home/jake/.vscode/extensions/znck.grammarly-0.12.5
+[2021-02-07 14:09:30.237] [sharedprocess] [info] Deleted from disk sibiraj-s.vscode-scss-formatter /home/jake/.vscode/extensions/sibiraj-s.vscode-scss-formatter-2.0.5
+[2021-02-07 14:09:30.494] [sharedprocess] [info] Deleted from disk ms-python.python /home/jake/.vscode/extensions/ms-python.python-2020.12.424452561
+[2021-02-07 14:09:32.618] [sharedprocess] [info] Installing extension: eamodio.gitlens
+[2021-02-07 14:09:32.619] [sharedprocess] [info] Installing extension: ms-dotnettools.csharp
+[2021-02-07 14:09:32.619] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2021-02-07 14:09:32.620] [sharedprocess] [info] Installing extension: msjsdiag.debugger-for-chrome
+[2021-02-07 14:09:32.620] [sharedprocess] [info] Installing extension: vscodevim.vim
+[2021-02-07 14:09:32.620] [sharedprocess] [info] Installing extension: znck.grammarly
+[2021-02-07 14:09:33.795] [sharedprocess] [info] Downloaded extension: ms-dotnettools.csharp undefined
+[2021-02-07 14:09:33.884] [sharedprocess] [info] Downloaded extension: vscodevim.vim undefined
+[2021-02-07 14:09:34.042] [sharedprocess] [info] Downloaded extension: eamodio.gitlens undefined
+[2021-02-07 14:09:34.211] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools undefined
+[2021-02-07 14:09:34.269] [sharedprocess] [info] Downloaded extension: znck.grammarly undefined
+[2021-02-07 14:09:34.272] [sharedprocess] [info] Downloaded extension: msjsdiag.debugger-for-chrome undefined
+[2021-02-07 14:09:34.532] [sharedprocess] [info] Extracted extension to /home/jake/.vscode/extensions/.ms-dotnettools.csharp-1.23.9: ms-dotnettools.csharp
+[2021-02-07 14:09:34.536] [sharedprocess] [info] Renamed to /home/jake/.vscode/extensions/ms-dotnettools.csharp-1.23.9
+[2021-02-07 14:09:34.576] [sharedprocess] [info] Installation completed. ms-dotnettools.csharp
+[2021-02-07 14:09:34.619] [sharedprocess] [info] Extensions installed successfully: ms-dotnettools.csharp
+[2021-02-07 14:09:35.115] [sharedprocess] [info] Extracted extension to /home/jake/.vscode/extensions/.znck.grammarly-0.14.0: znck.grammarly
+[2021-02-07 14:09:35.116] [sharedprocess] [info] Renamed to /home/jake/.vscode/extensions/znck.grammarly-0.14.0
+[2021-02-07 14:09:35.124] [sharedprocess] [info] Installation completed. znck.grammarly
+[2021-02-07 14:09:35.146] [sharedprocess] [info] Extensions installed successfully: znck.grammarly
+[2021-02-07 14:09:35.168] [sharedprocess] [info] Extracted extension to /home/jake/.vscode/extensions/.vscodevim.vim-1.18.9: vscodevim.vim
+[2021-02-07 14:09:35.173] [sharedprocess] [info] Renamed to /home/jake/.vscode/extensions/vscodevim.vim-1.18.9
+[2021-02-07 14:09:35.203] [sharedprocess] [info] Installation completed. vscodevim.vim
+[2021-02-07 14:09:35.234] [sharedprocess] [info] Extensions installed successfully: vscodevim.vim
+[2021-02-07 14:09:36.852] [sharedprocess] [info] Extracted extension to /home/jake/.vscode/extensions/.ms-vscode.cpptools-1.2.0: ms-vscode.cpptools
+[2021-02-07 14:09:36.853] [sharedprocess] [info] Renamed to /home/jake/.vscode/extensions/ms-vscode.cpptools-1.2.0
+[2021-02-07 14:09:36.858] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2021-02-07 14:09:36.874] [sharedprocess] [info] Extensions installed successfully: ms-vscode.cpptools
+[2021-02-07 14:09:36.934] [sharedprocess] [info] Extracted extension to /home/jake/.vscode/extensions/.eamodio.gitlens-11.2.1: eamodio.gitlens
+[2021-02-07 14:09:36.934] [sharedprocess] [info] Renamed to /home/jake/.vscode/extensions/eamodio.gitlens-11.2.1
+[2021-02-07 14:09:36.943] [sharedprocess] [info] Installation completed. eamodio.gitlens
+[2021-02-07 14:09:37.019] [sharedprocess] [info] Extensions installed successfully: eamodio.gitlens
+[2021-02-07 14:09:37.804] [sharedprocess] [info] Extracted extension to /home/jake/.vscode/extensions/.msjsdiag.debugger-for-chrome-4.12.12: msjsdiag.debugger-for-chrome
+[2021-02-07 14:09:37.804] [sharedprocess] [info] Renamed to /home/jake/.vscode/extensions/msjsdiag.debugger-for-chrome-4.12.12
+[2021-02-07 14:09:37.810] [sharedprocess] [info] Installation completed. msjsdiag.debugger-for-chrome
+[2021-02-07 14:09:37.822] [sharedprocess] [info] Extensions installed successfully: msjsdiag.debugger-for-chrome
+[2021-02-07 14:10:09.456] [sharedprocess] [info] Starting to clean up unused language packs.

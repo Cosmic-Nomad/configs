@@ -1,0 +1,46 @@
+# Tor state file last generated on 2020-02-06 13:03:56 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+Guard in=default rsa_id=B149064611DC466405E1825956F36B202DCE6E4A nickname=t0pch33s3 sampled_on=2020-01-29T13:18:01 sampled_by=0.3.5.8 listed=1
+Guard in=default rsa_id=FE1B74C7CEE0493613929A92F9A1D890E58DC649 nickname=unnamed sampled_on=2020-01-31T15:28:07 sampled_by=0.3.5.8 listed=1
+Guard in=default rsa_id=61B8BDC91AA7BC9A05EB5A3D652FFF88C98E6911 nickname=pecurina sampled_on=2020-02-03T02:07:58 sampled_by=0.3.5.8 listed=1
+Guard in=default rsa_id=F38125187F5E7CED1FF31C37B0AEEA7129263F82 nickname=550aca43 sampled_on=2020-01-30T21:42:18 sampled_by=0.3.5.8 listed=1 confirmed_on=2020-02-01T14:46:55 confirmed_idx=0 pb_use_attempts=33.000000 pb_use_successes=33.000000 pb_circ_attempts=54.000000 pb_circ_successes=54.000000 pb_successful_circuits_closed=54.000000
+Guard in=default rsa_id=F6740DEABFD5F62612FA025A5079EA72846B1F67 nickname=poiuty sampled_on=2020-02-04T07:13:36 sampled_by=0.3.5.8 listed=1
+Guard in=default rsa_id=875F74A3DC14737BECA06F8B500022154D1A29D1 nickname=Babylonian sampled_on=2020-01-27T12:54:33 sampled_by=0.3.5.8 listed=1
+Guard in=default rsa_id=20465F3DFD77F7AC95F31A4D35726FB6D82F0E67 nickname=SXbqvQix9zBHtEnBY3R sampled_on=2020-02-05T16:32:20 sampled_by=0.3.5.8 listed=1
+Guard in=default rsa_id=38E48C9509E18F405749859EEF299EBC1B829602 nickname=Cheese2 sampled_on=2020-01-27T10:20:32 sampled_by=0.3.5.8 listed=1
+Guard in=default rsa_id=DEF3365F1C012F80E56877B5EF05CE72BDEB0CCC nickname=Joker sampled_on=2020-01-31T13:25:16 sampled_by=0.3.5.8 listed=1
+Guard in=default rsa_id=7BE4752877553A96CD4035D0C526BCD09E81CC64 nickname=heartbeet sampled_on=2020-01-28T10:53:33 sampled_by=0.3.5.8 listed=1 confirmed_on=2020-02-04T00:03:28 confirmed_idx=2
+Guard in=default rsa_id=288C100FFA656938C23F32207CAF0DA932ECD247 nickname=investigator sampled_on=2020-01-26T06:58:34 sampled_by=0.3.5.8 listed=1
+Guard in=default rsa_id=E38CCCE275ADC46DF35FB764AA28D4EF722CFA54 nickname=inquisitively sampled_on=2020-01-26T17:34:07 sampled_by=0.3.5.8 listed=1
+Guard in=default rsa_id=72270EB58EDEBE727AA29E67417628DBCE889FAE nickname=giesskanne sampled_on=2020-01-31T19:48:49 sampled_by=0.3.5.8 listed=1
+Guard in=default rsa_id=021DDCD687FD505B7EA7E75DA6CEF0D778AA07FB nickname=GrmmlDag sampled_on=2020-01-29T12:56:21 sampled_by=0.3.5.8 listed=1
+Guard in=default rsa_id=395D293263E9DEEC1874503D45B8543DABACC694 nickname=snukafly sampled_on=2020-01-29T12:16:42 sampled_by=0.3.5.8 listed=1
+Guard in=default rsa_id=BF7168623AD4FF542A9E940C4CCF575D9BE16323 nickname=Assange018us sampled_on=2020-02-05T21:09:38 sampled_by=0.3.5.8 listed=1
+Guard in=default rsa_id=40DD356E8F3C53FA9251B561CF956302791AAFF5 nickname=Unnamed sampled_on=2020-01-25T20:00:43 sampled_by=0.3.5.8 listed=1
+Guard in=default rsa_id=1F5D00297D1B9FCC09CCDE62CA1043E3621FA973 nickname=Ninjaipservers3 sampled_on=2020-02-02T22:42:30 sampled_by=0.3.5.8 listed=1 confirmed_on=2020-01-28T04:30:41 confirmed_idx=1
+Guard in=default rsa_id=6420A9C2BADC6CFD32A1EAC935BAA08809261BB3 nickname=lodrich sampled_on=2020-02-04T22:36:21 sampled_by=0.3.5.8 listed=1
+Guard in=default rsa_id=2F26D43258285FEB39E4320888DFAFA8A0D20E11 nickname=ephemera sampled_on=2020-02-05T22:35:33 sampled_by=0.3.5.8 listed=1
+TorVersion Tor 0.3.5.8
+LastWritten 2020-02-06 18:03:56
+TotalBuildTimes 54
+CircuitBuildTimeBin 525 6
+CircuitBuildTimeBin 575 8
+CircuitBuildTimeBin 625 9
+CircuitBuildTimeBin 675 3
+CircuitBuildTimeBin 725 2
+CircuitBuildTimeBin 775 2
+CircuitBuildTimeBin 825 7
+CircuitBuildTimeBin 875 1
+CircuitBuildTimeBin 925 1
+CircuitBuildTimeBin 975 1
+CircuitBuildTimeBin 1025 2
+CircuitBuildTimeBin 1075 2
+CircuitBuildTimeBin 1125 1
+CircuitBuildTimeBin 1175 3
+CircuitBuildTimeBin 1325 2
+CircuitBuildTimeBin 1425 1
+CircuitBuildTimeBin 1625 1
+CircuitBuildTimeBin 1675 1
+CircuitBuildTimeBin 1725 1

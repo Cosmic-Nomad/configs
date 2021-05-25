@@ -1,0 +1,14 @@
+2021/01/12-10:53:52.621 95c Reusing MANIFEST /home/jake/.config/GabAI/Dissenter-Browser/Default/IndexedDB/https_idp.hrblock.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/12-10:53:52.622 95c Recovering log #37
+2021/01/12-10:53:52.622 95c Reusing old log /home/jake/.config/GabAI/Dissenter-Browser/Default/IndexedDB/https_idp.hrblock.com_0.indexeddb.leveldb/000037.log 
+2021/01/12-10:53:52.622 95c Delete type=2 #35
+2021/01/12-10:53:57.386 e51 Level-0 table #42: started
+2021/01/12-10:53:57.388 e51 Level-0 table #42: 549 bytes OK
+2021/01/12-10:53:57.390 e51 Delete type=0 #37
+2021/01/12-10:53:57.390 e51 Manual compaction at level-0 from '\x00\x0b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0b\x00\x00\x05' @ 198 : 1
+2021/01/12-10:53:57.390 e51 Compacting 1@0 + 1@1 files
+2021/01/12-10:53:57.392 e51 Generated table #43@0: 21 keys, 872 bytes
+2021/01/12-10:53:57.392 e51 Compacted 1@0 + 1@1 files => 872 bytes
+2021/01/12-10:53:57.394 e51 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/01/12-10:53:57.395 e51 Delete type=2 #42
+2021/01/12-10:53:57.395 e51 Manual compaction at level-0 from '\x00\x0b\x00\x00\x05' @ 198 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at (end)

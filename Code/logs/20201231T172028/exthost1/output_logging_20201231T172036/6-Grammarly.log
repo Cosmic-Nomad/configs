@@ -1,0 +1,15 @@
+{
+  grammarly: {
+    autoActivate: true,
+    audience: 'knowledgeable',
+    dialect: 'american',
+    domain: 'general',
+    emotions: [],
+    goals: [],
+    overrides: [],
+    ignore: [ '**/node_modules/**/*' ],
+    userWords: [],
+    diagnostics: { '[markdown]': [Object] },
+    severity: {}
+  }
+}

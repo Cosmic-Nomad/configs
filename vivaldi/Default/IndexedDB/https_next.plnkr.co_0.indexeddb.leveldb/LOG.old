@@ -1,0 +1,6 @@
+2020/02/13-20:50:52.592 3a15 Reusing MANIFEST /home/jake/.config/vivaldi/Default/IndexedDB/https_next.plnkr.co_0.indexeddb.leveldb/MANIFEST-000001
+2020/02/13-20:50:52.592 3a15 Recovering log #4
+2020/02/13-20:50:52.592 3a15 Reusing old log /home/jake/.config/vivaldi/Default/IndexedDB/https_next.plnkr.co_0.indexeddb.leveldb/000004.log 
+2020/02/13-22:53:01.192 3c59 Level-0 table #8: started
+2020/02/13-22:53:01.218 3c59 Level-0 table #8: 1087295 bytes OK
+2020/02/13-22:53:01.221 3c59 Delete type=0 #4

@@ -1,0 +1,15 @@
+2021/01/25-12:15:55.385 1513f Reusing MANIFEST /home/jake/.config/vivaldi/Default/IndexedDB/chrome-extension_kbfnbcaeplbcioakkpcpgfkobkghlhen_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/25-12:15:55.388 1513f Recovering log #7
+2021/01/25-12:15:55.389 1513f Reusing old log /home/jake/.config/vivaldi/Default/IndexedDB/chrome-extension_kbfnbcaeplbcioakkpcpgfkobkghlhen_0.indexeddb.leveldb/000007.log 
+2021/01/25-12:19:57.722 156a0 Level-0 table #12: started
+2021/01/25-12:19:57.728 156a0 Level-0 table #12: 37895 bytes OK
+2021/01/25-12:19:57.731 156a0 Delete type=0 #7
+2021/01/25-12:19:57.731 156a0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/25-12:19:57.731 1569e Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x10\x00l\x00a\x00s\x00t\x00C\x00o\x00n\x00f\x00i\x00g\x00U\x00p\x00d\x00a\x00t\x00e' @ 5750 : 1
+2021/01/25-12:19:57.731 1569e Compacting 1@1 + 1@2 files
+2021/01/25-12:19:57.735 1569e Generated table #13@1: 31 keys, 6923 bytes
+2021/01/25-12:19:57.735 1569e Compacted 1@1 + 1@2 files => 6923 bytes
+2021/01/25-12:19:57.737 1569e compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/25-12:19:57.737 1569e Delete type=2 #12
+2021/01/25-12:19:57.737 1569e Delete type=2 #9
+2021/01/25-12:19:57.739 1569e Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x10\x00l\x00a\x00s\x00t\x00C\x00o\x00n\x00f\x00i\x00g\x00U\x00p\x00d\x00a\x00t\x00e' @ 5750 : 1 .. (end); will stop at (end)

@@ -1,0 +1,8 @@
+[2021-01-01 22:35:49.308] [sharedprocess] [info] main {"machineId":"cf81308a38151bad12db1147dc3bbc0aa54fa88d8182b7521a0cf04e2fcbf059","windowId":2}
+[2021-01-01 22:35:53.470] [sharedprocess] [info] Installing extension: vscode-icons-team.vscode-icons
+[2021-01-01 22:35:54.654] [sharedprocess] [info] Downloaded extension: vscode-icons-team.vscode-icons undefined
+[2021-01-01 22:35:57.689] [sharedprocess] [info] Extracted extension to /home/jake/.vscode/extensions/.vscode-icons-team.vscode-icons-11.1.0: vscode-icons-team.vscode-icons
+[2021-01-01 22:35:57.689] [sharedprocess] [info] Renamed to /home/jake/.vscode/extensions/vscode-icons-team.vscode-icons-11.1.0
+[2021-01-01 22:35:57.691] [sharedprocess] [info] Installation completed. vscode-icons-team.vscode-icons
+[2021-01-01 22:35:57.707] [sharedprocess] [info] Extensions installed successfully: vscode-icons-team.vscode-icons
+[2021-01-01 22:36:29.341] [sharedprocess] [info] Starting to clean up unused language packs.

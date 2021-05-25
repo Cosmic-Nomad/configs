@@ -1,0 +1,10 @@
+# GIMP gimp-text-tool options
+
+(palette "Color History")
+(font "Dingbats")
+(font-size 72)
+(hint-style full)
+(justify center)
+(line-spacing -10)
+
+# end of gimp-text-tool options

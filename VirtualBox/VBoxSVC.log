@@ -1,0 +1,40 @@
+00:00:00.000608 main     VirtualBox XPCOM Server 6.1.12 r139181 linux.amd64 (Jul 11 2020 09:09:53) release log
+00:00:00.000611 main     Log opened 2021-02-11T21:14:06.115498000Z
+00:00:00.000612 main     Build Type: release
+00:00:00.000616 main     OS Product: Linux
+00:00:00.000617 main     OS Release: 5.4.0-65-generic
+00:00:00.000618 main     OS Version: #73-Ubuntu SMP Mon Jan 18 17:25:17 UTC 2021
+00:00:00.000648 main     DMI Product Name: VivoBook_ASUSLaptop X512DA_F512DA
+00:00:00.000657 main     DMI Product Version: 1.0       
+00:00:00.000664 main     Firmware type: UEFI
+00:00:00.001254 main     Secure Boot: Disabled
+00:00:00.001344 main     Host RAM: 3444MB (3.3GB) total, 901MB available
+00:00:00.001350 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.001352 main     Process ID: 211390
+00:00:00.001353 main     Package type: LINUX_64BITS_UBUNTU_19_10
+00:00:00.005198 main     IPC socket path: /tmp/.vbox-jake-ipc/ipcd
+00:00:00.111152 nspr-2   VirtualBox: object creation starts
+00:00:00.111258 nspr-2   Home directory: '/home/jake/.config/VirtualBox'
+00:00:00.111573 nspr-2   Loading settings file "/home/jake/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.115872 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp1s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.122655 nspr-2   HostDnsMonitor: initializing
+00:00:00.122840 nspr-2   NAT: resolv.conf: nameserver 127.0.0.53
+00:00:00.122863 nspr-2   HostDnsMonitor: updating information
+00:00:00.122880 nspr-2   HostDnsMonitor: old information
+00:00:00.122884 nspr-2     no server entries
+00:00:00.122888 nspr-2     no domain set
+00:00:00.122892 nspr-2     no search string entries
+00:00:00.122895 nspr-2   HostDnsMonitor: new information
+00:00:00.122899 nspr-2     server 1: 127.0.0.53
+00:00:00.122903 nspr-2     domain: lan
+00:00:00.122907 nspr-2     search string 1: lan
+00:00:00.125476 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.126168 nspr-2   VirtualBox: object created
+00:00:02.563102 nspr-3   Saving settings file "/home/jake/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:02.573972 nspr-2   Saving settings file "/home/jake/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:08.088451 main     VirtualBox: object deletion starts
+00:00:08.088870 main     HostDnsMonitor: shutting down ...
+00:00:08.103823 main     HostDnsMonitor: shut down
+00:00:08.127561 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:13.103952 main     {00007f4848019790} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+00:00:13.104231 main     VirtualBox: object deleted

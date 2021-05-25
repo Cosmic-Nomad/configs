@@ -1,0 +1,15 @@
+2021/02/21-21:24:52.785 1169 Reusing MANIFEST /home/jake/.config/discordcanary/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/21-21:24:52.787 1169 Recovering log #96
+2021/02/21-21:24:52.787 1169 Reusing old log /home/jake/.config/discordcanary/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000096.log 
+2021/02/21-21:27:05.946 1259 Level-0 table #101: started
+2021/02/21-21:27:05.949 1259 Level-0 table #101: 701 bytes OK
+2021/02/21-21:27:05.951 1259 Delete type=0 #96
+2021/02/21-21:27:05.951 1259 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/02/21-21:27:05.952 1259 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x16\x00y\x00t\x00-\x00i\x00d\x00b\x00-\x00t\x00e\x00s\x00t\x00-\x00d\x00o\x00-\x00n\x00o\x00t\x00-\x00u\x00s\x00e' @ 545 : 1
+2021/02/21-21:27:05.952 1259 Compacting 1@1 + 1@2 files
+2021/02/21-21:27:05.953 1259 Generated table #102@1: 21 keys, 597 bytes
+2021/02/21-21:27:05.953 1259 Compacted 1@1 + 1@2 files => 597 bytes
+2021/02/21-21:27:05.955 1259 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/02/21-21:27:05.955 1259 Delete type=2 #98
+2021/02/21-21:27:05.955 1259 Delete type=2 #101
+2021/02/21-21:27:05.955 1259 Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x16\x00y\x00t\x00-\x00i\x00d\x00b\x00-\x00t\x00e\x00s\x00t\x00-\x00d\x00o\x00-\x00n\x00o\x00t\x00-\x00u\x00s\x00e' @ 545 : 1 .. (end); will stop at (end)

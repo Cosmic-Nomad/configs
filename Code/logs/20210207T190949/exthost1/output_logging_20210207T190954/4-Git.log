@@ -1,0 +1,660 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/jake/Documents/Web Development/portfolio
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git config --get commit.template
+> git status -z -u
+> git show --textconv :index.html
+> git show --textconv :style.scss
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/index.html
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/style.scss
+> git symbolic-ref --short HEAD
+> git cat-file -s 08fc1f0d3160b4321e48a0e2f2aa4c1561e26717
+> git rev-parse gh-pages
+> git cat-file -s 333b0a43b1de7e2845dc61ab56582707637ac18c
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git config --local branch.gh-pages.github-pr-owner-number
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/index.html
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/style.scss
+> git cat-file -s 08fc1f0d3160b4321e48a0e2f2aa4c1561e26717
+> git cat-file -s 333b0a43b1de7e2845dc61ab56582707637ac18c
+> git show --textconv :index.html
+> git show --textconv :style.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/index.html
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/style.scss
+> git cat-file -s 08fc1f0d3160b4321e48a0e2f2aa4c1561e26717
+> git cat-file -s 333b0a43b1de7e2845dc61ab56582707637ac18c
+> git show --textconv :index.html
+> git show --textconv :style.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/index.html
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/style.scss
+> git cat-file -s 333b0a43b1de7e2845dc61ab56582707637ac18c
+> git cat-file -s 08fc1f0d3160b4321e48a0e2f2aa4c1561e26717
+> git show --textconv :index.html
+> git show --textconv :style.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/index.html
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/style.scss
+> git cat-file -s 08fc1f0d3160b4321e48a0e2f2aa4c1561e26717
+> git cat-file -s 333b0a43b1de7e2845dc61ab56582707637ac18c
+> git show --textconv :index.html
+> git show --textconv :style.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/index.html
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/style.scss
+> git cat-file -s 08fc1f0d3160b4321e48a0e2f2aa4c1561e26717
+> git cat-file -s 333b0a43b1de7e2845dc61ab56582707637ac18c
+> git show --textconv :index.html
+> git show --textconv :style.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/index.html
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/style.scss
+> git cat-file -s 08fc1f0d3160b4321e48a0e2f2aa4c1561e26717
+> git cat-file -s 333b0a43b1de7e2845dc61ab56582707637ac18c
+> git show --textconv :index.html
+> git show --textconv :style.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/index.html
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/style.scss
+> git cat-file -s 08fc1f0d3160b4321e48a0e2f2aa4c1561e26717
+> git cat-file -s 333b0a43b1de7e2845dc61ab56582707637ac18c
+> git show --textconv :index.html
+> git show --textconv :style.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/index.html
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/style.scss
+> git cat-file -s 08fc1f0d3160b4321e48a0e2f2aa4c1561e26717
+> git cat-file -s 333b0a43b1de7e2845dc61ab56582707637ac18c
+> git show --textconv :index.html
+> git show --textconv :style.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git for-each-ref --format %(refname:short)%00%(upstream:short) refs/heads
+> git checkout -q gh-pages
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/index.html
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/style.scss
+> git cat-file -s 333b0a43b1de7e2845dc61ab56582707637ac18c
+> git cat-file -s 08fc1f0d3160b4321e48a0e2f2aa4c1561e26717
+> git show --textconv :style.scss
+> git show --textconv :index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/index.html
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/style.scss
+> git cat-file -s 08fc1f0d3160b4321e48a0e2f2aa4c1561e26717
+> git cat-file -s 333b0a43b1de7e2845dc61ab56582707637ac18c
+> git show --textconv :index.html
+> git show --textconv :style.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git add -A -- /home/jake/Documents/Web Development/portfolio/index.html /home/jake/Documents/Web Development/portfolio/style.css /home/jake/Documents/Web Development/portfolio/style.css.map /home/jake/Documents/Web Development/portfolio/style.scss /home/jake/Documents/Web Development/portfolio/img/cosmic-7.jpeg
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/index.html
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/style.scss
+> git cat-file -s dadd3b36a6e8d6fce08d89a6eaf7b6251400c05c
+> git cat-file -s ed12404440e4607a4732639b4d7f166231ce5ca6
+> git show --textconv :style.scss
+> git show --textconv :index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git add -A -- /home/jake/Documents/Web Development/portfolio/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/index.html
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/style.scss
+> git cat-file -s 7f987467bceea64c30f6e70566fc8c26aed8a67b
+> git cat-file -s dadd3b36a6e8d6fce08d89a6eaf7b6251400c05c
+> git show --textconv :index.html
+> git show --textconv :style.scss
+> git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git config --get commit.template
+> git config --local branch.gh-pages.github-pr-owner-number
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/index.html
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/style.scss
+> git cat-file -s 7f987467bceea64c30f6e70566fc8c26aed8a67b
+> git cat-file -s dadd3b36a6e8d6fce08d89a6eaf7b6251400c05c
+> git show --textconv :index.html
+> git show --textconv :style.scss
+> git pull --tags origin gh-pages
+From https://github.com/WizardsofBoz/portfolio
+ * branch            gh-pages   -> FETCH_HEAD
+> git push origin gh-pages:gh-pages
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/index.html
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/style.scss
+> git cat-file -s 7f987467bceea64c30f6e70566fc8c26aed8a67b
+> git cat-file -s dadd3b36a6e8d6fce08d89a6eaf7b6251400c05c
+> git show --textconv :index.html
+> git show --textconv :style.scss
+remote: This repository moved. Please use the new location:        
+remote:   https://github.com/Cosmic-Nomad/portfolio.git        
+To https://github.com/WizardsofBoz/portfolio
+   588d241..7e29875  gh-pages -> gh-pages
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git config --local branch.gh-pages.github-pr-owner-number
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/index.html
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/style.scss
+> git cat-file -s 7f987467bceea64c30f6e70566fc8c26aed8a67b
+> git cat-file -s dadd3b36a6e8d6fce08d89a6eaf7b6251400c05c
+> git show --textconv :index.html
+> git show --textconv :style.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/index.html
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/style.scss
+> git cat-file -s 7f987467bceea64c30f6e70566fc8c26aed8a67b
+> git cat-file -s dadd3b36a6e8d6fce08d89a6eaf7b6251400c05c
+> git show --textconv :index.html
+> git show --textconv :style.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git add -A -- /home/jake/Documents/Web Development/portfolio/fonts/texgyreadventor-bold.otf /home/jake/Documents/Web Development/portfolio/fonts/texgyreadventor-bolditalic.otf /home/jake/Documents/Web Development/portfolio/fonts/texgyreadventor-italic.otf /home/jake/Documents/Web Development/portfolio/fonts/texgyreadventor-regular.otf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/index.html
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/style.scss
+> git cat-file -s 7f987467bceea64c30f6e70566fc8c26aed8a67b
+> git cat-file -s dadd3b36a6e8d6fce08d89a6eaf7b6251400c05c
+> git show --textconv :index.html
+> git show --textconv :style.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/index.html
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/style.scss
+> git cat-file -s 7f987467bceea64c30f6e70566fc8c26aed8a67b
+> git cat-file -s dadd3b36a6e8d6fce08d89a6eaf7b6251400c05c
+> git show --textconv :index.html
+> git show --textconv :style.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git config --local branch.gh-pages.github-pr-owner-number
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/index.html
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/style.scss
+> git cat-file -s 7f987467bceea64c30f6e70566fc8c26aed8a67b
+> git cat-file -s dadd3b36a6e8d6fce08d89a6eaf7b6251400c05c
+> git show --textconv :index.html
+> git show --textconv :style.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git pull --tags origin gh-pages
+From https://github.com/WizardsofBoz/portfolio
+ * branch            gh-pages   -> FETCH_HEAD
+> git push origin gh-pages:gh-pages
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/index.html
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/style.scss
+> git cat-file -s 7f987467bceea64c30f6e70566fc8c26aed8a67b
+> git cat-file -s dadd3b36a6e8d6fce08d89a6eaf7b6251400c05c
+> git show --textconv :index.html
+> git show --textconv :style.scss
+remote: This repository moved. Please use the new location:        
+remote:   https://github.com/Cosmic-Nomad/portfolio.git        
+To https://github.com/WizardsofBoz/portfolio
+   7e29875..74ba71c  gh-pages -> gh-pages
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git config --local branch.gh-pages.github-pr-owner-number
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/index.html
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/style.scss
+> git cat-file -s 7f987467bceea64c30f6e70566fc8c26aed8a67b
+> git cat-file -s dadd3b36a6e8d6fce08d89a6eaf7b6251400c05c
+> git show --textconv :index.html
+> git show --textconv :style.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/jake/Documents/Web Development/portfolio/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/index.html
+> git ls-files --stage -- /home/jake/Documents/Web Development/portfolio/style.scss
+> git cat-file -s 7f987467bceea64c30f6e70566fc8c26aed8a67b
+> git cat-file -s dadd3b36a6e8d6fce08d89a6eaf7b6251400c05c
+> git show --textconv :index.html
+> git show --textconv :style.scss
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git rev-list --left-right gh-pages...refs/remotes/origin/gh-pages
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

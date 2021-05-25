@@ -1,0 +1,12 @@
+{
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Community Material Theme Darker",
+    "git.autofetch": true,
+    "terminal.integrated.shell.linux": "/bin/sh",
+    "gitlens.views.repositories.files.layout": "tree",
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "cascadia code",
+    "editor.fontWeight": 600
+}

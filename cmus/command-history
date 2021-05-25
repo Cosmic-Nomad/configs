@@ -1,0 +1,15 @@
+quit
+save
+colorscheme green
+colorscheme zenburn
+colorscheme night
+colorscheme NIGHT
+colorscheme dracula
+colorscheme gray-88
+changetheme
+theme
+q
+bind common ^Q  colorscheme
+bind common shift+q  colorscheme
+play
+help

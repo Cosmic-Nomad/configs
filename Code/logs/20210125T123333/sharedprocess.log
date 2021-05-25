@@ -1,0 +1,20 @@
+[2021-01-25 12:33:37.930] [sharedprocess] [info] main {"machineId":"cf81308a38151bad12db1147dc3bbc0aa54fa88d8182b7521a0cf04e2fcbf059","windowId":2}
+[2021-01-25 12:33:40.467] [sharedprocess] [info] Installing extension: ms-python.python
+[2021-01-25 12:33:40.467] [sharedprocess] [info] Installing extension: sibiraj-s.vscode-scss-formatter
+[2021-01-25 12:33:40.468] [sharedprocess] [info] Installing extension: znck.grammarly
+[2021-01-25 12:33:43.972] [sharedprocess] [info] Downloaded extension: znck.grammarly undefined
+[2021-01-25 12:33:44.418] [sharedprocess] [info] Downloaded extension: sibiraj-s.vscode-scss-formatter undefined
+[2021-01-25 12:33:44.873] [sharedprocess] [info] Extracted extension to /home/jake/.vscode/extensions/.znck.grammarly-0.13.0: znck.grammarly
+[2021-01-25 12:33:44.873] [sharedprocess] [info] Renamed to /home/jake/.vscode/extensions/znck.grammarly-0.13.0
+[2021-01-25 12:33:45.181] [sharedprocess] [info] Installation completed. znck.grammarly
+[2021-01-25 12:33:45.190] [sharedprocess] [info] Downloaded extension: ms-python.python undefined
+[2021-01-25 12:33:45.277] [sharedprocess] [info] Extensions installed successfully: znck.grammarly
+[2021-01-25 12:33:45.952] [sharedprocess] [info] Extracted extension to /home/jake/.vscode/extensions/.sibiraj-s.vscode-scss-formatter-2.1.0: sibiraj-s.vscode-scss-formatter
+[2021-01-25 12:33:45.952] [sharedprocess] [info] Renamed to /home/jake/.vscode/extensions/sibiraj-s.vscode-scss-formatter-2.1.0
+[2021-01-25 12:33:45.956] [sharedprocess] [info] Installation completed. sibiraj-s.vscode-scss-formatter
+[2021-01-25 12:33:46.024] [sharedprocess] [info] Extensions installed successfully: sibiraj-s.vscode-scss-formatter
+[2021-01-25 12:33:50.504] [sharedprocess] [info] Extracted extension to /home/jake/.vscode/extensions/.ms-python.python-2021.1.502429796: ms-python.python
+[2021-01-25 12:33:50.505] [sharedprocess] [info] Renamed to /home/jake/.vscode/extensions/ms-python.python-2021.1.502429796
+[2021-01-25 12:33:50.512] [sharedprocess] [info] Installation completed. ms-python.python
+[2021-01-25 12:33:50.785] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2021-01-25 12:34:17.977] [sharedprocess] [info] Starting to clean up unused language packs.

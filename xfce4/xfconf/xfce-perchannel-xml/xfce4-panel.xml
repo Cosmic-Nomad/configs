@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-panel" version="1.0">
+  <property name="panels" type="array">
+    <value type="int" value="0"/>
+    <value type="int" value="1"/>
+    <property name="panel-0" type="empty">
+      <property name="position" type="string" value="p=6;x=0;y=0"/>
+      <property name="length" type="uint" value="100"/>
+      <property name="position-locked" type="bool" value="true"/>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="1"/>
+        <value type="int" value="2"/>
+        <value type="int" value="3"/>
+        <value type="int" value="4"/>
+        <value type="int" value="5"/>
+        <value type="int" value="6"/>
+        <value type="int" value="7"/>
+        <value type="int" value="8"/>
+        <value type="int" value="9"/>
+        <value type="int" value="10"/>
+        <value type="int" value="11"/>
+      </property>
+      <property name="background-style" type="uint" value="1"/>
+      <property name="background-alpha" type="uint" value="80"/>
+      <property name="size" type="uint" value="24"/>
+      <property name="length-adjust" type="bool" value="true"/>
+      <property name="span-monitors" type="bool" value="false"/>
+      <property name="enter-opacity" type="uint" value="100"/>
+      <property name="leave-opacity" type="uint" value="100"/>
+      <property name="mode" type="uint" value="0"/>
+      <property name="autohide-behavior" type="uint" value="0"/>
+      <property name="background-rgba" type="array">
+        <value type="double" value="0.000000"/>
+        <value type="double" value="0.000000"/>
+        <value type="double" value="0.000000"/>
+        <value type="double" value="1.000000"/>
+      </property>
+    </property>
+    <property name="panel-1" type="empty">
+      <property name="position" type="string" value="p=4;x=1567;y=1040"/>
+      <property name="size" type="uint" value="74"/>
+      <property name="autohide-behavior" type="uint" value="1"/>
+      <property name="length" type="uint" value="15"/>
+      <property name="background-style" type="uint" value="1"/>
+      <property name="leave-opacity" type="uint" value="0"/>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="12"/>
+        <value type="int" value="23"/>
+        <value type="int" value="13"/>
+        <value type="int" value="14"/>
+        <value type="int" value="15"/>
+        <value type="int" value="20"/>
+        <value type="int" value="18"/>
+        <value type="int" value="17"/>
+        <value type="int" value="16"/>
+        <value type="int" value="21"/>
+      </property>
+      <property name="position-locked" type="bool" value="true"/>
+    </property>
+  </property>
+  <property name="plugins" type="empty">
+    <property name="plugin-1" type="string" value="whiskermenu"/>
+    <property name="plugin-2" type="string" value="tasklist">
+      <property name="flat-buttons" type="bool" value="true"/>
+      <property name="sort-order" type="uint" value="4"/>
+      <property name="window-scrolling" type="bool" value="false"/>
+    </property>
+    <property name="plugin-3" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+      <property name="expand" type="bool" value="true"/>
+    </property>
+    <property name="plugin-4" type="string" value="systray">
+      <property name="show-frame" type="bool" value="false"/>
+      <property name="size-max" type="uint" value="22"/>
+      <property name="names-visible" type="array">
+        <value type="string" value="gigolo"/>
+        <value type="string" value="networkmanager applet"/>
+        <value type="string" value="task manager"/>
+        <value type="string" value="blueman-applet"/>
+      </property>
+      <property name="names-ordered" type="array">
+        <value type="string" value="ibus-ui-gtk3"/>
+        <value type="string" value="update-notifier"/>
+        <value type="string" value="dropbox"/>
+        <value type="string" value="discord"/>
+        <value type="string" value="fluxgui"/>
+        <value type="string" value="system-config-printer"/>
+        <value type="string" value="notes"/>
+        <value type="string" value="gigolo"/>
+        <value type="string" value="networkmanager applet"/>
+        <value type="string" value="xfce4-power-manager"/>
+        <value type="string" value="gpick"/>
+        <value type="string" value="task manager"/>
+        <value type="string" value="thunar"/>
+        <value type="string" value="blueman-applet"/>
+        <value type="string" value="network"/>
+      </property>
+    </property>
+    <property name="plugin-5" type="string" value="notification-plugin"/>
+    <property name="plugin-6" type="string" value="indicator">
+      <property name="blacklist" type="array">
+        <value type="string" value="libappmenu.so"/>
+      </property>
+      <property name="known-indicators" type="array">
+        <value type="string" value="com.canonical.indicator.messages"/>
+      </property>
+    </property>
+    <property name="plugin-7" type="string" value="statusnotifier">
+      <property name="icon-size" type="uint" value="22"/>
+      <property name="menu-is-primary" type="bool" value="true"/>
+      <property name="mode-whitelist" type="bool" value="false"/>
+      <property name="single-row" type="bool" value="false"/>
+      <property name="square-icons" type="bool" value="false"/>
+      <property name="symbolic-icons" type="bool" value="true"/>
+      <property name="known-items" type="array">
+        <value type="string" value="TelegramDesktop"/>
+        <value type="string" value="LBRY1"/>
+        <value type="string" value="dropbox-client-2070"/>
+        <value type="string" value="dropbox-client-1757"/>
+        <value type="string" value="dropbox-client-1845"/>
+        <value type="string" value="dropbox-client-1803"/>
+        <value type="string" value="dropbox-client-2319"/>
+        <value type="string" value="dropbox-client-1809"/>
+        <value type="string" value="dropbox-client-1833"/>
+        <value type="string" value="dropbox-client-1772"/>
+        <value type="string" value="dropbox-client-1912"/>
+        <value type="string" value="dropbox-client-1883"/>
+        <value type="string" value="dropbox-client-1924"/>
+        <value type="string" value="dropbox-client-1800"/>
+        <value type="string" value="dropbox-client-1866"/>
+        <value type="string" value="dropbox-client-7591"/>
+        <value type="string" value="dropbox-client-2443"/>
+        <value type="string" value="dropbox-client-1796"/>
+        <value type="string" value="dropbox-client-21768"/>
+        <value type="string" value="dropbox-client-13035"/>
+        <value type="string" value="dropbox-client-8235"/>
+        <value type="string" value="zoom"/>
+        <value type="string" value="fluxgui-indicator"/>
+        <value type="string" value="vlc"/>
+        <value type="string" value="obs"/>
+        <value type="string" value="chrome_status_icon_136"/>
+        <value type="string" value="chrome_status_icon_135"/>
+        <value type="string" value="chrome_status_icon_134"/>
+        <value type="string" value="chrome_status_icon_133"/>
+        <value type="string" value="chrome_status_icon_132"/>
+        <value type="string" value="chrome_status_icon_131"/>
+        <value type="string" value="chrome_status_icon_130"/>
+        <value type="string" value="chrome_status_icon_129"/>
+        <value type="string" value="chrome_status_icon_128"/>
+        <value type="string" value="chrome_status_icon_127"/>
+        <value type="string" value="chrome_status_icon_126"/>
+        <value type="string" value="chrome_status_icon_125"/>
+        <value type="string" value="chrome_status_icon_124"/>
+        <value type="string" value="chrome_status_icon_123"/>
+        <value type="string" value="chrome_status_icon_122"/>
+        <value type="string" value="chrome_status_icon_121"/>
+        <value type="string" value="chrome_status_icon_120"/>
+        <value type="string" value="chrome_status_icon_119"/>
+        <value type="string" value="chrome_status_icon_118"/>
+        <value type="string" value="chrome_status_icon_117"/>
+        <value type="string" value="chrome_status_icon_116"/>
+        <value type="string" value="chrome_status_icon_115"/>
+        <value type="string" value="chrome_status_icon_114"/>
+        <value type="string" value="chrome_status_icon_113"/>
+        <value type="string" value="chrome_status_icon_112"/>
+        <value type="string" value="chrome_status_icon_111"/>
+        <value type="string" value="chrome_status_icon_110"/>
+        <value type="string" value="chrome_status_icon_109"/>
+        <value type="string" value="chrome_status_icon_108"/>
+        <value type="string" value="chrome_status_icon_107"/>
+        <value type="string" value="chrome_status_icon_106"/>
+        <value type="string" value="chrome_status_icon_105"/>
+        <value type="string" value="chrome_status_icon_104"/>
+        <value type="string" value="chrome_status_icon_103"/>
+        <value type="string" value="chrome_status_icon_102"/>
+        <value type="string" value="chrome_status_icon_101"/>
+        <value type="string" value="chrome_status_icon_100"/>
+        <value type="string" value="chrome_status_icon_99"/>
+        <value type="string" value="chrome_status_icon_98"/>
+        <value type="string" value="chrome_status_icon_97"/>
+        <value type="string" value="chrome_status_icon_96"/>
+        <value type="string" value="chrome_status_icon_95"/>
+        <value type="string" value="chrome_status_icon_94"/>
+        <value type="string" value="chrome_status_icon_93"/>
+        <value type="string" value="chrome_status_icon_92"/>
+        <value type="string" value="chrome_status_icon_91"/>
+        <value type="string" value="chrome_status_icon_90"/>
+        <value type="string" value="chrome_status_icon_89"/>
+        <value type="string" value="chrome_status_icon_88"/>
+        <value type="string" value="chrome_status_icon_87"/>
+        <value type="string" value="chrome_status_icon_86"/>
+        <value type="string" value="chrome_status_icon_85"/>
+        <value type="string" value="chrome_status_icon_84"/>
+        <value type="string" value="chrome_status_icon_83"/>
+        <value type="string" value="chrome_status_icon_82"/>
+        <value type="string" value="chrome_status_icon_81"/>
+        <value type="string" value="chrome_status_icon_80"/>
+        <value type="string" value="chrome_status_icon_79"/>
+        <value type="string" value="chrome_status_icon_78"/>
+        <value type="string" value="chrome_status_icon_77"/>
+        <value type="string" value="chrome_status_icon_76"/>
+        <value type="string" value="chrome_status_icon_75"/>
+        <value type="string" value="chrome_status_icon_74"/>
+        <value type="string" value="chrome_status_icon_73"/>
+        <value type="string" value="chrome_status_icon_72"/>
+        <value type="string" value="chrome_status_icon_71"/>
+        <value type="string" value="chrome_status_icon_70"/>
+        <value type="string" value="chrome_status_icon_69"/>
+        <value type="string" value="chrome_status_icon_68"/>
+        <value type="string" value="chrome_status_icon_67"/>
+        <value type="string" value="chrome_status_icon_66"/>
+        <value type="string" value="chrome_status_icon_65"/>
+        <value type="string" value="chrome_status_icon_64"/>
+        <value type="string" value="chrome_status_icon_63"/>
+        <value type="string" value="chrome_status_icon_62"/>
+        <value type="string" value="chrome_status_icon_61"/>
+        <value type="string" value="chrome_status_icon_60"/>
+        <value type="string" value="chrome_status_icon_59"/>
+        <value type="string" value="chrome_status_icon_58"/>
+        <value type="string" value="chrome_status_icon_57"/>
+        <value type="string" value="chrome_status_icon_56"/>
+        <value type="string" value="chrome_status_icon_55"/>
+        <value type="string" value="chrome_status_icon_54"/>
+        <value type="string" value="chrome_status_icon_53"/>
+        <value type="string" value="chrome_status_icon_52"/>
+        <value type="string" value="chrome_status_icon_51"/>
+        <value type="string" value="chrome_status_icon_50"/>
+        <value type="string" value="chrome_status_icon_49"/>
+        <value type="string" value="chrome_status_icon_48"/>
+        <value type="string" value="chrome_status_icon_47"/>
+        <value type="string" value="chrome_status_icon_46"/>
+        <value type="string" value="chrome_status_icon_45"/>
+        <value type="string" value="chrome_status_icon_44"/>
+        <value type="string" value="chrome_status_icon_43"/>
+        <value type="string" value="chrome_status_icon_42"/>
+        <value type="string" value="chrome_status_icon_41"/>
+        <value type="string" value="chrome_status_icon_40"/>
+        <value type="string" value="chrome_status_icon_39"/>
+        <value type="string" value="chrome_status_icon_38"/>
+        <value type="string" value="chrome_status_icon_37"/>
+        <value type="string" value="chrome_status_icon_36"/>
+        <value type="string" value="chrome_status_icon_35"/>
+        <value type="string" value="chrome_status_icon_34"/>
+        <value type="string" value="chrome_status_icon_33"/>
+        <value type="string" value="chrome_status_icon_32"/>
+        <value type="string" value="chrome_status_icon_31"/>
+        <value type="string" value="chrome_status_icon_30"/>
+        <value type="string" value="chrome_status_icon_29"/>
+        <value type="string" value="chrome_status_icon_28"/>
+        <value type="string" value="chrome_status_icon_27"/>
+        <value type="string" value="chrome_status_icon_26"/>
+        <value type="string" value="chrome_status_icon_25"/>
+        <value type="string" value="chrome_status_icon_24"/>
+        <value type="string" value="chrome_status_icon_23"/>
+        <value type="string" value="chrome_status_icon_22"/>
+        <value type="string" value="chrome_status_icon_21"/>
+        <value type="string" value="chrome_status_icon_20"/>
+        <value type="string" value="chrome_status_icon_19"/>
+        <value type="string" value="chrome_status_icon_18"/>
+        <value type="string" value="chrome_status_icon_17"/>
+        <value type="string" value="chrome_status_icon_16"/>
+        <value type="string" value="chrome_status_icon_15"/>
+        <value type="string" value="chrome_status_icon_14"/>
+        <value type="string" value="chrome_status_icon_13"/>
+        <value type="string" value="chrome_status_icon_12"/>
+        <value type="string" value="chrome_status_icon_11"/>
+        <value type="string" value="chrome_status_icon_10"/>
+        <value type="string" value="chrome_status_icon_9"/>
+        <value type="string" value="chrome_status_icon_8"/>
+        <value type="string" value="chrome_status_icon_7"/>
+        <value type="string" value="chrome_status_icon_6"/>
+        <value type="string" value="chrome_status_icon_5"/>
+        <value type="string" value="chrome_status_icon_4"/>
+        <value type="string" value="chrome_status_icon_3"/>
+        <value type="string" value="chrome_status_icon_2"/>
+        <value type="string" value="software-update-available"/>
+        <value type="string" value="discord1"/>
+        <value type="string" value="chrome_status_icon_1"/>
+        <value type="string" value="steam"/>
+        <value type="string" value="blueman"/>
+        <value type="string" value="nm-applet"/>
+      </property>
+    </property>
+    <property name="plugin-8" type="string" value="power-manager-plugin"/>
+    <property name="plugin-9" type="string" value="pulseaudio">
+      <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
+      <property name="enable-mpris" type="bool" value="true"/>
+      <property name="mixer-command" type="string" value="pavucontrol"/>
+      <property name="mpris-players" type="string" value="chrome.instance13624;chrome.instance15471;chrome.instance15863;chrome.instance1826;chrome.instance1884;chrome.instance1950;chrome.instance1995;chrome.instance1997;chrome.instance2003;chrome.instance2005;chrome.instance2025;chrome.instance2094;chrome.instance2105;chrome.instance2110;chrome.instance2124;chrome.instance2158;chrome.instance2181;chrome.instance2218;chrome.instance2229;chrome.instance2237;chrome.instance2253;chrome.instance2346;chrome.instance2391;chrome.instance24301;chrome.instance2506;chrome.instance2549;chrome.instance2734;chrome.instance2742;chrome.instance281841;chrome.instance2830;chrome.instance28313;chrome.instance2896;chrome.instance2961;chrome.instance3331;chrome.instance3625;chrome.instance3910;chrome.instance3925;chrome.instance4210;chrome.instance4848;chrome.instance4924;chrome.instance4942;chrome.instance5457;chrome.instance6773;chrome.instance6965;chrome.instance7243;chrome.instance7362;chrome.instance7421;chrome.instance7426;chrome.instance7604;chrome.instance9342;chromium.instance11118;chromium.instance11553;chromium.instance11819;chromium.instance12449;chromium.instance1422;chromium.instance14692;chromium.instance15016;chromium.instance1508;chromium.instance1512;chromium.instance1515;chromium.instance15223;chromium.instance15613;chromium.instance1604;chromium.instance16558;chromium.instance1679;chromium.instance1683;chromium.instance1698;chromium.instance1699;chromium.instance1729;chromium.instance1733;chromium.instance1786;chromium.instance1796;chromium.instance1801;chromium.instance1805;chromium.instance1817;chromium.instance1823;chromium.instance18417;chromium.instance1858;chromium.instance1908;chromium.instance1924;chromium.instance1933;chromium.instance1936;chromium.instance1937;chromium.instance1946;chromium.instance1947;chromium.instance1961;chromium.instance1968;chromium.instance1979;chromium.instance1984;chromium.instance2008;chromium.instance2018;chromium.instance2022;chromium.instance2030;chromium.instance2031;chromium.instance2032;chromium.instance2036;chromium.instance2055;chromium.instance2065;chromium.instance2095;chromium.instance2118;chromium.instance2127;chromium.instance2139;chromium.instance2151;chromium.instance2170;chromium.instance2180;chromium.instance2199;chromium.instance2221;chromium.instance2228;chromium.instance2249;chromium.instance2256;chromium.instance2266;chromium.instance2271;chromium.instance2283;chromium.instance2300;chromium.instance2310;chromium.instance2325;chromium.instance2329;chromium.instance2331;chromium.instance2352;chromium.instance2402;chromium.instance2424;chromium.instance2431;chromium.instance2439;chromium.instance2476;chromium.instance2492;chromium.instance2510;chromium.instance2521;chromium.instance2526;chromium.instance25351;chromium.instance2583;chromium.instance25885;chromium.instance2589;chromium.instance2599;chromium.instance26001;chromium.instance2711;chromium.instance2719;chromium.instance27789;chromium.instance2836;chromium.instance2941;chromium.instance31420;chromium.instance3157;chromium.instance3212;chromium.instance3242;chromium.instance3256;chromium.instance3271;chromium.instance3416;chromium.instance3454;chromium.instance3525;chromium.instance3529;chromium.instance3619;chromium.instance3625;chromium.instance3695;chromium.instance3713;chromium.instance3760;chromium.instance3794;chromium.instance3804;chromium.instance3894;chromium.instance3959;chromium.instance3982;chromium.instance4044;chromium.instance4084;chromium.instance4140;chromium.instance4174;chromium.instance4210;chromium.instance4290;chromium.instance4307;chromium.instance4341;chromium.instance43718;chromium.instance4461;chromium.instance4619;chromium.instance4674;chromium.instance4684;chromium.instance4765;chromium.instance5349;chromium.instance6210;chromium.instance6318;chromium.instance6358;chromium.instance6411;chromium.instance6669;chromium.instance6671;chromium.instance6842;chromium.instance8960;chromium.instance9578;parole;spotify;vlc"/>
+      <property name="show-notifications" type="bool" value="true"/>
+    </property>
+    <property name="plugin-10" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+      <property name="expand" type="bool" value="false"/>
+    </property>
+    <property name="plugin-11" type="string" value="clock">
+      <property name="digital-format" type="string" value="%d %b, %I:%M %p"/>
+      <property name="mode" type="uint" value="2"/>
+      <property name="fuzziness" type="uint" value="0"/>
+    </property>
+    <property name="plugin-12" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16006654211.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-13" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="15708962102.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-14" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="15919731313.desktop"/>
+        <value type="string" value="15813412561.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-15" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="15708962494.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-16" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="15708962675.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-18" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="15919730692.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-20" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="15718947481.desktop"/>
+      </property>
+    </property>
+    <property name="notes" type="empty">
+      <property name="global" type="empty">
+        <property name="background-color" type="string" value="#88B7E3"/>
+        <property name="skip-taskbar-hint" type="bool" value="true"/>
+        <property name="tabs-position" type="int" value="1"/>
+      </property>
+      <property name="new-window" type="empty">
+        <property name="sticky" type="bool" value="false"/>
+        <property name="width" type="int" value="300"/>
+        <property name="height" type="int" value="375"/>
+      </property>
+    </property>
+    <property name="plugin-23" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="15827811641.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-17" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16006656562.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-21" type="string" value="showdesktop"/>
+  </property>
+  <property name="configver" type="int" value="2"/>
+</channel>

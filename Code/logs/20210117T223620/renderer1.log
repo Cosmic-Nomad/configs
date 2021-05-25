@@ -1,0 +1,10 @@
+[2021-01-17 22:36:24.020] [renderer1] [error] Cannot read property 'write' of null: TypeError: Cannot read property 'write' of null
+    at IPCTransport.send (/home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension.js:2:16686)
+    at IPCTransport.close (/home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension.js:2:16722)
+    at RPCClient.destroy (/home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension.js:2:10534)
+    at RPCClient.dispose (/home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension.js:2:50612)
+    at activate (/home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension.js:2:53891)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+    at async Promise.all (index 9)
+    at async Promise.all (index 0)
+[2021-01-17 22:37:15.399] [renderer1] [error] EACCES: permission denied, open '/usr/share/code/resources/app/extensions/lua/package.json': Error: EACCES: permission denied, open '/usr/share/code/resources/app/extensions/lua/package.json'

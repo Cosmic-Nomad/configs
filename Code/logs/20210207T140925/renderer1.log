@@ -1,0 +1,11 @@
+[2021-02-07 14:10:21.101] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/jake/Documents/Web Development/portfolio/.vscode'
+[2021-02-07 14:10:57.943] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/jake/Documents/Web Development/portfolio/.vscode'
+[2021-02-07 15:08:16.836] [renderer1] [error] connection closed: Error: connection closed
+    at /home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension.js:2:2916
+    at Map.forEach (<anonymous>)
+    at IPCTransport.<anonymous> (/home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension.js:2:2894)
+    at Object.onceWrapper (events.js:313:26)
+    at IPCTransport.emit (events.js:228:7)
+    at IPCTransport.onClose (/home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension.js:2:16630)
+    at Socket.emit (events.js:223:5)
+    at Pipe.<anonymous> (net.js:664:12)

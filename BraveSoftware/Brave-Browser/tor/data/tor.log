@@ -1,0 +1,44 @@
+Feb 06 12:55:20.000 [notice] Tor 0.3.5.8 opening new log file.
+Feb 06 12:55:20.902 [notice] Tor 0.3.5.8 running on Linux with Libevent 2.1.9-beta, OpenSSL 1.0.2q, Zlib 1.2.11, Liblzma N/A, and Libzstd N/A.
+Feb 06 12:55:20.902 [notice] Tor can't help you if you use it wrong! Learn how to be safe at https://www.torproject.org/download/download#warning
+Feb 06 12:55:20.902 [notice] Configuration file "/nonexistent" not present, using reasonable defaults.
+Feb 06 12:55:20.909 [notice] Opening Socks listener on 127.0.0.1:9350
+Feb 06 12:55:20.909 [notice] Opened Socks listener on 127.0.0.1:9350
+Feb 06 12:55:20.909 [notice] Opening Control listener on 127.0.0.1:0
+Feb 06 12:55:20.909 [notice] Control listener listening on port 39175.
+Feb 06 12:55:20.909 [notice] Opened Control listener on 127.0.0.1:0
+Feb 06 12:55:20.000 [notice] Bootstrapped 0%: Starting
+Feb 06 12:55:20.000 [notice] Starting with guard context "default"
+Feb 06 12:55:21.000 [notice] Application request when we haven't used client functionality lately. Optimistically trying directory fetches again.
+Feb 06 12:55:21.000 [notice] Bootstrapped 5%: Connecting to directory server
+Feb 06 12:55:22.000 [notice] Bootstrapped 10%: Finishing handshake with directory server
+Feb 06 12:55:22.000 [notice] Bootstrapped 15%: Establishing an encrypted directory connection
+Feb 06 12:55:23.000 [notice] Bootstrapped 20%: Asking for networkstatus consensus
+Feb 06 12:55:23.000 [notice] Bootstrapped 25%: Loading networkstatus consensus
+Feb 06 12:55:25.000 [notice] I learned some more directory information, but not enough to build a circuit: We have no usable consensus.
+Feb 06 12:55:25.000 [notice] Bootstrapped 40%: Loading authority key certs
+Feb 06 12:55:25.000 [notice] The current consensus has no exit nodes. Tor can only build internal paths, such as paths to onion services.
+Feb 06 12:55:25.000 [notice] Bootstrapped 45%: Asking for relay descriptors for internal paths
+Feb 06 12:55:25.000 [notice] I learned some more directory information, but not enough to build a circuit: We need more microdescriptors: we have 0/6409, and can only build 0% of likely paths. (We have 0% of guards bw, 0% of midpoint bw, and 0% of end bw (no exits in consensus, using mid) = 0% of path bw.)
+Feb 06 12:55:26.000 [notice] I learned some more directory information, but not enough to build a circuit: We need more microdescriptors: we have 0/6409, and can only build 0% of likely paths. (We have 0% of guards bw, 0% of midpoint bw, and 0% of end bw (no exits in consensus, using mid) = 0% of path bw.)
+Feb 06 12:55:26.000 [notice] Bootstrapped 50%: Loading relay descriptors for internal paths
+Feb 06 12:55:27.000 [notice] The current consensus contains exit nodes. Tor can build exit and internal paths.
+Feb 06 12:55:28.000 [notice] Bootstrapped 57%: Loading relay descriptors
+Feb 06 12:55:28.000 [notice] Bootstrapped 66%: Loading relay descriptors
+Feb 06 12:55:28.000 [notice] Bootstrapped 71%: Loading relay descriptors
+Feb 06 12:55:35.000 [notice] Bootstrapped 80%: Connecting to the Tor network
+Feb 06 12:55:37.000 [notice] Bootstrapped 85%: Finishing handshake with first hop
+Feb 06 12:55:37.000 [notice] Bootstrapped 90%: Establishing a Tor circuit
+Feb 06 12:55:38.000 [notice] Bootstrapped 100%: Done
+Feb 06 12:55:40.000 [notice] Have tried resolving or connecting to address '[scrubbed]' at 3 different places. Giving up.
+Feb 06 12:55:44.000 [notice] Have tried resolving or connecting to address '[scrubbed]' at 3 different places. Giving up.
+Feb 06 12:55:54.000 [notice] Have tried resolving or connecting to address '[scrubbed]' at 3 different places. Giving up.
+Feb 06 12:56:20.000 [notice] Have tried resolving or connecting to address '[scrubbed]' at 3 different places. Giving up.
+Feb 06 12:56:21.000 [notice] Have tried resolving or connecting to address '[scrubbed]' at 3 different places. Giving up.
+Feb 06 12:57:02.000 [notice] Have tried resolving or connecting to address '[scrubbed]' at 3 different places. Giving up.
+Feb 06 12:57:37.000 [notice] Have tried resolving or connecting to address '[scrubbed]' at 3 different places. Giving up.
+Feb 06 12:58:00.000 [notice] Have tried resolving or connecting to address '[scrubbed]' at 3 different places. Giving up.
+Feb 06 12:59:45.000 [notice] Have tried resolving or connecting to address '[scrubbed]' at 3 different places. Giving up.
+Feb 06 13:01:14.000 [notice] Have tried resolving or connecting to address '[scrubbed]' at 3 different places. Giving up.
+Feb 06 13:02:50.000 [notice] Have tried resolving or connecting to address '[scrubbed]' at 3 different places. Giving up.
+Feb 06 13:03:56.000 [notice] Catching signal TERM, exiting cleanly.

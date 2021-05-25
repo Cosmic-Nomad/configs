@@ -1,0 +1,239 @@
+[2021-01-24 18:47:41.729] [exthost] [info] extension host started
+[2021-01-24 18:47:41.768] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-01-24 18:47:41.768] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-01-24 18:47:41.789] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-01-24 18:47:41.790] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-01-24 18:47:41.796] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2021-01-24 18:47:41.796] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-01-24 18:47:41.822] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-01-24 18:47:41.822] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2021-01-24 18:47:41.849] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2021-01-24 18:47:41.849] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-01-24 18:47:41.855] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2021-01-24 18:47:41.855] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2021-01-24 18:47:41.858] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2021-01-24 18:47:41.858] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/christian-kohler.path-intellisense-2.3.0/out/extension.js
+[2021-01-24 18:47:41.885] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"extensionId":{"value":"Equinusocio.vsc-material-theme","_lower":"equinusocio.vsc-material-theme"},"activationEvent":"*"}
+[2021-01-24 18:47:41.885] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/equinusocio.vsc-material-theme-33.1.2/build/material.theme.config
+[2021-01-24 18:47:41.898] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons {"startup":true,"extensionId":{"value":"equinusocio.vsc-material-theme-icons","_lower":"equinusocio.vsc-material-theme-icons"},"activationEvent":"*"}
+[2021-01-24 18:47:41.899] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/equinusocio.vsc-material-theme-icons-1.2.2/out/src/extension
+[2021-01-24 18:47:41.917] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-close-tag","_lower":"formulahendry.auto-close-tag"},"activationEvent":"*"}
+[2021-01-24 18:47:41.917] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/formulahendry.auto-close-tag-0.5.10/out/src/extension
+[2021-01-24 18:47:41.921] [exthost] [info] ExtensionService#_doActivateExtension icrawl.discord-vscode {"startup":true,"extensionId":{"value":"icrawl.discord-vscode","_lower":"icrawl.discord-vscode"},"activationEvent":"*"}
+[2021-01-24 18:47:41.921] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension
+[2021-01-24 18:47:41.929] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-01-24 18:47:41.929] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/pkief.material-icon-theme-4.5.0/dist/extension
+[2021-01-24 18:47:41.957] [exthost] [info] ExtensionService#_doActivateExtension pranaygp.vscode-css-peek {"startup":true,"extensionId":{"value":"pranaygp.vscode-css-peek","_lower":"pranaygp.vscode-css-peek"},"activationEvent":"*"}
+[2021-01-24 18:47:41.957] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/pranaygp.vscode-css-peek-4.0.2/client/out/extension
+[2021-01-24 18:47:42.022] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2021-01-24 18:47:42.022] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2021-01-24 18:47:42.625] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2021-01-24 18:47:42.625] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/vscode-icons-team.vscode-icons-11.1.0/dist/src/vscode-icons.bundle.js
+[2021-01-24 18:47:42.669] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion {"startup":true,"extensionId":{"value":"Zignd.html-css-class-completion","_lower":"zignd.html-css-class-completion"},"activationEvent":"*"}
+[2021-01-24 18:47:42.669] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/zignd.html-css-class-completion-1.20.0/dist/extension.js
+[2021-01-24 18:47:43.443] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-01-24 18:47:43.443] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-01-24 18:47:43.568] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-01-24 18:47:43.568] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-01-24 18:47:43.804] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-01-24 18:47:43.804] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-01-24 18:47:44.635] [exthost] [info] eager extensions activated
+[2021-01-24 18:47:44.638] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2021-01-24 18:47:44.638] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/dbaeumer.vscode-eslint-2.1.14/client/out/extension
+[2021-01-24 18:47:44.654] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":false,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"onStartupFinished"}
+[2021-01-24 18:47:44.654] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/eamodio.gitlens-11.1.3/dist/gitlens
+[2021-01-24 18:47:44.811] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-01-24 18:47:44.812] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/esbenp.prettier-vscode-5.8.0/dist/extension
+[2021-01-24 18:47:44.889] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github {"startup":false,"extensionId":{"value":"GitHub.vscode-pull-request-github","_lower":"github.vscode-pull-request-github"},"activationEvent":"onStartupFinished"}
+[2021-01-24 18:47:44.890] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/github.vscode-pull-request-github-0.22.0/media/extension
+[2021-01-24 18:47:45.059] [exthost] [error] Activating extension GitHub.vscode-pull-request-github failed due to an error:
+[2021-01-24 18:47:45.084] [exthost] [error] HttpError: request to https://api.github.com/user failed, reason: getaddrinfo ENOTFOUND api.github.com
+    at /home/jake/.vscode/extensions/github.vscode-pull-request-github-0.22.0/media/extension.js:35:1824
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+[2021-01-24 18:50:58.200] [exthost] [info] extension host started
+[2021-01-24 18:50:58.253] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-01-24 18:50:58.253] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-01-24 18:50:58.269] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-01-24 18:50:58.269] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-01-24 18:50:58.273] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2021-01-24 18:50:58.273] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-01-24 18:50:58.291] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-01-24 18:50:58.292] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2021-01-24 18:50:58.318] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2021-01-24 18:50:58.318] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-01-24 18:50:58.321] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2021-01-24 18:50:58.322] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2021-01-24 18:50:58.323] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2021-01-24 18:50:58.324] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/christian-kohler.path-intellisense-2.3.0/out/extension.js
+[2021-01-24 18:50:58.338] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"extensionId":{"value":"Equinusocio.vsc-material-theme","_lower":"equinusocio.vsc-material-theme"},"activationEvent":"*"}
+[2021-01-24 18:50:58.338] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/equinusocio.vsc-material-theme-33.1.2/build/material.theme.config
+[2021-01-24 18:50:58.347] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons {"startup":true,"extensionId":{"value":"equinusocio.vsc-material-theme-icons","_lower":"equinusocio.vsc-material-theme-icons"},"activationEvent":"*"}
+[2021-01-24 18:50:58.347] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/equinusocio.vsc-material-theme-icons-1.2.2/out/src/extension
+[2021-01-24 18:50:58.357] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-close-tag","_lower":"formulahendry.auto-close-tag"},"activationEvent":"*"}
+[2021-01-24 18:50:58.357] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/formulahendry.auto-close-tag-0.5.10/out/src/extension
+[2021-01-24 18:50:58.358] [exthost] [info] ExtensionService#_doActivateExtension icrawl.discord-vscode {"startup":true,"extensionId":{"value":"icrawl.discord-vscode","_lower":"icrawl.discord-vscode"},"activationEvent":"*"}
+[2021-01-24 18:50:58.358] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension
+[2021-01-24 18:50:58.366] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-01-24 18:50:58.366] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/pkief.material-icon-theme-4.5.0/dist/extension
+[2021-01-24 18:50:58.378] [exthost] [info] ExtensionService#_doActivateExtension pranaygp.vscode-css-peek {"startup":true,"extensionId":{"value":"pranaygp.vscode-css-peek","_lower":"pranaygp.vscode-css-peek"},"activationEvent":"*"}
+[2021-01-24 18:50:58.378] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/pranaygp.vscode-css-peek-4.0.2/client/out/extension
+[2021-01-24 18:50:58.428] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2021-01-24 18:50:58.428] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2021-01-24 18:50:58.772] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2021-01-24 18:50:58.773] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/vscode-icons-team.vscode-icons-11.1.0/dist/src/vscode-icons.bundle.js
+[2021-01-24 18:50:58.794] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion {"startup":true,"extensionId":{"value":"Zignd.html-css-class-completion","_lower":"zignd.html-css-class-completion"},"activationEvent":"*"}
+[2021-01-24 18:50:58.794] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/zignd.html-css-class-completion-1.20.0/dist/extension.js
+[2021-01-24 18:50:59.229] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-01-24 18:50:59.229] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-01-24 18:50:59.364] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-01-24 18:50:59.364] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-01-24 18:50:59.908] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2021-01-24 18:50:59.908] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-01-24 18:50:59.970] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments {"startup":false,"extensionId":{"value":"aaron-bond.better-comments","_lower":"aaron-bond.better-comments"},"activationEvent":"onLanguage:javascript"}
+[2021-01-24 18:50:59.970] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/aaron-bond.better-comments-2.1.0/out/extension
+[2021-01-24 18:50:59.975] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.npm-intellisense {"startup":false,"extensionId":{"value":"christian-kohler.npm-intellisense","_lower":"christian-kohler.npm-intellisense"},"activationEvent":"onLanguage:javascript"}
+[2021-01-24 18:50:59.975] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/christian-kohler.npm-intellisense-1.3.1/out/src/extension
+[2021-01-24 18:51:00.199] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-01-24 18:51:00.199] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-01-24 18:51:02.906] [exthost] [info] eager extensions activated
+[2021-01-24 18:51:02.942] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2021-01-24 18:51:02.942] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/dbaeumer.vscode-eslint-2.1.14/client/out/extension
+[2021-01-24 18:51:02.973] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":false,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"onStartupFinished"}
+[2021-01-24 18:51:02.974] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/eamodio.gitlens-11.1.3/dist/gitlens
+[2021-01-24 18:51:03.167] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-01-24 18:51:03.168] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/esbenp.prettier-vscode-5.8.0/dist/extension
+[2021-01-24 18:51:03.266] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github {"startup":false,"extensionId":{"value":"GitHub.vscode-pull-request-github","_lower":"github.vscode-pull-request-github"},"activationEvent":"onStartupFinished"}
+[2021-01-24 18:51:03.266] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/github.vscode-pull-request-github-0.22.0/media/extension
+[2021-01-24 18:51:03.729] [exthost] [error] Activating extension GitHub.vscode-pull-request-github failed due to an error:
+[2021-01-24 18:51:03.774] [exthost] [error] HttpError: request to https://api.github.com/user failed, reason: getaddrinfo ENOTFOUND api.github.com
+    at /home/jake/.vscode/extensions/github.vscode-pull-request-github-0.22.0/media/extension.js:35:1824
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+[2021-01-24 19:11:43.396] [exthost] [info] extension host started
+[2021-01-24 19:11:43.434] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-01-24 19:11:43.434] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-01-24 19:11:43.446] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-01-24 19:11:43.446] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-01-24 19:11:43.448] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2021-01-24 19:11:43.448] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-01-24 19:11:43.462] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-01-24 19:11:43.462] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2021-01-24 19:11:43.478] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2021-01-24 19:11:43.478] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-01-24 19:11:43.481] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2021-01-24 19:11:43.481] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2021-01-24 19:11:43.483] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2021-01-24 19:11:43.483] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/christian-kohler.path-intellisense-2.3.0/out/extension.js
+[2021-01-24 19:11:43.496] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"extensionId":{"value":"Equinusocio.vsc-material-theme","_lower":"equinusocio.vsc-material-theme"},"activationEvent":"*"}
+[2021-01-24 19:11:43.496] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/equinusocio.vsc-material-theme-33.1.2/build/material.theme.config
+[2021-01-24 19:11:43.504] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons {"startup":true,"extensionId":{"value":"equinusocio.vsc-material-theme-icons","_lower":"equinusocio.vsc-material-theme-icons"},"activationEvent":"*"}
+[2021-01-24 19:11:43.504] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/equinusocio.vsc-material-theme-icons-1.2.2/out/src/extension
+[2021-01-24 19:11:43.511] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"extensionId":{"value":"formulahendry.auto-close-tag","_lower":"formulahendry.auto-close-tag"},"activationEvent":"*"}
+[2021-01-24 19:11:43.511] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/formulahendry.auto-close-tag-0.5.10/out/src/extension
+[2021-01-24 19:11:43.512] [exthost] [info] ExtensionService#_doActivateExtension icrawl.discord-vscode {"startup":true,"extensionId":{"value":"icrawl.discord-vscode","_lower":"icrawl.discord-vscode"},"activationEvent":"*"}
+[2021-01-24 19:11:43.512] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension
+[2021-01-24 19:11:43.520] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-01-24 19:11:43.520] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/pkief.material-icon-theme-4.5.0/dist/extension
+[2021-01-24 19:11:43.533] [exthost] [info] ExtensionService#_doActivateExtension pranaygp.vscode-css-peek {"startup":true,"extensionId":{"value":"pranaygp.vscode-css-peek","_lower":"pranaygp.vscode-css-peek"},"activationEvent":"*"}
+[2021-01-24 19:11:43.533] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/pranaygp.vscode-css-peek-4.0.2/client/out/extension
+[2021-01-24 19:11:43.572] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2021-01-24 19:11:43.572] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2021-01-24 19:11:43.891] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2021-01-24 19:11:43.892] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/vscode-icons-team.vscode-icons-11.1.0/dist/src/vscode-icons.bundle.js
+[2021-01-24 19:11:43.913] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion {"startup":true,"extensionId":{"value":"Zignd.html-css-class-completion","_lower":"zignd.html-css-class-completion"},"activationEvent":"*"}
+[2021-01-24 19:11:43.913] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/zignd.html-css-class-completion-1.20.0/dist/extension.js
+[2021-01-24 19:11:44.267] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-01-24 19:11:44.267] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-01-24 19:11:44.406] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-01-24 19:11:44.407] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-01-24 19:11:44.687] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-01-24 19:11:44.687] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-01-24 19:11:45.314] [exthost] [info] eager extensions activated
+[2021-01-24 19:11:45.317] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2021-01-24 19:11:45.317] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/dbaeumer.vscode-eslint-2.1.14/client/out/extension
+[2021-01-24 19:11:45.327] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":false,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"onStartupFinished"}
+[2021-01-24 19:11:45.328] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/eamodio.gitlens-11.1.3/dist/gitlens
+[2021-01-24 19:11:45.366] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-01-24 19:11:45.366] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/esbenp.prettier-vscode-5.8.0/dist/extension
+[2021-01-24 19:11:45.451] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github {"startup":false,"extensionId":{"value":"GitHub.vscode-pull-request-github","_lower":"github.vscode-pull-request-github"},"activationEvent":"onStartupFinished"}
+[2021-01-24 19:11:45.451] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/github.vscode-pull-request-github-0.22.0/media/extension
+[2021-01-24 19:11:45.600] [exthost] [error] Activating extension GitHub.vscode-pull-request-github failed due to an error:
+[2021-01-24 19:11:45.624] [exthost] [error] HttpError: request to https://api.github.com/user failed, reason: getaddrinfo ENOTFOUND api.github.com
+    at /home/jake/.vscode/extensions/github.vscode-pull-request-github-0.22.0/media/extension.js:35:1824
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+[2021-01-24 19:12:50.858] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments {"startup":false,"extensionId":{"value":"aaron-bond.better-comments","_lower":"aaron-bond.better-comments"},"activationEvent":"onLanguage:plaintext"}
+[2021-01-24 19:12:50.858] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/aaron-bond.better-comments-2.1.0/out/extension
+[2021-01-24 19:13:51.954] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2021-01-24 19:13:51.954] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/html-language-features/client/dist/node/htmlClientMain
+[2021-01-24 19:14:44.987] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2021-01-24 19:14:44.987] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-01-24 19:14:45.011] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.npm-intellisense {"startup":false,"extensionId":{"value":"christian-kohler.npm-intellisense","_lower":"christian-kohler.npm-intellisense"},"activationEvent":"onLanguage:javascript"}
+[2021-01-24 19:14:45.011] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/christian-kohler.npm-intellisense-1.3.1/out/src/extension
+[2021-01-24 19:15:16.494] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2021-01-24 19:15:16.494] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-01-24 19:19:07.119] [exthost] [info] extension host started
+[2021-01-24 19:19:07.163] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-01-24 19:19:07.163] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-01-24 19:19:07.180] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-01-24 19:19:07.180] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-01-24 19:19:07.262] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":false,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-01-24 19:19:07.263] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-01-24 19:19:07.265] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2021-01-24 19:19:07.265] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-01-24 19:19:07.283] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-01-24 19:19:07.284] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2021-01-24 19:19:07.299] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2021-01-24 19:19:07.299] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-01-24 19:19:07.301] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":false,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2021-01-24 19:19:07.301] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2021-01-24 19:19:07.302] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":false,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2021-01-24 19:19:07.302] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/christian-kohler.path-intellisense-2.3.0/out/extension.js
+[2021-01-24 19:19:07.314] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":false,"extensionId":{"value":"Equinusocio.vsc-material-theme","_lower":"equinusocio.vsc-material-theme"},"activationEvent":"*"}
+[2021-01-24 19:19:07.314] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/equinusocio.vsc-material-theme-33.1.2/build/material.theme.config
+[2021-01-24 19:19:07.321] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons {"startup":false,"extensionId":{"value":"equinusocio.vsc-material-theme-icons","_lower":"equinusocio.vsc-material-theme-icons"},"activationEvent":"*"}
+[2021-01-24 19:19:07.321] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/equinusocio.vsc-material-theme-icons-1.2.2/out/src/extension
+[2021-01-24 19:19:07.328] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":false,"extensionId":{"value":"formulahendry.auto-close-tag","_lower":"formulahendry.auto-close-tag"},"activationEvent":"*"}
+[2021-01-24 19:19:07.328] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/formulahendry.auto-close-tag-0.5.10/out/src/extension
+[2021-01-24 19:19:07.329] [exthost] [info] ExtensionService#_doActivateExtension icrawl.discord-vscode {"startup":false,"extensionId":{"value":"icrawl.discord-vscode","_lower":"icrawl.discord-vscode"},"activationEvent":"*"}
+[2021-01-24 19:19:07.329] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/icrawl.discord-vscode-4.1.0/dist/extension
+[2021-01-24 19:19:07.336] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":false,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-01-24 19:19:07.336] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/pkief.material-icon-theme-4.5.0/dist/extension
+[2021-01-24 19:19:07.347] [exthost] [info] ExtensionService#_doActivateExtension pranaygp.vscode-css-peek {"startup":false,"extensionId":{"value":"pranaygp.vscode-css-peek","_lower":"pranaygp.vscode-css-peek"},"activationEvent":"*"}
+[2021-01-24 19:19:07.347] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/pranaygp.vscode-css-peek-4.0.2/client/out/extension
+[2021-01-24 19:19:07.376] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":false,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2021-01-24 19:19:07.376] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2021-01-24 19:19:07.691] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":false,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2021-01-24 19:19:07.691] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/vscode-icons-team.vscode-icons-11.1.0/dist/src/vscode-icons.bundle.js
+[2021-01-24 19:19:07.716] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion {"startup":false,"extensionId":{"value":"Zignd.html-css-class-completion","_lower":"zignd.html-css-class-completion"},"activationEvent":"*"}
+[2021-01-24 19:19:07.716] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/zignd.html-css-class-completion-1.20.0/dist/extension.js
+[2021-01-24 19:19:07.797] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-01-24 19:19:07.797] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-01-24 19:19:07.803] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments {"startup":false,"extensionId":{"value":"aaron-bond.better-comments","_lower":"aaron-bond.better-comments"},"activationEvent":"onLanguage:plaintext"}
+[2021-01-24 19:19:07.803] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/aaron-bond.better-comments-2.1.0/out/extension
+[2021-01-24 19:19:07.805] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2021-01-24 19:19:07.805] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/html-language-features/client/dist/node/htmlClientMain
+[2021-01-24 19:19:07.816] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:javascript"}
+[2021-01-24 19:19:07.816] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2021-01-24 19:19:07.827] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.npm-intellisense {"startup":false,"extensionId":{"value":"christian-kohler.npm-intellisense","_lower":"christian-kohler.npm-intellisense"},"activationEvent":"onLanguage:javascript"}
+[2021-01-24 19:19:07.827] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/christian-kohler.npm-intellisense-1.3.1/out/src/extension
+[2021-01-24 19:19:07.853] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:typescript"}
+[2021-01-24 19:19:07.853] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-01-24 19:19:09.327] [exthost] [warning] DiagnosticCollection with name 'css-peek' does already exist.
+[2021-01-24 19:19:14.107] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-01-24 19:19:14.107] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-01-24 19:19:14.117] [exthost] [info] eager extensions activated
+[2021-01-24 19:19:14.128] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"onStartupFinished"}
+[2021-01-24 19:19:14.128] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/dbaeumer.vscode-eslint-2.1.14/client/out/extension
+[2021-01-24 19:19:14.144] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":false,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"onStartupFinished"}
+[2021-01-24 19:19:14.144] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/eamodio.gitlens-11.1.3/dist/gitlens
+[2021-01-24 19:19:14.202] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-01-24 19:19:14.202] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/esbenp.prettier-vscode-5.8.0/dist/extension
+[2021-01-24 19:19:14.274] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github {"startup":false,"extensionId":{"value":"GitHub.vscode-pull-request-github","_lower":"github.vscode-pull-request-github"},"activationEvent":"onStartupFinished"}
+[2021-01-24 19:19:14.274] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jake/.vscode/extensions/github.vscode-pull-request-github-0.22.0/media/extension
+[2021-01-24 19:19:14.562] [exthost] [error] Activating extension GitHub.vscode-pull-request-github failed due to an error:
+[2021-01-24 19:19:14.597] [exthost] [error] HttpError: request to https://api.github.com/user failed, reason: getaddrinfo ENOTFOUND api.github.com
+    at /home/jake/.vscode/extensions/github.vscode-pull-request-github-0.22.0/media/extension.js:35:1824
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)

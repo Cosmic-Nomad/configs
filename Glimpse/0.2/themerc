@@ -1,0 +1,17 @@
+# Glimpse themerc
+#
+# This file is written on Glimpse startup and on every theme change.
+# It is NOT supposed to be edited manually. Edit your personal
+# gtkrc file instead (/home/jake/.config/Glimpse/0.2/gtkrc).
+
+style "gimp-spin-scale-style"
+{
+  GimpSpinScale::compact = 1
+}
+
+class "GimpSpinScale" style "gimp-spin-scale-style"
+
+include "/tmp/.mount_GlimpsRRVTUM/usr/share/glimpse/2.0/themes/Dark/gtkrc"
+include "/tmp/.mount_GlimpsRRVTUM/usr/etc/glimpse/2.0/gtkrc"
+
+# end of themerc

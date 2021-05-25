@@ -1,0 +1,44 @@
+{
+	"experiments": [
+		"none"
+	],
+	"prefetchStatic": true,
+	"appWindowState": {
+		"maximized": true,
+		"fullscreen": false,
+		"bounds": {
+			"x": 1,
+			"y": 21,
+			"width": 1918,
+			"height": 1058
+		}
+	},
+	"spellchecker": {
+		"enabled": true
+	},
+	"enableSecurityFileWrite": true,
+	"makeDefaultMailApp": false,
+	"appUpdater": {
+		"autoCheck": true,
+		"autoUpdateErrorCount": 0
+	},
+	"syncDarkMode": true,
+	"oneTimeMessages": {
+		"publicSystems": 1
+	},
+	"deployment": "zoho",
+	"housekeeping": {
+		"staticBundleCleanup": "1.0.10"
+	},
+	"downloadPreferences": {
+		"folderPath": "/home/jake/Downloads",
+		"askMeDownload": true
+	},
+	"migration": {
+		"multiAccount": true,
+		"elecDowngrade": true
+	},
+	"viewMenu": {
+		"notificationBadge": true
+	}
+}

@@ -1,0 +1,5 @@
+2019/12/19-16:15:09.164 1abb Reusing MANIFEST /home/jake/.config/vivaldi/Default/IndexedDB/https_www.cwtv.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/12/19-16:15:09.831 4ebd Level-0 table #5: started
+2019/12/19-16:15:09.832 4ebd Level-0 table #5: 560 bytes OK
+2019/12/19-16:15:09.834 4ebd Delete type=0 #3
+2019/12/19-16:15:09.834 4ebd Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,24 @@
+[DownloadDialog Settings]
+Height 1080=494
+Width 1920=700
+
+[KFileDialog Settings]
+Recent Files[$e]=aperture-vintage-SshYpuf607g-unsplash.jpg,file:$HOME/Pictures/CosmicImages/patrick-mcmanaman-LN_g3qA8ohg-unsplash.jpg,file:$HOME/Pictures/CosmicImages/nasa-vltMzn0jqsA-unsplash.jpg,file:$HOME/Pictures/CosmicImages/nasa--hI5dX2ObAs-unsplash.jpg,file:$HOME/Pictures/CosmicImages/mathew-schwartz-7YiZKj9A3DM-unsplash.jpg,file:$HOME/Pictures/CosmicImages/federico-beccari-L8126OwlroY-unsplash.jpg,file:$HOME/Pictures/CosmicImages/eberhard-grossgasteiger-cs0sK0gzqCU-unsplash.jpg,file:$HOME/Pictures/CosmicImages/cosmic-7.jpeg,file:$HOME/Pictures/CosmicImages/cosmic-6.jpeg,file:$HOME/Pictures/CosmicImages/cosmic-5.jpeg,file:$HOME/Pictures/CosmicImages/cosmic-4.jpeg,file:$HOME/Pictures/CosmicImages/cosmic-3.jpeg,file:$HOME/Pictures/CosmicImages/cosmic-2.jpeg,file:$HOME/Pictures/CosmicImages/cosmic-1.jpeg,file:$HOME/Pictures/CosmicImages/aperture-vintage-SshYpuf607g-unsplash.jpg
+Recent URLs[$e]=file:$HOME/Pictures/CosmicImages/
+detailViewIconSize=0
+
+[PlasmaRunnerManager]
+LaunchCounts=1 services_com.obsproject.Studio.desktop,3 services_discord-canary.desktop,1 services_org.bluesabre.SgtLauncher.desktop,8 services_terminator.desktop,2 services_xfce4-screenshooter.desktop,1 services_emacs-term.desktop,1 services_org.gnome.Software.desktop,1 services_mate-calc.desktop,1 services_nic.desktop
+pluginWhiteList=desktopsessions,services,places,PowerDevil,calculator,unitconverter,shell,bookmarks,recentdocuments,locations,baloosearch
+
+[PlasmaViews][Panel 2][Defaults]
+thickness=36
+
+[PlasmaViews][Panel 2][Horizontal1920]
+thickness=36
+
+[ScreenConnectors]
+0=eDP
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/desktop-base.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js

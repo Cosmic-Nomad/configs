@@ -1,0 +1,33 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=10bbd77761000161340623800000018550003
+clientId2=10bbd77761000161454147100000018300006
+clientId3=10bbd77761000161454147100000018300009
+clientId4=10bbd77761000161461689500000018300011
+count=4
+discardCommand1[$e]=rm,$HOME/.config/session/kwin_10bbd77761000161340623800000018550003_1614887979_37024
+program1=/usr/bin/kwin_x11
+program2=/usr/lib/x86_64-linux-gnu/libexec/DiscoverNotifier
+program3=pulseaudio
+program4=/usr/bin/plasma-discover
+restartCommand1=/usr/bin/kwin_x11,-session,10bbd77761000161340623800000018550003_1614887979_37024
+restartCommand2=/usr/lib/x86_64-linux-gnu/libexec/DiscoverNotifier,-session,10bbd77761000161454147100000018300006_1614887964_419096
+restartCommand3=
+restartCommand4=/usr/bin/plasma-discover,-session,10bbd77761000161461689500000018300011_1614616896_763270
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+restartStyleHint4=0
+userId1=jake
+userId2=jake
+userId3=jake
+userId4=jake
+wasWm1=true
+wasWm2=false
+wasWm3=false
+wasWm4=false
